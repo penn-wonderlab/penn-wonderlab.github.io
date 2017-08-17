@@ -3,7 +3,7 @@ bodong:
     webpage: "http://bodong.ch/"
     github: meefen
     role: faculty
-    image: http://bodong.ch/assets/images/bodong.jpg
+    image: /img/people/bodong.jpg
     bio: "Assistant Professor"
         # Bodong Chen is an Assistant Professor in the Department of Curriculum and Instruction in the College of Education and Human Development at the University of Minnesota, where he does research in learning technologies, learning analytics, and knowledge building.
 
@@ -20,7 +20,7 @@ yuhui:
     role: grad
     image:
     bio: "PhD student in Learning Technologies"
-    
+
 ethan:
     display_name: "Ethan Brown"
     webpage: "http://statisfactions.com/"
