@@ -8,7 +8,7 @@ people:
   - xing
 
 layout: project
-status: active
+status: inactive
 
 ---
 
