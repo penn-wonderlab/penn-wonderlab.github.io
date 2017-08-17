@@ -1,432 +1,72 @@
-luisceze:
-    display_name: "Luis Ceze"
-    webpage: "https://homes.cs.washington.edu/~luisceze/"
-    github: luisceze
+bodong:
+    display_name: "Bodong Chen"
+    webpage: "http://bodong.ch/"
+    github: meefen
     role: faculty
-    image: /img/people/ceze.jpg
-    bio: "Associate Professor"
+    image: http://bodong.ch/assets/images/bodong.jpg
+    bio: "Assistant Professor"
+        # Bodong Chen is an Assistant Professor in the Department of Curriculum and Instruction in the College of Education and Human Development at the University of Minnesota, where he does research in learning technologies, learning analytics, and knowledge building.
 
-eggers:
-    display_name: "Susan Eggers"
-    webpage: "http://homes.cs.washington.edu/~eggers/"
-    role: retired
-    image: /img/people/eggers.jpg
-    bio: "Emeritus Professor"
+fan:
+    display_name: "Fan Ouyang"
+    webpage: "https://fanouyang.net/"
+    role: grad
+    image: /img/people/fan.jpg
+    bio: "PhD Candidate in Learning Technologies"
+        # PhD Candidate in Learning Technologies program in the University of Minnesota. My research centers on learners’ online learning engagement as well as instructors’ online pedagogy development. I use social network analysis, content analysis and discourse analysis to analyze online interaction, participation, and collaborative learning. I have taught computer science courses in a Chinese university for 6 years, and currently teach undergraduate-level online courses of learning technologies and tools in education and business in the University of Minnesota.
 
-djg:
-    display_name: "Dan Grossman"
-    webpage: "https://homes.cs.washington.edu/~djg/"
-    role: faculty
-    image: /img/people/djg.jpg
-    bio: "Professor"
-
-oskin:
-    display_name: "Mark Oskin"
-    webpage: "https://homes.cs.washington.edu/~oskin/"
-    role: faculty
-    image: /img/people/oskin.jpg
-    bio: "Associate Professor"
-
-#drkp:
-#    display_name: "Dan Ports"
-#    webpage: "http://drkp.net/"
-#    role: faculty
-#    image: /img/people/drkp.jpg
-#    bio: "Research Assistant Professor"
-
-karin:
-    display_name: "Karin Strauss"
-    webpage: "http://research.microsoft.com/en-us/people/kstrauss/"
-    role: faculty
-    image: /img/people/karin.jpg
-    bio: "Researcher, Microsoft Research<br>Affiliate Associate Professor, UW CSE"
-
-billhowe:
-    display_name: "Bill Howe"
-    webpage: "http://homes.cs.washington.edu/~billhowe/"
-    image: /img/people/billhowe.jpg
-    bio: "Affiliate Faculty and Associate Director of eScience Institute"
-
-bodik:
-    display_name: "Ras Bodik"
-    webpage: "https://www.cs.washington.edu/people/faculty/bodik"
-    role: faculty
-    image: /img/people/bodik.jpg
-    bio: "Professor"
-
-# Staff
-
-melody:
-    display_name: "Melody Kadenko"
-    webpage: "http://www.cs.washington.edu/homes/melody/"
-    role: staff
-    image: //homes.cs.washington.edu/~melody/index_files/image002.gif
-    bio: "Program Director"
-
-
-# Postdocs
+yuhui:
+    display_name: "Yu-Hui Chang"
+    role: grad
+    image:
+    bio: "PhD student in Learning Technologies"
     
-armin:
-    display_name: "Armin Alaghi"
-    role: postdoc
-    webpage: "http://homes.cs.washington.edu/~armin/"
-    image: /img/people/armin.jpg
-
-# Grads
-
-bornholt: 
-    display_name: "James Bornholt"
-    webpage: "https://homes.cs.washington.edu/~bornholt/"
+ethan:
+    display_name: "Ethan Brown"
+    webpage: "http://statisfactions.com/"
     role: grad
-    image: "//homes.cs.washington.edu/~bornholt/img/me_square_bw.jpg"
+    image: /img/people/ethan.jpg
+    bio: "PhD student in Ed Psych"
+        # Ethan is a PhD student in EdPsych interested in statistical thinking.
 
-cowanmeg:
-    display_name: "Meghan Cowan"
+tianhui:
+    display_name: "Tianhui Huang"
+    # webpage: "https://fanouyang.net/"
+    role: vscholar
+    image: /img/people/thuang.jpg
+    bio: "PhD student from Fudan University"
+      # Tianhui is a visiting PhD student from Fudan University (China), who majors in educational economics and management. Tianhui got her master's degree in distance education and studied educational technology for her undergraduate degree. She is currently visiting the U for a year to work with Professor Chen.
+
+yizhou:
+    display_name: "Yizhou Fan"
+    role: vscholar
+    image:
+    bio: "PhD student from Peking University"
+
+ramya:
+    display_name: "Ramya Sivaraj"
+    # webpage: "https://fanouyang.net/"
     role: grad
-    image: /img/people/meghan.jpg
+    image: /img/people/sivaraj.png
+    bio: "PhD student in STEM Education"
+      # I am a PhD student in STEM Education, with a focus on diverse cultural perspectives in STEM learning and a supporting minor in Learning Technologies. My research interests include exploring collaborative relationships between families/communities and education, and utilizing various technologies towards such equitable collaborations. I completed my undergraduate degree in Chemistry/Philosophy, and my master’s degree in Geochemistry. I taught 8th grade science for five years in a highly diverse middle school with the Chicago Public Schools. I also taught Geology courses with Northwestern University’s School of Continuing Education for four years. I hope to integrate my experiences with teaching and learning, while working with families and educators towards better understanding factors that influence STEM engagement, opportunities, and outcomes.
 
-stdavids:
-    display_name: "Scott Davidson"
-    role: grad
-    image: /img/people/scott.jpg
+jon:
+    display_name: "Jonathan Shoberg"
+    webpage: "https://github.com/lordgentlehosen"
+    role: ugrad
+    image: /img/people/jon.jpg
+    bio: "Undergraduate student in CS"
+      # I am an undergraduate student studying computer science at the College of Science and Engineering at the University of Minnesota, with a focus in Human-Computer Interaction. I am interested in using technology in new and innovative ways to enhance learning experiences, and I have a particular interest in using video games for this purpose. In my studies, I have found that I have a passion for both technology and psychology, and I try to keep both of these things in mind in my work, to come up with the best solution possible for both the user and the software.
 
-cdel:
-    display_name: "Carlo Del Mundo"
-    webpage: "http://homes.cs.washington.edu/~cdel/"
-    role: grad
-    image: /img/people/cdel.jpg
-    
-ashe2:
-    display_name: "Sam Elliott"
-    webpage: "http://lenary.co.uk/"
-    role: grad
-    image: "http://lenary.co.uk/sam-elliott-2014-thumb.jpg"
-
-eafurst:
-    display_name: "Emily Furst"
-    webpage: "https://homes.cs.washington.edu/~eafurst/"
-    role: grad
-    image: /img/people/eafurst.jpg
-
-sungkim:
-    display_name: "Sung Min Kim"
-    webpage: http://sungkim.net/
-    role: grad
-    image: /img/people/sung.jpg
-
-vlee2:
-    display_name: Vincent Lee
-    webpage: "http://homes.cs.washington.edu/~vlee2/"
-    role: grad
-    image: /img/people/lee.jpg
-
-mgliu:
-    display_name: Ming Liu
-    webpage: "https://homes.cs.washington.edu/~mgliu/"
-    role: grad
-    image: /img/people/mgliu.jpg
-
-liangluo:
-    display_name: Liang Luo
-    role: grad
-    image: /img/people/liangluo.jpg
-
-amrita: 
-    display_name: Amrita Mazumdar
-    webpage: "https://homes.cs.washington.edu/~amrita"
-    role: grad
-    image: "//homes.cs.washington.edu/~amrita/assets/img/amz.jpg"
-
-moreau:
-    display_name: "Thierry Moreau"
-    webpage: "http://homes.cs.washington.edu/~moreau/"
-    role: grad
-    image: /img/people/moreau.jpg
-
-kendall:
-    display_name: "Kendall Stewart"
-    role: grad
-    image: /img/people/kendall.jpg
-
-mwillsey:
-    display_name: "Max Willsey"
-    webpage: "http://mwillsey.com"
-    role: grad
-    image: /img/people/max.jpg
-
-vegaluis:
-    display_name: "Luis Vega"
-    role: grad
-    image: /img/people/luis.jpg
-
-wysem:
-    display_name: "Mark Wyse"
-    webpage: "https://homes.cs.washington.edu/~wysem/"
-    role: grad
-    image: /img/people/wysem.jpg
-
-eqy:
-    display_name: "Eddie Yan"
-    webpage: "https://linux.ucla.edu/~eqy/"
-    role: grad
-    image: /img/people/eddie.jpg
-
-#iyzhang:
-#    display_name: "Irene Zhang"
-#    webpage: http://irenezhang.net/
-#    role: grad
-#    image: /img/people/iyzhang.jpg
-
-billzorn:
-    display_name: "Bill Zorn"
-    webpage: "http://homes.cs.washington.edu/~billzorn/"
-    role: grad
-    image: /img/people/billzorn.jpg
-
-# Alums
-
-jevdjic:
-    display_name: "Djordje Jevdjic"
-    role: "alum"
-    webpage: "http://parsa.epfl.ch/~jevdjic/"
-    image: /img/people/djordje.jpg
-    bio: "Postdoc 2015&ndash;2017. Now at Microsoft Research."
-bholt:
-    display_name: "Brandon Holt"
-    webpage: "https://homes.cs.washington.edu/~bholt/"
-    role: "alum"
-    image: /img/people/bholt.jpg
-    bio: "Ph.D., 2016. Now at Apple."
-bdmyers:
-    display_name: "Brandon Myers" 
-    webpage: "https://homes.cs.washington.edu/~bdmyers/"
-    role: "alum"
-    image: /img/people/myers.jpg
-    bio: "Ph.D., 2016. Now faculty at Iowa."
-nelson:
-    display_name: "Jacob Nelson"
-    role: "alum"
-    bio: "Ph.D., 2014. Postdoc 2014&ndash;2016. Now at Microsoft Research"
-    image: /img/people/nelson.jpg
-yorkw:
-    display_name: York Wei
-    role: alum
-    bio: "B.S., 2015. Now at VMWare."
-katelin:
-    display_name: "Katelin Bailey"
-    webpage: "https://homes.cs.washington.edu/~katelin/"
-    role: alum
-    bio: "M.S., 2015. Now at Microsoft."
-bboston:
-    display_name: Brett Boston
-    webpage: "http://people.csail.mit.edu/boston/"
-    role: alum
-    bio: "B.S., 2015. Now a PhD student at MIT."
-asampson:
-    display_name: "Adrian Sampson"
-    webpage: "http://adriansampson.net/"
-    image: /img/people/adrian.jpg
-    github: sampsyo
-    role: alum
-    bio: "Ph.D., 2015. Now faculty at Cornell."
-andreolb:
-    display_name: "Andre Baixo"
-    role: alum
-    bio: "M.S., 2015. Now at ARM."
-emackay:
-    display_name: Eric Mackay
-    webpage: "http://homes.cs.washington.edu/~emackay/"
-    role: alum
-    bio: "M.S., 2015. Now at Amazon."
-ransford:
-    display_name: "Ben Ransford"
-    webpage: "http://ben.ransford.org/"
-    github: ransford
-    role: alum
-    bio: "Postdoc, 2013&ndash;2014."
-bpw:
-    display_name: "Benjamin Wood"
-    webpage: "https://homes.cs.washington.edu/~bpw/"
-    role: alum
-    bio: "Ph.D., 2014. Now faculty at Wellesley."
-tbergan:
-    display_name: "Tom Bergan"
-    webpage: "https://homes.cs.washington.edu/~tbergan/"
-    role: alum
-    bio: "Ph.D., 2014. Now at Google."
-miker:
-    display_name: "Michael Ringenburg"
-    webpage: "http://homes.cs.washington.edu/~miker/"
-    role: alum
-    bio: "Ph.D., 2014. Now at Cray."
-lucia:
-    display_name: "Brandon Lucia"
-    webpage: "http://brandonlucia.com/"
-    role: alum
-    bio: "Ph.D., 2013. Now faculty at CMU."
-hadi:
-    display_name: "Hadi Esmaeilzadeh"
-    webpage: "http://www.cc.gatech.edu/~hadi/"
-    image: /img/people/hadi.jpg
-    role: alum
-    bio: "Ph.D., 2013. Now faculty at Georgia Tech."
-devietti:
-    display_name: Joe Devietti
-    webpage: "https://www.cis.upenn.edu/~devietti/"
-    role: alum
-    bio: "Ph.D., 2012. Now faculty at UPenn."
-fortuna:
-    display_name: Emily Fortuna
-    role: alum
-    bio: "M.S., 2011. Now at Google."
-hunt:
-    display_name: "Nick Hunt"
-    role: alum
-    bio: "Now guiding at RMI."
-owen:
-    display_name: Owen Anderson
-    role: alum
-    bio: M.S., 2010. Now at Apple.
-angda:
-    display_name: Angda (Andy) Chen
-    role: alum
-    bio: B.S. 2008. Now at Amazon.
-cody:
-    display_name: Cody Schroeder
-    role: alum
-    bio: "B.S. 2012, M.S. 2013. Now at Google."
-kristian:
-    display_name: Kristian Lieberg
-    role: alum
-    bio: "B.S. Now at Clean Power Research."
-
-# Undergrads
-
-
-# Undergrad Alums
-
-wyatt:
-    display_name: Wyatt Muntean
-    role: ugrad-alum
-artem:
-    display_name: Artem Minyaylov
-    role: ugrad-alum
-    image: /img/people/artem.jpg
-eblajev:
-    display_name: Evan Blajev
-    role: ugrad-alum
-xinyu:
-    display_name: Xinyu Sui
-    role: ugrad-alum
-phowe:
-    display_name: Patrick Howe
-    role: ugrad-alum
-schowdury:
-    display_name: Sandeep Chowdary
-    role: ugrad-alum
-jkotalik:
-    display_name: Justin Kotalik
-    role: ugrad-alum
-    webpage: https://www.linkedin.com/in/justin-kotalik-0489b597
-veilam:
-    display_name: Wei Lin
-    role: ugrad-alum
-chenfs:
-    display_name: Chenfan (Frank) Sun
-    role: ugrad-alum
-    webpage: https://www.linkedin.com/in/chenfansun
-faugusto:
-    display_name: Felipe Augusto
-    role: ugrad-alum
-codyohl:
-    display_name: Cody Ohlsen
-    role: ugrad-alum
-    image: /img/people/codyohl.jpg
-    webpage: http://www.linkedin.com/in/codyohlsen
-austina2:
-    display_name: Austin Arechiga
-    role: ugrad-alum
-zbsimon:
-    display_name: Zach Simon
-    role: ugrad-alum
-pshfls:
-    display_name: Sui Pang (Beck)
-    role: ugrad-alum
-    webpage: http://www.linkedin.com/in/beckpang
-wenjih:
-    display_name: Wenjie (Marissa) He
-    role: ugrad-alum
-mandary:
-    display_name: Yufang Sun
-    role: ugrad-alum
-shichengfeng:
-    display_name: Chengfeng Shi
-    role: ugrad-alum
-tliu24:
-    display_name: Tianchi Liu
-    role: ugrad-alum
-luluyi:
-    display_name: Luyi Lu
-    role: ugrad-alum
-djnoboom:
-    display_name: Daniel Noteboom
-    role: ugrad-alum
-umaymah:
-    display_name: Umaymah Khan
-    role: ugrad-alum
-joshuay:
-    display_name: Joshua Yip
-    role: ugrad-alum
-
-# Collaborators
-
-akcheung:
-    display_name: "Alvin Cheung"
+qiong:
+    display_name: "Qiong Wang"
     role: collab
-    webpage: "https://homes.cs.washington.edu/~akcheung/"
-    bio: "Assistant Professor, UW CSE Department"
-    image: /img/people/akcheung.png
+    image: /img/people/qiong.jpg
+    bio: "Professor at Peking University"
 
-preston:
-    display_name: Preston Briggs
-    role: collab
-skahan:
-    display_name: Simon Kahan
-    role: collab
-farhadi:
-     display_name: Ali Farhadi
-     role: collab
-     webpage: https://homes.cs.washington.edu/~ali/
-     bio: "Assistant Professor, UW CSE Department"
-#mckinley:
-#    display_name: Kathryn McKinley
-#    role: collab
-#    webpage: http://research.microsoft.com/en-us/people/mckinley/
-#    bio: "Microsoft Research"
-#toddm:
-#    display_name: Todd Mytkowicz
-#    role: collab
-#    webpage: http://research.microsoft.com/en-us/people/toddm/
-#    bio: "Microsoft Research"
-visvesh:
-    display_name: Visvesh Sathe
-    role: collab
-    webpage: http://www.ee.washington.edu/people/faculty/sathe/
-    bio: "Assistant Professor, UW EE Department"
-sungpack:
-     display_name: Sungpack Hong
-     role: collab
-     bio: "Oracle Labs"
-delorimier:
-     display_name: Michael Delorimier
-     role: collab
-     bio: "Oracle Labs"
-shri:
-     display_name: Shri Hariharasubrahmanian
-     role: collab
-     bio: "Oracle Labs"
-#tushar:
-#     display_name: Tushar Kumar
-#     role: collab
-#     bio: "Qualcomm Research"
-
+xing:
+    display_name: "Xing Liu"
+    role: alum
+    image:
+    bio: "Master of Financial Math"
