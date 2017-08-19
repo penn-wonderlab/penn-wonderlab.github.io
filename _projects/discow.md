@@ -1,8 +1,8 @@
 ---
-title: Web Annotations and Progressive Discourse
-image:
+title: Web Annotations and Online Discourse in Science
+image: https://www.nsf.gov/images/logos/nsf1.jpg
 description: |
-  "NSF CRII: Cyberlearning: Connecting Web Annotations and Progressive Online Discourse in Science Classrooms."
+  NSF CRII: Cyberlearning: Connecting Web Annotations and Progressive Online Discourse in Science Classrooms.
 people:
   - bodong
   - jon
