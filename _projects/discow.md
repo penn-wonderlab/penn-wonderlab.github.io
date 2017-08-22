@@ -21,9 +21,16 @@ Researchers, teachers, and curriculum experts continually seek ways to improve s
 
 Following a design-based research approach, this project will develop a technology prototype, Progressive Discourse on the Open Web (ProDow), to bridge discourse in an existing knowledge-building environment and the Open Web through collaborative social annotations. This work is grounded in decades of research on progressive knowledge-building discourse, understanding of how students learn science, and the latest Web technologies. The research objectives include: (a) identifying design principles and software architecture for ProDow; (b) exploring student use of ProDow for progressive knowledge-building discourse in science; and (c) determining whether, and under what conditions ProDow can support science learning. Through design inquiry and empirical investigations in science classrooms, this project will contribute to cyberlearning research by providing new means to support collaborative learning. Through a series of participatory design workshops with teachers and researchers, design solutions and functioning prototypes will be developed. Empirical investigations will take place in science classrooms in a high school with an ethnically and economically diverse student body in Minneapolis. Classroom observations, interviews, and system logs will be collected to investigate how students leverage social annotations to sustain their scientific discourse. This project will lead to three major research outcomes: (a) design principles for integrating social annotations into group knowledge building in science classrooms; (b) empirical knowledge of high-school students' use of social annotations in progressive scientific inquiry; and (c) the creation of a new technology prototype, ProDow, that embodies the design principles and empirical findings of this investigation.
 
-<!-- ## Publications
 
-- **A Hardware-Friendly Bilateral Solver for Real-Time Virtual Reality Video**<br/>
+## Links
+
+- [Project documentation on Github](https://github.com/cligr/discow-docs)
+- [Knowledge Forum 6](https://kf6.ikit.org/login)
+- [Hypothes.is](https://hypothes.is/)
+
+## Publications
+
+<!-- - **A Hardware-Friendly Bilateral Solver for Real-Time Virtual Reality Video**<br/>
   Amrita Mazumdar, Armin Alaghi, Jonathan T. Barron, David Gallup, Luis Ceze, Mark Oskin, Steven M. Seitz
 <br/>
   To appear in High Performance Graphics 2017
