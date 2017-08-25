@@ -1,11 +1,4 @@
-bodong:
-    display_name: "Bodong Chen"
-    webpage: "http://bodong.ch/"
-    github: meefen
-    role: faculty
-    image: /img/people/bodong.jpg
-    bio: "Assistant Professor"
-        # Bodong Chen is an Assistant Professor in the Department of Curriculum and Instruction in the College of Education and Human Development at the University of Minnesota, where he does research in learning technologies, learning analytics, and knowledge building.
+# grad
 
 fan:
     display_name: "Fan Ouyang"
@@ -29,6 +22,32 @@ ethan:
     bio: "PhD student in Ed Psych"
         # Ethan is a PhD student in EdPsych interested in statistical thinking.
 
+ramya:
+    display_name: "Ramya Sivaraj"
+    # webpage: "https://fanouyang.net/"
+    role: grad
+    image: /img/people/sivaraj.png
+    bio: "PhD student in STEM Education"
+      # I am a PhD student in STEM Education, with a focus on diverse cultural perspectives in STEM learning and a supporting minor in Learning Technologies. My research interests include exploring collaborative relationships between families/communities and education, and utilizing various technologies towards such equitable collaborations. I completed my undergraduate degree in Chemistry/Philosophy, and my master’s degree in Geochemistry. I taught 8th grade science for five years in a highly diverse middle school with the Chicago Public Schools. I also taught Geology courses with Northwestern University’s School of Continuing Education for four years. I hope to integrate my experiences with teaching and learning, while working with families and educators towards better understanding factors that influence STEM engagement, opportunities, and outcomes.
+
+dipesh:
+    display_name: "Dipesh Reen"
+    role: grad
+    image:
+    bio: "Master's student in Computer Science"
+
+# undergrad
+
+jon:
+    display_name: "Jonathan Shoberg"
+    webpage: "https://github.com/lordgentlehosen"
+    role: ugrad
+    image: /img/people/jon.jpg
+    bio: "Undergraduate student in CS"
+      # I am an undergraduate student studying computer science at the College of Science and Engineering at the University of Minnesota, with a focus in Human-Computer Interaction. I am interested in using technology in new and innovative ways to enhance learning experiences, and I have a particular interest in using video games for this purpose. In my studies, I have found that I have a passion for both technology and psychology, and I try to keep both of these things in mind in my work, to come up with the best solution possible for both the user and the software.
+
+# visiting scholars
+
 tianhui:
     display_name: "Tianhui Huang"
     # webpage: "https://fanouyang.net/"
@@ -43,27 +62,7 @@ yizhou:
     image:
     bio: "PhD student from Peking University"
 
-ramya:
-    display_name: "Ramya Sivaraj"
-    # webpage: "https://fanouyang.net/"
-    role: grad
-    image: /img/people/sivaraj.png
-    bio: "PhD student in STEM Education"
-      # I am a PhD student in STEM Education, with a focus on diverse cultural perspectives in STEM learning and a supporting minor in Learning Technologies. My research interests include exploring collaborative relationships between families/communities and education, and utilizing various technologies towards such equitable collaborations. I completed my undergraduate degree in Chemistry/Philosophy, and my master’s degree in Geochemistry. I taught 8th grade science for five years in a highly diverse middle school with the Chicago Public Schools. I also taught Geology courses with Northwestern University’s School of Continuing Education for four years. I hope to integrate my experiences with teaching and learning, while working with families and educators towards better understanding factors that influence STEM engagement, opportunities, and outcomes.
-
-jon:
-    display_name: "Jonathan Shoberg"
-    webpage: "https://github.com/lordgentlehosen"
-    role: ugrad
-    image: /img/people/jon.jpg
-    bio: "Undergraduate student in CS"
-      # I am an undergraduate student studying computer science at the College of Science and Engineering at the University of Minnesota, with a focus in Human-Computer Interaction. I am interested in using technology in new and innovative ways to enhance learning experiences, and I have a particular interest in using video games for this purpose. In my studies, I have found that I have a passion for both technology and psychology, and I try to keep both of these things in mind in my work, to come up with the best solution possible for both the user and the software.
-
-dipesh:
-    display_name: "Dipesh Reen"
-    role: grad
-    image:
-    bio: "Master's student in Computer Science"
+# collaborators
 
 qiong:
     display_name: "Qiong Wang"
@@ -71,8 +70,21 @@ qiong:
     image: /img/people/qiong.jpg
     bio: "Professor at Peking University"
 
+# alums
+
 xing:
     display_name: "Xing Liu"
     role: alum
     image:
     bio: "Master of Financial Math"
+
+# faculty
+
+bodong:
+    display_name: "Bodong Chen"
+    webpage: "http://bodong.ch/"
+    github: meefen
+    role: faculty
+    image: /img/people/bodong.jpg
+    bio: "Assistant Professor"
+        # Bodong Chen is an Assistant Professor in the Department of Curriculum and Instruction in the College of Education and Human Development at the University of Minnesota, where he does research in learning technologies, learning analytics, and knowledge building.

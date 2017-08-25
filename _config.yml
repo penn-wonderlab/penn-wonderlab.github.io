@@ -16,11 +16,12 @@ permalink: /blog/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
-    - {key: faculty, name: Faculty}
+
+    - {key: ugrad, name: Undergrad Students}
     - {key: vscholar, name: Visiting Scholars}
     # - {key: postdoc, name: Researchers}
     - {key: grad, name: Graduate Students}
-    - {key: ugrad, name: Undergrad Students}
+    - {key: faculty, name: Faculty}
     # - {key: ugrad-alum, name: Past Undergraduate Students}
     # - {key: collab, name: Collaborators}
     # - {key: alum, name: Alumni}
