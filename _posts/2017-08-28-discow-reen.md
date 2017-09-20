@@ -4,4 +4,4 @@ shortnews: true
 icon: address-book
 ---
 
-Welcome Dipesh Reen to the [Discow project](https://cligr.github.io/projects/discow.html)! Dipesh will bring amazing experiences in MEAN, machine learning, etc. to this team.
+Welcome Dipesh Reen to the [Discow project team](https://cligr.github.io/projects/discow.html) as a developer.

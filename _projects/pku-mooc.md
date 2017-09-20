@@ -1,6 +1,6 @@
 ---
 title: MOOCs for Teacher Professional Learning
-image: 
+image:
 description: |
   MOOCs as an alternative for teacher professional development: Examining persistent teacher-learners in one Chinese MOOC. Funded by the DL4D Research Network.
 
@@ -20,4 +20,6 @@ Massive Open Online Courses (MOOCs) have developed into a significant internatio
 
 ## Publications
 
-...
+- Chen, B., Fan, Y., Zhang, G., & Wang, Q. (2017). Examining motivations and self-regulated learning strategies of returning MOOCs learners. In Proceedings of the Seventh International Learning Analytics & Knowledge Conference (pp. 542–543). New York, NY: ACM. https://doi.org/10.1145/3027385.3029448
+- Wang, Q., Chen, B., Fan, Y., & Zhang, G. (2017). MOOCs as an alternative for teacher professional development: Examining learner persistence in one Chinese MOOC. Final project report, DL4D, Manila, The Philippines.
+- Fan, Y., Chen, B., Wang, Q., & Zhang, G. (2016, October). MOOC as an alternative for teacher professional development: Examining persistent teacher-learners in one Chinese MOOC. Paper presented at Learning with MOOCs III: Being and learning in a digital age, University of Pennsylvania, Philadelphia, PA.
