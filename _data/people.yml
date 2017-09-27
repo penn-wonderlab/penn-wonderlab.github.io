@@ -59,7 +59,7 @@ tianhui:
 yizhou:
     display_name: "Yizhou Fan"
     role: vscholar
-    image:
+    image: /img/people/yizhou.jpg
     bio: "PhD student from Peking University"
 
 # collaborators
