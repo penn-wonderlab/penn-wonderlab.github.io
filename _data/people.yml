@@ -11,7 +11,7 @@ fan:
 yuhui:
     display_name: "Yu-Hui Chang"
     role: grad
-    image: https://pbs.twimg.com/profile_images/862891605010903040/p7GxfhFL_400x400.jpg
+    image: /img/people/hui.jpg
     bio: "PhD student in Learning Technologies"
 
 ethan:
@@ -77,6 +77,12 @@ xing:
     role: alum
     image:
     bio: "Master of Financial Math"
+
+wanying:
+    display_name: "Wanying Zhou"
+    role: alum
+    image:
+    bio: "Undergraduate in Psychology"
 
 # faculty
 
