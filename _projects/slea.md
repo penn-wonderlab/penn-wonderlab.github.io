@@ -9,6 +9,7 @@ people:
   - yuhui
   - tianhui
   - ramya
+  - wanying
 
 layout: project
 status: active
@@ -21,4 +22,4 @@ The socio-constructivist perspective of learning is broadly accepted in educatio
 
 - Chen, B. & Huang, T.G (under review). Uncovering prestige and a rich club phenomenon in a social learning environment.
 - Chen, B. (under review). Designing for collaborative discourse in an online class: An 'unLMS' approach.
-- Chen, B., Chang, Y.-H.G, Ouyang, F.G, & Zhou, W.U (under review). Fostering discussion engagement through social learning analytics. 
+- Chen, B., Chang, Y.-H.G, Ouyang, F.G, & Zhou, W.U (under review). Fostering discussion engagement through social learning analytics.

@@ -8,6 +8,7 @@ people:
   - qiong
   - bodong
   - yizhou
+  - tianhui
 
 layout: project
 status: active

@@ -75,13 +75,13 @@ qiong:
 xing:
     display_name: "Xing Liu"
     role: alum
-    image:
+    image: /img/people/male_placeholder.jpg
     bio: "Master of Financial Math"
 
 wanying:
     display_name: "Wanying Zhou"
     role: alum
-    image:
+    image: /img/people/female_placeholder.png
     bio: "Undergraduate in Psychology"
 
 # faculty
