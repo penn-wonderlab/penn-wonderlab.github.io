@@ -7,6 +7,7 @@ people:
   - bodong
   - jon
   - fan
+  - dipesh
 
 layout: project
 status: active
