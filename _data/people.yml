@@ -30,11 +30,11 @@ ramya:
     bio: "PhD student in STEM Education"
       # I am a PhD student in STEM Education, with a focus on diverse cultural perspectives in STEM learning and a supporting minor in Learning Technologies. My research interests include exploring collaborative relationships between families/communities and education, and utilizing various technologies towards such equitable collaborations. I completed my undergraduate degree in Chemistry/Philosophy, and my master’s degree in Geochemistry. I taught 8th grade science for five years in a highly diverse middle school with the Chicago Public Schools. I also taught Geology courses with Northwestern University’s School of Continuing Education for four years. I hope to integrate my experiences with teaching and learning, while working with families and educators towards better understanding factors that influence STEM engagement, opportunities, and outcomes.
 
-# dipesh:
-#     display_name: "Dipesh Reen"
-#     role: grad
-#     image:
-#     bio: "Master's student in Computer Science"
+dipesh:
+    display_name: "Dipesh Reen"
+    role: grad
+    image: /img/people/male_placeholder.jpg
+    bio: "Master's student in CS"
 
 # undergrad
 
