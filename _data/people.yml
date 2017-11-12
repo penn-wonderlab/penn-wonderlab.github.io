@@ -5,21 +5,21 @@ fan:
     webpage: "https://fanouyang.net/"
     role: grad
     image: /img/people/fan.jpg
-    bio: "PhD candidate in Learning Technologies"
+    bio: "Learning Technologies"
         # PhD Candidate in Learning Technologies program in the University of Minnesota. My research centers on learners’ online learning engagement as well as instructors’ online pedagogy development. I use social network analysis, content analysis and discourse analysis to analyze online interaction, participation, and collaborative learning. I have taught computer science courses in a Chinese university for 6 years, and currently teach undergraduate-level online courses of learning technologies and tools in education and business in the University of Minnesota.
 
 yuhui:
     display_name: "Yu-Hui Chang"
     role: grad
     image: /img/people/hui.jpg
-    bio: "PhD student in Learning Technologies"
+    bio: "Learning Technologies"
 
 ethan:
     display_name: "Ethan Brown"
     webpage: "http://statisfactions.com/"
     role: grad
     image: /img/people/ethan.jpg
-    bio: "PhD student in Ed Psych"
+    bio: "Educational Psychology"
         # Ethan is a PhD student in EdPsych interested in statistical thinking.
 
 ramya:
@@ -27,14 +27,14 @@ ramya:
     # webpage: "https://fanouyang.net/"
     role: grad
     image: /img/people/sivaraj.png
-    bio: "PhD student in STEM Education"
+    bio: "STEM Education"
       # I am a PhD student in STEM Education, with a focus on diverse cultural perspectives in STEM learning and a supporting minor in Learning Technologies. My research interests include exploring collaborative relationships between families/communities and education, and utilizing various technologies towards such equitable collaborations. I completed my undergraduate degree in Chemistry/Philosophy, and my master’s degree in Geochemistry. I taught 8th grade science for five years in a highly diverse middle school with the Chicago Public Schools. I also taught Geology courses with Northwestern University’s School of Continuing Education for four years. I hope to integrate my experiences with teaching and learning, while working with families and educators towards better understanding factors that influence STEM engagement, opportunities, and outcomes.
 
 dipesh:
     display_name: "Dipesh Reen"
     role: grad
     image: /img/people/male_placeholder.jpg
-    bio: "Master's student in CS"
+    bio: "Computer Science"
 
 # undergrad
 
@@ -43,7 +43,7 @@ jon:
     webpage: "https://github.com/lordgentlehosen"
     role: ugrad
     image: /img/people/jon.jpg
-    bio: "Undergraduate student in CS"
+    bio: "Computer Science"
       # I am an undergraduate student studying computer science at the College of Science and Engineering at the University of Minnesota, with a focus in Human-Computer Interaction. I am interested in using technology in new and innovative ways to enhance learning experiences, and I have a particular interest in using video games for this purpose. In my studies, I have found that I have a passion for both technology and psychology, and I try to keep both of these things in mind in my work, to come up with the best solution possible for both the user and the software.
 
 # visiting scholars
@@ -76,7 +76,7 @@ xing:
     display_name: "Xing Liu"
     role: alum
     image: /img/people/male_placeholder.jpg
-    bio: "Master of Financial Math"
+    bio: "Master's graduate in Financial Math"
 
 wanying:
     display_name: "Wanying Zhou"
