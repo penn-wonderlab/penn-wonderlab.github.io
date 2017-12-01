@@ -24,7 +24,8 @@ Following a design-based research approach, this project will develop a technolo
 
 ## Project Updates
 
-- 2017-11-15, [Participatory Design Workshop 1](https://github.com/cligr/discow-docs/blob/master/workshops/design-workshop-1.md)
+- 2017-12-01, a blog post [Participatory Design: A primer](https://cligr.github.io/blog/2017/12/01/participatory-design-primer.html), by Fan Ouyang
+- 2017-11-15, design notes from [Participatory Design Workshop #1](https://github.com/cligr/discow-docs/blob/master/workshops/design-workshop-1.md)
 - 2017-7-19, [Initial design ideas](https://github.com/cligr/discow-docs/blob/master/h/design-v1.md)
 
 ## Relevant Links
