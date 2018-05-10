@@ -48,27 +48,56 @@ jon:
 
 # visiting scholars
 
-tianhui:
-    display_name: "Tianhui Huang"
-    # webpage: "https://fanouyang.net/"
-    role: vscholar
-    image: /img/people/thuang.jpg
-    bio: "PhD student from Fudan University"
-      # Tianhui is a visiting PhD student from Fudan University (China), who majors in educational economics and management. Tianhui got her master's degree in distance education and studied educational technology for her undergraduate degree. She is currently visiting the U for a year to work with Professor Chen.
-
-yizhou:
-    display_name: "Yizhou Fan"
-    role: vscholar
-    image: /img/people/yizhou.jpg
-    bio: "PhD student from Peking University"
+# tianhui:
+#     display_name: "Tianhui Huang"
+#     # webpage: "https://fanouyang.net/"
+#     role: vscholar
+#     image: /img/people/thuang.jpg
+#     bio: "PhD student from Fudan University"
+#       # Tianhui is a visiting PhD student from Fudan University (China), who majors in educational economics and management. Tianhui got her master's degree in distance education and studied educational technology for her undergraduate degree. She is currently visiting the U for a year to work with Professor Chen.
+#
+# yizhou:
+#     display_name: "Yizhou Fan"
+#     role: vscholar
+#     image: /img/people/yizhou.jpg
+#     bio: "PhD student from Peking University"
 
 # collaborators
+
+hong:
+    display_name: "Huang-Yao Hong"
+    role: collab
+    image: /img/people/male_placeholder.jpg
+    bio: "National Chengchi U"
+
+lund:
+    display_name: "Kris Lund"
+    role: collab
+    image: /img/people/female_placeholder.jpg
+    bio: "U of Lyon"
+
+matsuzawa:
+    display_name: "Yoshiaki Matsuzawa"
+    role: collab
+    image: /img/people/male_placeholder.jpg
+    bio: "Aoyama Gakuin U"
 
 qiong:
     display_name: "Qiong Wang"
     role: collab
     image: /img/people/qiong.jpg
-    bio: "Professor at Peking University"
+    bio: "Peking University"
+
+afwise:
+    display_name: "Alyssa Wise"
+    role: collab
+    bio: "New York University"
+
+ninger:
+    display_name: "Ninger Zhou"
+    role: collab
+    image: https://0.academia-photos.com/34232858/11052788/12334059/s200_ninger.zhou.jpg
+    bio: "Postdoc at UC-Irvine"
 
 # alums
 
@@ -83,6 +112,18 @@ wanying:
     role: alum
     image: /img/people/female_placeholder.png
     bio: "Undergraduate in Psychology"
+
+tianhui:
+    display_name: "Tianhui Huang"
+    role: alum
+    image: /img/people/thuang.jpg
+    bio: "Visiting scholar from Fudan U"
+
+yizhou:
+    display_name: "Yizhou Fan"
+    role: alum
+    image: /img/people/yizhou.jpg
+    bio: "Visiting scholar from Peking U"
 
 # faculty
 

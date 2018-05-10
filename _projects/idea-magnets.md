@@ -1,8 +1,8 @@
 ---
-title: Web Annotations and Online Discourse in Science
-image: https://www.nsf.gov/images/logos/nsf1.jpg
+title: "IdeaMagnets"
+image: https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg
 description: |
-  NSF CRII: Cyberlearning: Connecting Web Annotations and Progressive Online Discourse in Science Classrooms.
+  CRII: Cyberlearning: Connecting Web Annotations and Progressive Online Discourse in Science Classrooms.
 people:
   - bodong
   - jon
@@ -39,10 +39,4 @@ Following a design-based research approach, this project will develop a technolo
 
 ## Publications
 
-<!-- - **A Hardware-Friendly Bilateral Solver for Real-Time Virtual Reality Video**<br/>
-  Amrita Mazumdar, Armin Alaghi, Jonathan T. Barron, David Gallup, Luis Ceze, Mark Oskin, Steven M. Seitz
-<br/>
-  To appear in High Performance Graphics 2017
-- **VisualCloud Demonstration: A DBMS for Virtual Reality**<br/>
-  Brandon Haynes, Artem Minyaylov, Magdalena Balazinska, Luis Ceze, Alvin Cheung<br/>
-  SIGMOD 2017 Demo -->
+- Chen, B. (2018). Designing for Networked Collaborative Discourse: An UnLMS Approach. *TechTrends*, 1–8. https://doi.org/10.1007/s11528-018-0284-7

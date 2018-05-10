@@ -1,5 +1,5 @@
 ---
-title: Social Media for Networked Scholarship
+title: Social Media and Networked Scholarship
 image:
 description: |
   How academics use social media in scholarly settings?

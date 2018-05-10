@@ -1,8 +1,8 @@
 ---
-title: Social Learning Environments and Analytics
+title: Networked Learning Environments and Analytics
 image:
 description: |
-  Social Learning Environments and Analytics
+  Networked Learning Environments and Analytics
 people:
   - bodong
   - fan
@@ -21,5 +21,6 @@ The socio-constructivist perspective of learning is broadly accepted in educatio
 ## Publications
 
 - Chen, B. & Huang, T.G (under review). Uncovering prestige and a rich club phenomenon in a social learning environment.
-- Chen, B. (under review). Designing for collaborative discourse in an online class: An 'unLMS' approach.
-- Chen, B., Chang, Y.-H.G, Ouyang, F.G, & Zhou, W.U (under review). Fostering discussion engagement through social learning analytics.
+-  Huang, T., & Chen, B. (2018). Uncovering the rich club phenomenon in an online class. In *Proceedings of the 2018 ICLS Conference*. London, UK: ISLS.
+- Chen, B. (2018). Designing for Networked Collaborative Discourse: An UnLMS Approach. *TechTrends*, 1–8. https://doi.org/10.1007/s11528-018-0284-7
+- Chen, B., Chang, Y.-H., Ouyang, F., & Zhou, W. (2018). Fostering student engagement in online discussion through social learning analytics. *The Internet and Higher Education, 37*, 21–30. https://doi.org/10.1016/j.iheduc.2017.12.002

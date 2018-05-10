@@ -18,12 +18,12 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
 
     - {key: ugrad, name: Undergrad Students}
-    - {key: vscholar, name: Visiting Scholars}
+    # - {key: vscholar, name: Visiting Scholars}
+    - {key: collab, name: Collaborators}
     # - {key: postdoc, name: Researchers}
     - {key: grad, name: Graduate Students}
     - {key: faculty, name: Faculty}
     # - {key: ugrad-alum, name: Past Undergraduate Students}
-    # - {key: collab, name: Collaborators}
     - {key: alum, name: Alumni}
 
 # Number of news stories on the front page.
@@ -44,8 +44,10 @@ navigation:
       link: /research/
     # - title: Publications
     #   link: /publications.html
-    # - title: Code
-    #   link: /code.html
+    - title: Events
+      link: /events.html
+    - title: Code
+      link: /code.html
 
 
 # Rewriting of old path names.
