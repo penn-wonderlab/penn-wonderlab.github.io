@@ -1,25 +1,23 @@
 # grad
 
-fan:
-    display_name: "Fan Ouyang"
-    webpage: "https://fanouyang.net/"
-    role: grad
-    image: /img/people/fan.jpg
-    bio: "Learning Technologies"
-        # PhD Candidate in Learning Technologies program in the University of Minnesota. My research centers on learners’ online learning engagement as well as instructors’ online pedagogy development. I use social network analysis, content analysis and discourse analysis to analyze online interaction, participation, and collaborative learning. I have taught computer science courses in a Chinese university for 6 years, and currently teach undergraduate-level online courses of learning technologies and tools in education and business in the University of Minnesota.
-
 yuhui:
     display_name: "Yu-Hui Chang"
     role: grad
     image: /img/people/hui.jpg
-    bio: "Learning Technologies"
+    bio: "PhD student in LT"
+
+wenjing:
+    display_name: "Wenjing Chen"
+    role: grad
+    image: /img/people/wenjing.jpg
+    bio: "MEd student in LT"
 
 ethan:
     display_name: "Ethan Brown"
     webpage: "http://statisfactions.com/"
     role: grad
     image: /img/people/ethan.jpg
-    bio: "Educational Psychology"
+    bio: "PhD candidate in EdPsy"
         # Ethan is a PhD student in EdPsych interested in statistical thinking.
 
 ramya:
@@ -27,14 +25,14 @@ ramya:
     # webpage: "https://fanouyang.net/"
     role: grad
     image: /img/people/sivaraj.png
-    bio: "STEM Education"
+    bio: "PhD student in STEM Education"
       # I am a PhD student in STEM Education, with a focus on diverse cultural perspectives in STEM learning and a supporting minor in Learning Technologies. My research interests include exploring collaborative relationships between families/communities and education, and utilizing various technologies towards such equitable collaborations. I completed my undergraduate degree in Chemistry/Philosophy, and my master’s degree in Geochemistry. I taught 8th grade science for five years in a highly diverse middle school with the Chicago Public Schools. I also taught Geology courses with Northwestern University’s School of Continuing Education for four years. I hope to integrate my experiences with teaching and learning, while working with families and educators towards better understanding factors that influence STEM engagement, opportunities, and outcomes.
 
 dipesh:
     display_name: "Dipesh Reen"
     role: grad
     image: /img/people/male_placeholder.jpg
-    bio: "Computer Science"
+    bio: "MS student in Computer Science"
 
 # undergrad
 
@@ -67,6 +65,7 @@ jon:
 hong:
     display_name: "Huang-Yao Hong"
     role: collab
+    webpage: https://edu.nccu.edu.tw/en/Faculty/HUANG-YAO-HONG-50562481
     image: /img/people/male_placeholder.jpg
     bio: "National Chengchi U"
 
@@ -101,6 +100,13 @@ ninger:
 
 # alums
 
+fan:
+    display_name: "Fan Ouyang"
+    webpage: "https://fanouyang.net/"
+    role: alum
+    image: /img/people/fan.jpg
+    bio: "Learning Technologies"
+
 xing:
     display_name: "Xing Liu"
     role: alum
@@ -116,6 +122,7 @@ wanying:
 tianhui:
     display_name: "Tianhui Huang"
     role: alum
+    webpage: https://www.researchgate.net/profile/Huang_Tianhui
     image: /img/people/thuang.jpg
     bio: "Visiting scholar from Fudan U"
 

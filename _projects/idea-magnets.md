@@ -8,6 +8,7 @@ people:
   - jon
   - fan
   - dipesh
+  - wenjing
 
 layout: project
 status: active
