@@ -5,6 +5,6 @@ title: Events
 
 ## Upcoming
 
-CLIG Reading Group, Fall 2018
+CoLIG Journal Club, Fall 2018
 
 ## Past
