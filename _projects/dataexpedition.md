@@ -5,7 +5,6 @@ description: |
   Supporting computational participation with open science data
 people:
   - bodong
-  - ninger
 
 layout: project
 status: active
