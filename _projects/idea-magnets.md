@@ -21,18 +21,18 @@ icons:
 
 ## Project Summary
 
-The **IdeaMagnets** project aims to make knowledge building in science classrooms more connected with public discourse and open science. To this end, we build a "bridge" between **Hypothes.is**, an open-source web annotation tool, and **Knowledge Forum**, the go-to knowledge-building environment designed for continual idea improvement. With IdeaMagnets (the bridge we build):
+The **IdeaMagnets** project aims to make knowledge building in science classrooms more connected with public discourse and open science. To this end, we build a "bridge" between **Hypothes.is**, an open-source web annotation tool, and **Knowledge Forum**, the go-to knowledge-building environment designed for continual idea improvement. With the IdeaMagnets tool, learners create "idea magnets" in Knowledge Forum. These magnets are then used to pull ideas from the web. Briefly:
 
-### Learners can annotate any web document in a private group
+### (1) Learners can annotate any web document using Hypothes.is
 
 <img src="/img/img_posts/ideamagnets-annotate.gif" width="50%" alt="make annotations">
 
-### And then import annotations to Knowledge Forum
+### (2) And then import annotations into Knowledge Forum for further inquiry
 
 <!-- ![](/img/img_posts/ideamagnets-import.gif) -->
 <img src="/img/img_posts/ideamagnets-import.gif" width="50%" alt="import annotations">
 
-This project is in active development.
+This project is in active development, with the first classroom pilots to happen in Fall 2018.
 
 ## Project Updates
 
