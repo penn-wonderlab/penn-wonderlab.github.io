@@ -26,10 +26,12 @@ icons:
 - 2017-11-15, [Participatory Design Workshop #1 notes](https://github.com/cligr/discow-docs/blob/master/workshops/design-workshop-1.md)
 - 2017-7-19, [Initial design ideas](https://github.com/cligr/discow-docs/blob/master/h/design-v1.md)
 
-## Project Summary
+<img src="/img/img_posts/ideamagnets-annotate.gif" width="50%" alt="make annotations">
 
 <!-- ![](/img/img_posts/ideamagnets-import.gif) -->
 <img src="/img/img_posts/ideamagnets-import.gif" width="50%" alt="import annotations">
+
+## Project Summary
 
 Researchers, teachers, and curriculum experts continually seek ways to improve school science. This CRII project aims to bring school science into closer alignment with real-world science through deeper connections to public scientific discourse. The PI and his team will harness recent Open Web technologies to build a platform to transform scientific engagement in classrooms with the broader cyberspace. With various theory-driven supports provided by this platform, students will work collectively to build scientific understanding on the Open Web based upon a model of knowledge building. The project will produce design innovations that enable students to: navigate complex Web spaces and make sense of real-world problems collaboratively; deal with complex scientific idea landscapes beyond school walls; and, engage in sophisticated scientific practices not unlike those of real-world laboratories. This project will contribute to the goal of preparing a competent science workforce and a scientifically literate citizenry as emphasized in the NSF Strategic Plan 2014-2018. During the project, the PI will also contribute to teacher professional development activities, organize design and research workshops, and mentor emerging scholars from diverse backgrounds.
 
