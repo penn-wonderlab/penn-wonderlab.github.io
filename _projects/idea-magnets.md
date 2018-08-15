@@ -55,4 +55,5 @@ This project is in active development, with the first classroom pilots to happen
 
 ## Publications
 
+-  Chen, B., Ouyang, F., Shoberg, J., & Reen, D. (2018, June). *Web annotation in classrooms as boundary play*. Panel presentation at the I Annotate 2018: At the Tipping Point: Annotation on the Web, San Francisco. 
 - Chen, B. (2018). Designing for Networked Collaborative Discourse: An UnLMS Approach. *TechTrends*, 1–8. https://doi.org/10.1007/s11528-018-0284-7
