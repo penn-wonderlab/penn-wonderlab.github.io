@@ -25,12 +25,12 @@ The **IdeaMagnets** project aims to make knowledge building in science classroom
 
 ### (1) Learners can annotate any web document using Hypothes.is
 
-<img src="/img/img_posts/ideamagnets-annotate.gif" width="50%" alt="make annotations">
+<img src="/img/img_posts/ideamagnets-annotate.gif" width="70%" alt="make annotations">
 
 ### (2) And then import annotations into Knowledge Forum for further inquiry
 
 <!-- ![](/img/img_posts/ideamagnets-import.gif) -->
-<img src="/img/img_posts/ideamagnets-import.gif" width="50%" alt="import annotations">
+<img src="/img/img_posts/ideamagnets-import.gif" width="70%" alt="import annotations">
 
 This project is in active development, with the first classroom pilots to happen in Fall 2018.
 
