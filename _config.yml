@@ -18,6 +18,7 @@ permalink: /blog/:year/:month/:day/:title.html
 roles:
 
     - {key: ugrad, name: Undergrad Students}
+    - {key: teacher, name: K-12 Educators}
     # - {key: vscholar, name: Visiting Scholars}
     - {key: collab, name: Collaborators}
     # - {key: postdoc, name: Researchers}

@@ -5,10 +5,12 @@ description: |
   CRII: Cyberlearning: Connecting Web Annotations and Progressive Online Discourse in Science Classrooms.
 people:
   - bodong
+  - wenjing
+  - yuhui
+  - david
   - jon
   - fan
   - dipesh
-  - wenjing
 
 layout: project
 status: active

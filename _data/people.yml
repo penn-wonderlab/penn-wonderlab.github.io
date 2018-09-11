@@ -1,10 +1,22 @@
 # grad
 
+# robert:
+#     display_name: "Robert Kreml"
+#     role: grad
+#     image: /img/people/male_placeholder.jpg
+#     bio: "PhD student in LT"
+
+# hongs:
+#     display_name: "Hong Shui"
+#     role: grad
+#     image: /img/people/female_placeholder.png
+#     bio: "PhD student in LT"
+
 yuhui:
     display_name: "Yu-Hui Chang"
     role: grad
     image: /img/people/hui.jpg
-    bio: "PhD student in LT"
+    bio: "PhD candidate in LT"
 
 wenjing:
     display_name: "Wenjing Chen"
@@ -30,16 +42,25 @@ ramya:
 
 dipesh:
     display_name: "Dipesh Reen"
-    role: grad
+    role: alum
     image: /img/people/male_placeholder.jpg
-    bio: "MS student in Computer Science"
+    bio: "MS graduate in CS"
+
+# teacher
+
+david:
+    display_name: "David Groos"
+    webpage: "https://twitter.com/djgroos?lang=en"
+    role: teacher
+    image: /img/people/male_placeholder.jpg
+    bio: "Highschool Science Teacher"
 
 # undergrad
 
 jon:
     display_name: "Jonathan Shoberg"
     webpage: "https://github.com/lordgentlehosen"
-    role: ugrad
+    role: alum
     image: /img/people/jon.jpg
     bio: "Computer Science"
       # I am an undergraduate student studying computer science at the College of Science and Engineering at the University of Minnesota, with a focus in Human-Computer Interaction. I am interested in using technology in new and innovative ways to enhance learning experiences, and I have a particular interest in using video games for this purpose. In my studies, I have found that I have a passion for both technology and psychology, and I try to keep both of these things in mind in my work, to come up with the best solution possible for both the user and the software.
@@ -97,6 +118,20 @@ ninger:
     role: collab
     image: https://0.academia-photos.com/34232858/11052788/12334059/s200_ninger.zhou.jpg
     bio: "Postdoc at UC-Irvine"
+
+stian:
+    display_name: "Stian Haklev"
+    role: collab
+    webpage: http://reganmian.net/blog/
+    image: https://lh6.googleusercontent.com/-9D1p8dRbFoQ/AAAAAAAAAAI/AAAAAAAAAAA/Y78D89dOYOM/s128-c-k/photo.jpg
+    bio: "Postdoc at EPFL, Lausanne"
+
+michelle:
+    display_name: "Michelle Driessen"
+    role: collab
+    webpage: https://chem.umn.edu/profiles/michelle-driessen
+    image: https://chem.umn.edu/sites/chem.umn.edu/files/styles/profile_node/public/michelledriessen2.jpg
+    bio: "University of Minnesota"
 
 # alums
 
