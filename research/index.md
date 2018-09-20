@@ -3,7 +3,7 @@ layout: default
 title: Research Projects
 ---
 
-CLIGr members hold various research interests. But we share an interest in advancing learning that is <i>collaborative</i>, <i>connected</i>, <i>connective</i>, and/or <i>collective</i>. To this end, we design innovative digital learning environments, develop analytic applications, and conduct collaborative research in various learning contexts.
+colig members hold various research interests. But we share an interest in advancing learning that is <i>collaborative</i>, <i>connected</i>, <i>connective</i>, and/or <i>collective</i>. To this end, we design innovative digital learning environments, develop analytic applications, and conduct collaborative research in various learning contexts.
 
 ### Active Projects
 

@@ -38,10 +38,10 @@ This project is in active development, with the first classroom pilots to happen
 
 ## Project Updates
 
-- 2017-12-08, [Participatory Design Workshop #2 notes](https://github.com/cligr/discow-docs/blob/master/workshops/design-workshop-2.md)
-- 2017-12-01, a blog post titled [Participatory Design: A primer](https://cligr.github.io/blog/2017/12/01/participatory-design-primer.html) (by PhD candidate Fan Ouyang)
-- 2017-11-15, [Participatory Design Workshop #1 notes](https://github.com/cligr/discow-docs/blob/master/workshops/design-workshop-1.md)
-- 2017-7-19, [Initial design ideas](https://github.com/cligr/discow-docs/blob/master/h/design-v1.md)
+- 2017-12-08, [Participatory Design Workshop #2 notes](https://github.com/colig/discow-docs/blob/master/workshops/design-workshop-2.md)
+- 2017-12-01, a blog post titled [Participatory Design: A primer](https://colig.github.io/blog/2017/12/01/participatory-design-primer.html) (by PhD candidate Fan Ouyang)
+- 2017-11-15, [Participatory Design Workshop #1 notes](https://github.com/colig/discow-docs/blob/master/workshops/design-workshop-1.md)
+- 2017-7-19, [Initial design ideas](https://github.com/colig/discow-docs/blob/master/h/design-v1.md)
 
 <!-- ## Project Abstract
 
@@ -51,7 +51,7 @@ This project is in active development, with the first classroom pilots to happen
 
 ## Relevant Links
 
-- [Project documentation](https://github.com/cligr/discow-docs)
+- [Project documentation](https://github.com/colig/discow-docs)
 - [Knowledge Forum 6](https://kf6.ikit.org/login)
 - [Hypothes.is](https://hypothes.is/)
 

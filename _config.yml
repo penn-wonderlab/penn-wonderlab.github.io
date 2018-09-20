@@ -1,5 +1,5 @@
-name: CLIG
-url: https://cligr.github.io/
+name: CoLIG
+url: https://colig.github.io/
 
 exclude: [bibble, README.md, Makefile, Dockerfile]
 

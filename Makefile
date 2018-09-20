@@ -9,7 +9,7 @@ BUILDARGS :=
 _site/index.html:
 	jekyll build --config _config.yml $(BUILDARGS)
 
-_includes/pubs.html: bib/cligr-pubs.bib bib/publications.tmpl
+_includes/pubs.html: bib/colig-pubs.bib bib/publications.tmpl
 	git submodule init; git submodule update
 	mkdir -p _includes
 	$(PYTHON) bibble/bibble.py $+ > $@
@@ -25,6 +25,6 @@ clean:
 # 	--delete -e ssh --perms --chmod=ug+rw
 #
 # rsync:
-# 	rsync $(RSYNCARGS) _site/ $(CSEHOST):/cse/www2/cligr/new
+# 	rsync $(RSYNCARGS) _site/ $(CSEHOST):/cse/www2/colig/new
 #
 # deploy: clean all rsync

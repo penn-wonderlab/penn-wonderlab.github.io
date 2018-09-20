@@ -13,7 +13,7 @@ category:  DiscoW
 
 ### Overview
 
-Designers need to consider the following factors in Participatory Design processes. To illustrate the overall process, here I use [our ongoing DiscoW project](https://cligr.github.io/projects/discow.html) as an example.
+Designers need to consider the following factors in Participatory Design processes. To illustrate the overall process, here I use [our ongoing IdeaMagnets project](https://colig.github.io/projects/idea-magnets.html) as an example.
 
 1. *Project goal*: To develop a web annotation tool that can foster progressive inquiry in science classes
 2. *Principle*: The tool design process is carried out closely with teachers so that they can participate in decision-making during the design process. Teachers are invited to contribute to and expand upon current design ideas based on student learning in their classrooms.
