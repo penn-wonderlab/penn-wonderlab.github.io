@@ -24,6 +24,12 @@ wenjing:
     image: /img/people/wenjing.jpg
     bio: "MEd student in LT"
 
+batu:
+    display_name: "William Batu"
+    role: grad
+    image: /img/people/male_placeholder.jpg
+    bio: "M.S. student in CS"
+
 ethan:
     display_name: "Ethan Brown"
     webpage: "http://statisfactions.com/"

@@ -7,6 +7,7 @@ people:
   - bodong
   - wenjing
   - yuhui
+  - batu
   - david
   - jon
   - fan
