@@ -1,6 +1,6 @@
 ---
 title: "DataExpedition"
-image:
+image: https://www.colourbox.dk/preview/3616213-binaer-kode-data-digital-baggrund.jpg
 description: |
   Supporting computational participation with open science data
 people:
@@ -12,6 +12,8 @@ status: active
 ---
 
 Computing has become an integral part of the practice of modern science, technology, engineering and mathematics (STEM), inspiring educators to integrate computing with STEM learning. This project aims to develop a pedagogical model -- *DataExpedition* -- to engage students in building scientific explanations based on real-world open science data, computing, and classroom dialogues. DataExpedition would not only nurture crucial scientific practices emphasized by the Next Generation Science Standards, but also make science learning more connected with real-world problems and aligned with real-world scientific practices.
+
+![](hhttp://aims.fao.org/sites/default/files/images/SCHOOL%20OF%20DATA%202.jpg)
 
 ### Phase 1 (May 2018)
 

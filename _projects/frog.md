@@ -6,6 +6,7 @@ description: |
 people:
   - bodong
   - stian
+  - hongs
 
 layout: project
 status: active

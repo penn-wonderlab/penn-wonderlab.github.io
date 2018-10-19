@@ -6,11 +6,11 @@
 #     image: /img/people/male_placeholder.jpg
 #     bio: "PhD student in LT"
 
-# hongs:
-#     display_name: "Hong Shui"
-#     role: grad
-#     image: /img/people/female_placeholder.png
-#     bio: "PhD student in LT"
+hongs:
+    display_name: "Hong Shui"
+    role: grad
+    image: /img/people/female_placeholder.png
+    bio: "PhD student in LT"
 
 yuhui:
     display_name: "Yu-Hui Chang"

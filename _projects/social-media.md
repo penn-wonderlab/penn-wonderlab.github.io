@@ -7,7 +7,7 @@ people:
   - bodong
 
 layout: project
-status: active
+status: inactive
 
 ---
 
