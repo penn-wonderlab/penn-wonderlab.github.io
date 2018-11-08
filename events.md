@@ -3,8 +3,8 @@ layout: default
 title: Events
 ---
 
-## Upcoming
+## Current
 
-CoLIG Journal Club, Fall 2018
+**LT Dojo** (monthly), 2018--2019 (Contact Bodong if you're interested in attending.)
 
 ## Past
