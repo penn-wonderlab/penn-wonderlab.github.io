@@ -5,6 +5,7 @@ description: |
   Supporting computational participation with open science data
 people:
   - bodong
+  - ninger
 
 layout: project
 status: active
@@ -14,6 +15,12 @@ status: active
 Computing has become an integral part of the practice of modern science, technology, engineering and mathematics (STEM), inspiring educators to integrate computing with STEM learning. This project aims to develop a pedagogical model -- *DataExpedition* -- to engage students in building scientific explanations based on real-world open science data, computing, and classroom dialogues. DataExpedition would not only nurture crucial scientific practices emphasized by the Next Generation Science Standards, but also make science learning more connected with real-world problems and aligned with real-world scientific practices.
 
 ![](hhttp://aims.fao.org/sites/default/files/images/SCHOOL%20OF%20DATA%202.jpg)
+
+### Phase 2 (Jan 2019 - Jun 2020)
+
+Phase 2 of the project is supported by the Grant-in-Aid (GIA) initiative of the Office of the Vice President for Research, University of Minnesota.
+
+**We are looking for a talented Research Assistant to lead the DataExpedition tool development!** Please get in touch with Prof. Chen if you are interested. 
 
 ### Phase 1 (May 2018)
 
@@ -29,11 +36,6 @@ Analysis Platform (CODAP)](https://codap.concord.org/) for data expeditions and 
 - Created a preliminary pedagogical design for DataExpedition in high school science
 
 Special thanks to the awesome project team -- Mariya Gyendina (PM), Lindsay Matts-Benson, Carolyn Rauber, Melinda Kernik, Danny Hanson, Ryan Mattke, and Frank Sayre -- who brought tremendous expertise, curiosity, and willingness to play.
-
-
-### Phase 2
-
-Forthcoming...
 
 ## Publications
 
