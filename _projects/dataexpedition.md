@@ -1,6 +1,6 @@
 ---
 title: "DataExpedition"
-image: https://www.colourbox.dk/preview/3616213-binaer-kode-data-digital-baggrund.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/8/84/Open_data_large_color_%28vector%29.svg
 description: |
   Supporting computational participation with open science data
 people:
