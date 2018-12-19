@@ -6,29 +6,12 @@
 #     image: /img/people/male_placeholder.jpg
 #     bio: "PhD student in LT"
 
-hongs:
-    display_name: "Hong Shui"
-    role: grad
-    image: /img/people/hongs.jpg
-    bio: "PhD student in LT"
 
 val:
     display_name: "Valerie Barbaro"
     role: grad
-    image: /img/people/female_placeholder.jpg
+    image: /img/people/female_placeholder.png
     bio: "PhD student in LT"
-
-yuhui:
-    display_name: "Yu-Hui Chang"
-    role: grad
-    image: /img/people/hui.jpg
-    bio: "PhD candidate in LT"
-
-wenjing:
-    display_name: "Wenjing Chen"
-    role: grad
-    image: /img/people/wenjing.jpg
-    bio: "MEd student in LT"
 
 batu:
     display_name: "William Batu"
@@ -43,6 +26,24 @@ ethan:
     image: /img/people/ethan.jpg
     bio: "PhD candidate in EdPsy"
         # Ethan is a PhD student in EdPsych interested in statistical thinking.
+
+yuhui:
+    display_name: "Yu-Hui Chang"
+    role: grad
+    image: /img/people/hui.jpg
+    bio: "PhD candidate in LT"
+
+wenjing:
+    display_name: "Wenjing Chen"
+    role: grad
+    image: /img/people/wenjing.jpg
+    bio: "MEd student in LT"
+
+hongs:
+    display_name: "Hong Shui"
+    role: grad
+    image: /img/people/hongs.jpg
+    bio: "PhD student in LT"
 
 ramya:
     display_name: "Ramya Sivaraj"
