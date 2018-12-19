@@ -6,6 +6,7 @@ description: |
 people:
   - bodong
   - ninger
+  - val
 
 layout: project
 status: active
@@ -20,7 +21,12 @@ Computing has become an integral part of the practice of modern science, technol
 
 Phase 2 of the project is supported by the Grant-in-Aid (GIA) initiative of the Office of the Vice President for Research, University of Minnesota.
 
-**We are looking for a talented Research Assistant to lead the DataExpedition tool development!** Please get in touch with Prof. Chen if you are interested. 
+Partners:
+
+- Humboldt High School, St Paul
+- Jackman Institute of Child Study Lab School, Toronto
+
+<!-- **We are looking for a talented Research Assistant to lead the DataExpedition tool development!** Please get in touch with Prof. Chen if you are interested.  -->
 
 ### Phase 1 (May 2018)
 

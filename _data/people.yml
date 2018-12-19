@@ -12,6 +12,12 @@ hongs:
     image: /img/people/hongs.jpg
     bio: "PhD student in LT"
 
+val:
+    display_name: "Valerie Barbaro"
+    role: grad
+    image: /img/people/female_placeholder.jpg
+    bio: "PhD student in LT"
+
 yuhui:
     display_name: "Yu-Hui Chang"
     role: grad
