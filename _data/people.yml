@@ -29,6 +29,7 @@ ethan:
 
 yuhui:
     display_name: "Yu-Hui Chang"
+    webpage: "https://twitter.com/yhuiChang"
     role: grad
     image: /img/people/hui.jpg
     bio: "PhD candidate in LT"
@@ -41,6 +42,7 @@ wenjing:
 
 hongs:
     display_name: "Hong Shui"
+    webpage: "https://twitter.com/shui_hong"
     role: grad
     image: /img/people/hongs.jpg
     bio: "PhD student in LT"
@@ -93,6 +95,12 @@ jon:
 #     role: vscholar
 #     image: /img/people/yizhou.jpg
 #     bio: "PhD student from Peking University"
+
+hwu:
+    display_name: "Huanqing Wu"
+    role: vscholar
+    image: /img/people/female_placeholder.png
+    bio: "Associate Professor from Qufu Normal University"
 
 # collaborators
 
