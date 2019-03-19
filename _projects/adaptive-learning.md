@@ -7,6 +7,7 @@ people:
   # - robert
   - michelle
   - bodong
+  - robert
 
 layout: project
 status: active
