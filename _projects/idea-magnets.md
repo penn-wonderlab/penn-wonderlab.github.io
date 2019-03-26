@@ -39,6 +39,8 @@ This project is in active development, with the first classroom pilots to happen
 
 ## Project Updates
 
+- 2019-03-26, [The project was featured at the CEHD Research Day](/blog/2019/03/26/cehd-research-day.html)
+- 2018-06-15, We presented tech design at the I Annotate conference in San Francisco.
 - 2017-12-08, [Participatory Design Workshop #2 notes](https://github.com/colig/discow-docs/blob/master/workshops/design-workshop-2.md)
 - 2017-12-01, a blog post titled [Participatory Design: A primer](https://colig.github.io/blog/2017/12/01/participatory-design-primer.html) (by PhD candidate Fan Ouyang)
 - 2017-11-15, [Participatory Design Workshop #1 notes](https://github.com/colig/discow-docs/blob/master/workshops/design-workshop-1.md)

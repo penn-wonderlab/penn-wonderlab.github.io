@@ -3,6 +3,7 @@ layout:     post
 title: IdeaMagnets Project Featured at the 2019 CEHD Research Day
 shortnews: false
 icon: slideshare
+author: Bodong Chen
 ---
 
 Bodong Chen and Yu-Hui Chang shared our ongoing work at the CEHD Research Day. 
