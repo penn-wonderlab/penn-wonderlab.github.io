@@ -60,8 +60,8 @@ This project is in active development, with the first classroom pilots to happen
 
 ## Publications
 
-- Chang, Y.-H., Chen, B., & Groos, D. (2019, April). *Teachers as Co-designers of a Knowledge Building Environment*. Paper to be presented at the 2019 Knowledge Building Summer Institute (KBSI), Toronto, ON, Canada. 
-- Chen, B., Chang, Y.-H., Groos, D., Chen, W., & Batu, W. (2019, April). *IdeaMagnets: Towards Knowledge Building on the Open Web*. Poster to be presented at the 2019 Knowledge Building Summer Institute (KBSI), Toronto, ON, Canada. 
+- Chang, Y.-H., Chen, B., Ouyang, F., Groos, D. & Alton, J. (2019, April). *Teachers as Co-designers of a Knowledge Building Environment*. Paper to be presented at the 2019 Knowledge Building Summer Institute (KBSI), Toronto, ON, Canada. 
+- Chen, B., Chang, Y.-H., Chen, W., Batu, W., Ouyang, F., & Groos, D. (2019, April). *IdeaMagnets: Towards Knowledge Building on the Open Web*. Poster to be presented at the 2019 Knowledge Building Summer Institute (KBSI), Toronto, ON, Canada. 
 - Chen, B., Chang, Y.-H., Groos, D., Chen, W., Batu, W., Costa, S., Peebles, B., & Ma, L. (2019, March). *IdeaMagnets: Bridging Knowledge Building in Schools with Public Discourse*. Poster presented at the CEHD Research Day, Minneapolis, MN. 
 -  Chen, B., Ouyang, F., Shoberg, J., & Reen, D. (2018, June). *Web annotation in classrooms as boundary play*. Panel presentation at the I Annotate 2018: At the Tipping Point: Annotation on the Web, San Francisco. 
 - Chen, B. (2018). Designing for Networked Collaborative Discourse: An UnLMS Approach. *TechTrends*, 1–8. https://doi.org/10.1007/s11528-018-0284-7
