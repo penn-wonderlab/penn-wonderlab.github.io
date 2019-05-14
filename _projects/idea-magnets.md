@@ -39,6 +39,7 @@ This project is in active development, with the first classroom pilots to happen
 
 ## Project Updates
 
+- 2019-04-10, we presented the IdeaMagnets project [2019 AERA Annual Meeting (#AERA19) and the Knowledge Building Summer Institute (#KBSI2019)](/blog/2019/04/10/aera19.html) collocated in Toronto, Canada
 - 2019-03-26, [The project was featured at the CEHD Research Day](/blog/2019/03/26/cehd-research-day.html)
 - 2018-06-15, We presented tech design at the I Annotate conference in San Francisco.
 - 2017-12-08, [Participatory Design Workshop #2 notes](https://github.com/colig/discow-docs/blob/master/workshops/design-workshop-2.md)
