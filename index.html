@@ -13,6 +13,8 @@ role_remain:
 
 ---
 
+<h2>About</h2>
+
 <div class="jumbotron">
   <p>
       The <b>Collective Learning and Intelligence Group (CoLIG)</b> is an interdisciplinary research group at the University of Minnesota. CoLIG members hold various research interests. We design innovative technology-enhanced learning environments, develop analytics applications, and conduct empirical research in various educational settings.
@@ -20,7 +22,7 @@ role_remain:
   <p>Please get in touch if you're interested in joining CoLIG!</p>
 </div>
 
-<h2>News</h2>
+<h2 id="news">News</h2>
 <ul class="news">
 {% for post in site.posts limit: site.front_page_news %}
 {% include news-item.html item=post %}
@@ -75,7 +77,7 @@ role_remain:
 {% endfor %}
 </div> -->
 
-<h2>People</h2>
+<h2 id="people">People</h2>
 
 <div class="row">
 {% for grp in page.role_groups %}

@@ -41,6 +41,10 @@ collections:
 navigation:
     - title: Home
       link: /
+    - title: News
+      link: /#news
+    - title: People
+      link: /#people
     - title: Research
       link: /research/
     # - title: Publications
