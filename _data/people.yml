@@ -22,10 +22,9 @@ batu:
 ethan:
     display_name: "Ethan Brown"
     webpage: "http://statisfactions.com/"
-    role: grad
+    role: alum
     image: /img/people/ethan.jpg
-    bio: "PhD candidate in EdPsy"
-        # Ethan is a PhD student in EdPsych interested in statistical thinking.
+    bio: "PhD in EdPsy"
 
 yuhui:
     display_name: "Yu-Hui Chang"
@@ -34,11 +33,31 @@ yuhui:
     image: /img/people/hui.jpg
     bio: "PhD candidate in LT"
 
+chenchen:
+    display_name: "Chen Chen"
+    role: grad
+    image: /img/people/chenchen.jpg
+    bio: "PhD student in LT"
+
 wenjing:
     display_name: "Wenjing Chen"
     role: grad
     image: /img/people/wenjing.jpg
     bio: "MEd student in LT"
+
+basel:
+    display_name: "Basel Hussein"
+    role: grad
+    image: /img/people/male_placeholder.jpg
+    bio: "PhD student in LT"
+
+
+robert:
+    display_name: "Robert Kreml"
+    role: grad
+    image: /img/people/male_placeholder.jpg
+    bio: "PhD student in LT"
+
 
 hongs:
     display_name: "Hong Shui"
@@ -55,6 +74,12 @@ ramya:
     bio: "PhD student in STEM Education"
       # I am a PhD student in STEM Education, with a focus on diverse cultural perspectives in STEM learning and a supporting minor in Learning Technologies. My research interests include exploring collaborative relationships between families/communities and education, and utilizing various technologies towards such equitable collaborations. I completed my undergraduate degree in Chemistry/Philosophy, and my master’s degree in Geochemistry. I taught 8th grade science for five years in a highly diverse middle school with the Chicago Public Schools. I also taught Geology courses with Northwestern University’s School of Continuing Education for four years. I hope to integrate my experiences with teaching and learning, while working with families and educators towards better understanding factors that influence STEM engagement, opportunities, and outcomes.
 
+xinran:
+    display_name: "Xinran Zhu"
+    role: grad
+    image: /img/people/female_placeholder.png
+    bio: "PhD student in LT"
+
 dipesh:
     display_name: "Dipesh Reen"
     role: alum
@@ -67,7 +92,7 @@ david:
     display_name: "David Groos"
     webpage: "https://twitter.com/djgroos?lang=en"
     role: teacher
-    image: /img/people/male_placeholder.jpg
+    image: "https://pbs.twimg.com/profile_images/3742118341/786217c615101e9ada82a6066c60b99b_400x400.jpeg"
     bio: "Highschool Science Teacher"
 
 # undergrad
@@ -99,7 +124,8 @@ jon:
 hwu:
     display_name: "Huanqing Wu"
     role: vscholar
-    image: /img/people/female_placeholder.png
+    webpage: http://cm.qfnu.edu.cn/info/1052/2208.htm
+    image: http://cm.qfnu.edu.cn/__local/3/0A/9F/4FBF99668D6239F124901D2E35C_E6E072E2_178E4.jpg
     bio: "Associate Professor from Qufu Normal University"
 
 # collaborators
@@ -111,11 +137,11 @@ hong:
     image: /img/people/male_placeholder.jpg
     bio: "National Chengchi U"
 
-lund:
-    display_name: "Kris Lund"
-    role: collab
-    image: /img/people/female_placeholder.jpg
-    bio: "U of Lyon"
+# lund:
+#     display_name: "Kris Lund"
+#     role: collab
+#     image: /img/people/female_placeholder.jpg
+#     bio: "U of Lyon"
 
 matsuzawa:
     display_name: "Yoshiaki Matsuzawa"
@@ -134,18 +160,18 @@ afwise:
     role: collab
     bio: "New York University"
 
-ninger:
-    display_name: "Ninger Zhou"
-    role: collab
-    image: https://0.academia-photos.com/34232858/11052788/12334059/s200_ninger.zhou.jpg
-    bio: "Postdoc at UC-Irvine"
+# ninger:
+#     display_name: "Ninger Zhou"
+#     role: collab
+#     image: https://0.academia-photos.com/34232858/11052788/12334059/s200_ninger.zhou.jpg
+#     bio: "Postdoc at UC-Irvine"
 
 stian:
     display_name: "Stian Haklev"
     role: collab
     webpage: http://reganmian.net/blog/
     image: https://lh6.googleusercontent.com/-9D1p8dRbFoQ/AAAAAAAAAAI/AAAAAAAAAAA/Y78D89dOYOM/s128-c-k/photo.jpg
-    bio: "Postdoc at EPFL, Lausanne"
+    bio: "EPFL, Lausanne"
 
 michelle:
     display_name: "Michelle Driessen"
