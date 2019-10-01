@@ -77,7 +77,8 @@ ramya:
 xinran:
     display_name: "Xinran Zhu"
     role: grad
-    image: /img/people/female_placeholder.png
+    webpage: "https://www.researchgate.net/profile/Xinran_Zhu5"
+    image: /img/people/xinran.jpeg
     bio: "PhD student in LT"
 
 dipesh:
@@ -123,10 +124,10 @@ jon:
 
 hwu:
     display_name: "Huanqing Wu"
-    role: vscholar
+    role: alum
     webpage: http://cm.qfnu.edu.cn/info/1052/2208.htm
     image: http://cm.qfnu.edu.cn/__local/3/0A/9F/4FBF99668D6239F124901D2E35C_E6E072E2_178E4.jpg
-    bio: "Associate Professor from Qufu Normal University"
+    bio: "Visiting scholar from Qufu Normal University"
 
 # collaborators
 
