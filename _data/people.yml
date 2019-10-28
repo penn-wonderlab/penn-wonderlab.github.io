@@ -10,13 +10,13 @@
 val:
     display_name: "Valerie Barbaro"
     role: grad
-    image: /img/people/female_placeholder.png
+    image: http://writing.umn.edu/alums/assets/val_barbaro.jpg #/img/people/female_placeholder.png
     bio: "PhD student in LT"
 
 batu:
     display_name: "William Batu"
     role: grad
-    image: /img/people/male_placeholder.jpg
+    image: /img/people/batu.jpeg
     bio: "M.S. student in CS"
 
 ethan:
@@ -48,14 +48,14 @@ wenjing:
 basel:
     display_name: "Basel Hussein"
     role: grad
-    image: /img/people/male_placeholder.jpg
+    image: https://miro.medium.com/fit/c/256/256/0*yVz4jBIFR7PKLy6d.jpg #/img/people/male_placeholder.jpg
     bio: "PhD student in LT"
 
 
 robert:
     display_name: "Robert Kreml"
     role: grad
-    image: /img/people/male_placeholder.jpg
+    image: https://i1.rgstatic.net/ii/profile.image/707581219708928-1545711917959_Q512/Robert_Kreml.jpg #/img/people/male_placeholder.jpg
     bio: "PhD student in LT"
 
 
@@ -94,7 +94,19 @@ david:
     webpage: "https://twitter.com/djgroos?lang=en"
     role: teacher
     image: "https://pbs.twimg.com/profile_images/3742118341/786217c615101e9ada82a6066c60b99b_400x400.jpeg"
-    bio: "Highschool Science Teacher"
+    bio: "MPS Science Teacher"
+
+craig:
+    display_name: "Craig Karlen"
+    role: teacher
+    image: /img/people/male_placeholder.jpg
+    bio: "SPPS Science Teacher"
+
+dan:
+    display_name: "Daniel Weyandt"
+    role: teacher
+    image: /img/people/male_placeholder.jpg
+    bio: "SPPS Science Teacher"
 
 # undergrad
 
@@ -200,7 +212,7 @@ wanying:
     display_name: "Wanying Zhou"
     role: alum
     image: /img/people/female_placeholder.png
-    bio: "Undergraduate in Psychology"
+    bio: "Undergrad in Psychology"
 
 tianhui:
     display_name: "Tianhui Huang"
