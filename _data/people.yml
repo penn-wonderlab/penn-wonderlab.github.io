@@ -58,6 +58,12 @@ robert:
     image: https://i1.rgstatic.net/ii/profile.image/707581219708928-1545711917959_Q512/Robert_Kreml.jpg #/img/people/male_placeholder.jpg
     bio: "PhD student in LT"
 
+rukmini:
+    display_name: "Rukmini Manasa"
+    webpage: "https://www.researchgate.net/profile/Rukmini_Manasa_Avadhanam"
+    role: grad
+    image: "https://i1.rgstatic.net/ii/profile.image/672764373520384-1537410934234_Q512/Rukmini_Manasa_Avadhanam.jpg"
+    bio: "PhD student in LT"
 
 hongs:
     display_name: "Hong Shui"
@@ -86,6 +92,7 @@ dipesh:
     role: alum
     image: /img/people/male_placeholder.jpg
     bio: "MS graduate in CS"
+
 
 # teacher
 
@@ -194,6 +201,7 @@ michelle:
     bio: "University of Minnesota"
 
 # alums
+
 
 fan:
     display_name: "Fan Ouyang"

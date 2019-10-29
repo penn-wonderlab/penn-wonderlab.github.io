@@ -1,30 +1,43 @@
 ---
-title: "DataExpedition"
+title: "DataX: Integrated Data Science in STEM Classroom"
 image: https://upload.wikimedia.org/wikipedia/commons/8/84/Open_data_large_color_%28vector%29.svg
 description: |
   Supporting computational participation with open science data
 people:
   - bodong
-  - val
+  - rukmini
   - batu
+  - wenjing
+  - val
 
 layout: project
 status: active
 
 ---
 
-Computing has become an integral part of the practice of modern science, technology, engineering and mathematics (STEM), inspiring educators to integrate computing with STEM learning. This project aims to develop a pedagogical model -- *DataExpedition* -- to engage students in building scientific explanations based on real-world open science data, computing, and classroom dialogues. DataExpedition would not only nurture crucial scientific practices emphasized by the Next Generation Science Standards, but also make science learning more connected with real-world problems and aligned with real-world scientific practices.
+Computing has become an integral part of the practice of modern science, technology, engineering and mathematics (STEM), inspiring educators to integrate computing with STEM learning. This project aims to develop a pedagogical model -- *Data Expedition* or *DataX* -- to engage students in building scientific explanations based on real-world open science data, computing, and classroom dialogues. DataX would not only nurture crucial scientific practices emphasized by the Next Generation Science Standards, but also make science learning more connected with real-world problems and aligned with real-world scientific practices.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/8/84/Open_data_large_color_%28vector%29.svg)
 
 ### Phase 2 (Jan 2019 - Jun 2020)
 
-Phase 2 of the project is supported by the Grant-in-Aid (GIA) initiative of the Office of the Vice President for Research, University of Minnesota.
+Phase 2 of the project is supported by the Grant-in-Aid (GIA) initiative of the Office of the Vice President for Research, University of Minnesota. 
 
-Partners:
+#### Co-design with teachers
 
-- Humboldt High School, St Paul
+In this phase, we are co-designing pedagogical interventions with K-12 teachers.
+
+Partner schools include:
+
+- Central High School, St Paul
+- Harding High School, St Paul
 - Jackman Institute of Child Study Lab School, Toronto
+
+#### DataX platform
+
+We are also developing a DataX platform that supports learners' computational participation across disciplines. Below is a screenshot of the platform we are currently developing. 
+
+<img src="/img/datax.png" width = "80%" />
 
 <!-- **We are looking for a talented Research Assistant to lead the DataExpedition tool development!** Please get in touch with Prof. Chen if you are interested.  -->
 
