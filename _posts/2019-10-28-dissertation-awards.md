@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: "Alumli of the Group Win Dissertation Awards"
+title: "Alumni of the Group Win Dissertation Awards"
 shortnews: false
 icon: rocket
 author: admin
