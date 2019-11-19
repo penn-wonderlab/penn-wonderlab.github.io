@@ -37,7 +37,8 @@ Partner schools include:
 
 We are also developing a DataX platform that supports learners' computational participation across disciplines. Below is a screenshot of the platform we are currently developing. 
 
-<img src="/img/datax.png" width = "80%" />
+<img src="/img/datax.gif" width = "80%" />
+<!-- <img src="/img/datax.png" width = "80%" /> -->
 
 <!-- **We are looking for a talented Research Assistant to lead the DataExpedition tool development!** Please get in touch with Prof. Chen if you are interested.  -->
 
@@ -58,4 +59,5 @@ Special thanks to the awesome project team -- Mariya Gyendina (PM), Lindsay Matt
 
 ## Publications
 
-Forthcoming...
+- Rosenberg, J.M., Edwards, A., & Chen, B. (in press). Tools and strategies for engaging students in analyzing and interpreting complex data sources. *The Science Teacher*.
+- Chen, B., Ma, L., Peebles, B., & Barbaro, V. (2020, April). *Data Expedition in a Knowledge Building Community*. Paper to be presented in the "Exploring Data Science Across the Curriculum and Across Grade Levels" Structured Poster Session at the 2020 AERA Annual Meeting, San Francisco, CA.
