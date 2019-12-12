@@ -5,10 +5,10 @@ description: |
   CRII: Cyberlearning: Connecting Web Annotations and Progressive Online Discourse in Science Classrooms.
 people:
   - bodong
-  - wenjing
   - yuhui
-  - batu
   - david
+  - wenjing
+  - batu
   - jon
   - fan
   - dipesh
