@@ -35,10 +35,11 @@ The **IdeaMagnets** project aims to make knowledge building in science classroom
 <!-- ![](/img/img_posts/ideamagnets-import.gif) -->
 <img src="/img/img_posts/ideamagnets-import.gif" width="70%" alt="import annotations">
 
-This project is in active development, with the first classroom pilots to happen in Fall 2018.
+This project is concluding in March 2020.
 
 ## Project Updates
 
+- 2019-12-05, Bodong Chen delivered a theme-based invited speech titled "Creating Conditions for Knowledge Building for the Public Good" at the ICCE conference in Taiwan, Kenting. See [slides](https://speakerdeck.com/bodong/icce-2019-theme-based-invited-speech-creating-conditions-for-knowledge-building-for-the-public-good?slide=15), and the [video recording](https://youtu.be/7j2fmdT31eM?t=1135). 
 - 2019-04-10, we presented the IdeaMagnets project [2019 AERA Annual Meeting (#AERA19) and the Knowledge Building Summer Institute (#KBSI2019)](/blog/2019/04/10/aera19.html) collocated in Toronto, Canada
 - 2019-03-26, [The project was featured at the CEHD Research Day](/blog/2019/03/26/cehd-research-day.html)
 - 2018-06-15, We presented tech design at the I Annotate conference in San Francisco.
