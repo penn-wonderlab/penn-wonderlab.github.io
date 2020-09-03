@@ -10,7 +10,7 @@ people:
   - robert
 
 layout: project
-status: active
+status: inactive
 
 ---
 

@@ -11,7 +11,7 @@ people:
   - tianhui
 
 layout: project
-status: active
+status: inactive
 
 ---
 

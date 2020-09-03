@@ -41,9 +41,9 @@ chenchen:
 
 wenjing:
     display_name: "Wenjing Chen"
-    role: grad
+    role: alum
     image: /img/people/wenjing.jpg
-    bio: "MEd student in LT"
+    bio: "MEd graduate in LT"
 
 basel:
     display_name: "Basel Hussein"
@@ -197,7 +197,7 @@ michelle:
     display_name: "Michelle Driessen"
     role: collab
     webpage: https://chem.umn.edu/profiles/michelle-driessen
-    image: https://chem.umn.edu/sites/chem.umn.edu/files/styles/profile_node/public/michelledriessen2.jpg
+    image: https://cse.umn.edu/sites/cse.umn.edu/files/styles/full/public/DreissenMichelleNP.jpg
     bio: "University of Minnesota"
 
 # alums
