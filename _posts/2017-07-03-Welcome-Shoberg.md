@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Welcome Jonathan Shoberg to CLIG"
+title:      "Welcome Jonathan Shoberg to the Group"
 author:     Admin
 category:  DiscoW
 tags:
@@ -8,7 +8,7 @@ tags:
 icon: address-book
 ---
 
-Jonathan Shoberg, an undergraduate student studying computer science at UMN, will join CLIG this summer to work on the NSF-funded Discow project. Jon has been an active member in the Learning Sciences reading group convened by Drs. Keisha Varma and Bodong Chen. We look forward to his contributions to this project.
+Jonathan Shoberg, an undergraduate student studying computer science at UMN, will join our group this summer to work on the NSF-funded Discow project. Jon has been an active member in the Learning Sciences reading group convened by Drs. Keisha Varma and Bodong Chen. We look forward to his contributions to this project.
 
 Below is a short bio of Jon:
 
