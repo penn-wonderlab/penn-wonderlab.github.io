@@ -10,7 +10,7 @@
 val:
     display_name: "Valerie Barbaro"
     role: grad
-    image: http://writing.umn.edu/alums/assets/val_barbaro.jpg #/img/people/female_placeholder.png
+    image: https://media-exp1.licdn.com/dms/image/C4E03AQF_EAipNERUOw/profile-displayphoto-shrink_200_200/0?e=1607558400&v=beta&t=fFa0DE7sm6u3SyCmntcDjHVqpj9MWXnr-8gh0KXeUcY
     bio: "PhD student in LT"
 
 batu:
