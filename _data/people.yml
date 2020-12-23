@@ -10,12 +10,12 @@
 val:
     display_name: "Valerie Barbaro"
     role: grad
-    image: https://media-exp1.licdn.com/dms/image/C4E03AQF_EAipNERUOw/profile-displayphoto-shrink_200_200/0?e=1607558400&v=beta&t=fFa0DE7sm6u3SyCmntcDjHVqpj9MWXnr-8gh0KXeUcY
+    image: https://media-exp1.licdn.com/dms/image/C4E03AQF_EAipNERUOw/profile-displayphoto-shrink_200_200/0/1568650322864?e=1614211200&v=beta&t=u1_FAe5IFgyWUpUdZoVpBPCFAfMiOxUbUR6rn8dV_Wk
     bio: "PhD student in LT"
 
 batu:
     display_name: "William Batu"
-    role: grad
+    role: alum
     image: /img/people/batu.jpeg
     bio: "M.S. student in CS"
 
@@ -72,13 +72,13 @@ hongs:
     image: /img/people/hongs.jpg
     bio: "PhD student in LT"
 
-ramya:
-    display_name: "Ramya Sivaraj"
-    # webpage: "https://fanouyang.net/"
-    role: grad
-    image: /img/people/sivaraj.png
-    bio: "PhD student in STEM Education"
-      # I am a PhD student in STEM Education, with a focus on diverse cultural perspectives in STEM learning and a supporting minor in Learning Technologies. My research interests include exploring collaborative relationships between families/communities and education, and utilizing various technologies towards such equitable collaborations. I completed my undergraduate degree in Chemistry/Philosophy, and my master’s degree in Geochemistry. I taught 8th grade science for five years in a highly diverse middle school with the Chicago Public Schools. I also taught Geology courses with Northwestern University’s School of Continuing Education for four years. I hope to integrate my experiences with teaching and learning, while working with families and educators towards better understanding factors that influence STEM engagement, opportunities, and outcomes.
+# ramya:
+#     display_name: "Ramya Sivaraj"
+#     # webpage: "https://fanouyang.net/"
+#     role: grad
+#     image: /img/people/sivaraj.png
+#     bio: "PhD student in STEM Education"
+#       # I am a PhD student in STEM Education, with a focus on diverse cultural perspectives in STEM learning and a supporting minor in Learning Technologies. My research interests include exploring collaborative relationships between families/communities and education, and utilizing various technologies towards such equitable collaborations. I completed my undergraduate degree in Chemistry/Philosophy, and my master’s degree in Geochemistry. I taught 8th grade science for five years in a highly diverse middle school with the Chicago Public Schools. I also taught Geology courses with Northwestern University’s School of Continuing Education for four years. I hope to integrate my experiences with teaching and learning, while working with families and educators towards better understanding factors that influence STEM engagement, opportunities, and outcomes.
 
 xinran:
     display_name: "Xinran Zhu"
