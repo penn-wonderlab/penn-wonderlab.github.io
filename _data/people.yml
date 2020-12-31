@@ -55,7 +55,7 @@ basel:
 robert:
     display_name: "Robert Kreml"
     role: grad
-    image: https://i1.rgstatic.net/ii/profile.image/707581219708928-1545711917959_Q512/Robert_Kreml.jpg #/img/people/male_placeholder.jpg
+    image: /img/people/male_placeholder.jpg
     bio: "PhD student in LT"
 
 rukmini:
