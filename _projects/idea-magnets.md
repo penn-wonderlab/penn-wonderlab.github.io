@@ -35,10 +35,11 @@ The **IdeaMagnets** project aims to make knowledge building in science classroom
 <!-- ![](/img/img_posts/ideamagnets-import.gif) -->
 <img src="/img/img_posts/ideamagnets-import.gif" width="70%" alt="import annotations">
 
-This project is concluding in March 2020.
+This project has been concluded in March 2020.
 
 ## Project Updates
 
+- 2010-11-20, The project team presented a paper titled [Crisscrossing Information Spaces with the IdeaMagnets Tool](/file/KBSI2020_IdeaMagnets.pdf/) at [KBSI 2020](https://ikit.org/summerinstitute2020/index.php/program/). Check out [a brief presentation here](https://play.library.utoronto.ca/play/6a41e5572d1f001035ec234414f85991).
 - 2019-12-05, Bodong Chen delivered a theme-based invited speech titled "Creating Conditions for Knowledge Building for the Public Good" at the ICCE conference in Taiwan, Kenting. See [slides](https://speakerdeck.com/bodong/icce-2019-theme-based-invited-speech-creating-conditions-for-knowledge-building-for-the-public-good?slide=15), and the [video recording](https://youtu.be/7j2fmdT31eM?t=1135). 
 - 2019-04-10, we presented the IdeaMagnets project [2019 AERA Annual Meeting (#AERA19) and the Knowledge Building Summer Institute (#KBSI2019)](/blog/2019/04/10/aera19.html) collocated in Toronto, Canada
 - 2019-03-26, [The project was featured at the CEHD Research Day](/blog/2019/03/26/cehd-research-day.html)
@@ -62,6 +63,8 @@ This project is concluding in March 2020.
 
 ## Publications
 
+- Chen, B., Chang, Y.-H., & Groos, D. (2020, November). Crisscrossing Information Spaces with the IdeaMagnets Tool. 2020 Knowledge Building Summer Institute, Online.
+- Chen, B., Chang, Y.-H., & Groos, D. (2020). Bridging Public Discourse and Knowledge Building Discourse in Science Classrooms with the IdeaMagnets Tool. In M. Gresalfi & I. S. Horn (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, Volume 2 (pp. 863–864). International Society of the Learning Sciences. https://doi.org/10.22318/icls2020.863
 - Chang, Y.-H., Chen, B., Ouyang, F., Groos, D. & Alton, J. (2019, April). *Teachers as Co-designers of a Knowledge Building Environment*. Paper to be presented at the 2019 Knowledge Building Summer Institute (KBSI), Toronto, ON, Canada. 
 - Chen, B., Chang, Y.-H., Chen, W., Batu, W., Ouyang, F., & Groos, D. (2019, April). *IdeaMagnets: Towards Knowledge Building on the Open Web*. Poster to be presented at the 2019 Knowledge Building Summer Institute (KBSI), Toronto, ON, Canada. 
 - Chen, B., Chang, Y.-H., Groos, D., Chen, W., Batu, W., Costa, S., Peebles, B., & Ma, L. (2019, March). *IdeaMagnets: Bridging Knowledge Building in Schools with Public Discourse*. Poster presented at the CEHD Research Day, Minneapolis, MN. 
