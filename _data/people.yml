@@ -1,12 +1,5 @@
 # grad
 
-# robert:
-#     display_name: "Robert Kreml"
-#     role: grad
-#     image: /img/people/male_placeholder.jpg
-#     bio: "PhD student in LT"
-
-
 val:
     display_name: "Valerie Barbaro"
     role: grad
@@ -51,18 +44,16 @@ basel:
     image: https://miro.medium.com/fit/c/256/256/0*yVz4jBIFR7PKLy6d.jpg #/img/people/male_placeholder.jpg
     bio: "PhD student in LT"
 
-
 robert:
     display_name: "Robert Kreml"
     role: grad
-    image: /img/people/male_placeholder.jpg
     bio: "PhD student in LT"
 
 rukmini:
     display_name: "Rukmini Manasa"
     webpage: "https://www.researchgate.net/profile/Rukmini_Manasa_Avadhanam"
     role: grad
-    image: "https://i1.rgstatic.net/ii/profile.image/822055473795074-1573004706991_Q128/Rukmini_Manasa_Avadhanam.jpg"
+    image: /img/people/rukmini.jpg
     bio: "PhD student in LT"
 
 hongs:
@@ -141,12 +132,7 @@ jon:
 #     image: /img/people/yizhou.jpg
 #     bio: "PhD student from Peking University"
 
-hwu:
-    display_name: "Huanqing Wu"
-    role: alum
-    webpage: http://cm.qfnu.edu.cn/info/1052/2208.htm
-    image: http://cm.qfnu.edu.cn/__local/3/0A/9F/4FBF99668D6239F124901D2E35C_E6E072E2_178E4.jpg
-    bio: "Visiting scholar from Qufu Normal University"
+
 
 # collaborators
 
@@ -175,10 +161,10 @@ qiong:
     image: /img/people/qiong.jpg
     bio: "Peking University"
 
-afwise:
-    display_name: "Alyssa Wise"
-    role: collab
-    bio: "New York University"
+# afwise:
+#     display_name: "Alyssa Wise"
+#     role: collab
+#     bio: "New York University"
 
 # ninger:
 #     display_name: "Ninger Zhou"
@@ -186,22 +172,28 @@ afwise:
 #     image: https://0.academia-photos.com/34232858/11052788/12334059/s200_ninger.zhou.jpg
 #     bio: "Postdoc at UC-Irvine"
 
-stian:
-    display_name: "Stian Haklev"
-    role: collab
-    webpage: http://reganmian.net/blog/
-    image: https://lh6.googleusercontent.com/-9D1p8dRbFoQ/AAAAAAAAAAI/AAAAAAAAAAA/Y78D89dOYOM/s128-c-k/photo.jpg
-    bio: "EPFL, Lausanne"
+# stian:
+#     display_name: "Stian Haklev"
+#     role: collab
+#     webpage: http://reganmian.net/blog/
+#     image: https://lh6.googleusercontent.com/-9D1p8dRbFoQ/AAAAAAAAAAI/AAAAAAAAAAA/Y78D89dOYOM/s128-c-k/photo.jpg
+#     bio: "EPFL, Lausanne"
 
-michelle:
-    display_name: "Michelle Driessen"
-    role: collab
-    webpage: https://chem.umn.edu/profiles/michelle-driessen
-    image: https://cse.umn.edu/sites/cse.umn.edu/files/styles/full/public/DreissenMichelleNP.jpg
-    bio: "University of Minnesota"
+# michelle:
+#     display_name: "Michelle Driessen"
+#     role: collab
+#     webpage: https://chem.umn.edu/profiles/michelle-driessen
+#     image: https://cse.umn.edu/sites/cse.umn.edu/files/styles/full/public/DreissenMichelleNP.jpg
+#     bio: "University of Minnesota"
 
 # alums
 
+hwu:
+    display_name: "Huanqing Wu"
+    role: alum
+    webpage: http://cm.qfnu.edu.cn/info/1052/2208.htm
+    image: http://cm.qfnu.edu.cn/__local/3/0A/9F/4FBF99668D6239F124901D2E35C_E6E072E2_178E4.jpg
+    bio: "Visiting scholar from Qufu Normal University"
 
 fan:
     display_name: "Fan Ouyang"
