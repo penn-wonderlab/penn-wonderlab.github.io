@@ -8,7 +8,7 @@ people:
   - bodong
 
 layout: project
-status: active
+status: inactive
 
 ---
 
@@ -19,7 +19,3 @@ The purpose of this project is to support personal learning on the open web.
 Links:
 
 - [Github](https://github.com/colig/PLC)
-
-## References
-
-- Upcoming

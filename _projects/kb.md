@@ -1,6 +1,6 @@
 ---
 title: Knowledge Building Pedagogy and Technology
-image:
+image: /img/kb.png
 description: |
   Design-based research on education for knowledge creation
 people:

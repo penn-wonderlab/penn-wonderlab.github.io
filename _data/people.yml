@@ -172,19 +172,19 @@ qiong:
 #     image: https://0.academia-photos.com/34232858/11052788/12334059/s200_ninger.zhou.jpg
 #     bio: "Postdoc at UC-Irvine"
 
-# stian:
-#     display_name: "Stian Haklev"
-#     role: collab
-#     webpage: http://reganmian.net/blog/
-#     image: https://lh6.googleusercontent.com/-9D1p8dRbFoQ/AAAAAAAAAAI/AAAAAAAAAAA/Y78D89dOYOM/s128-c-k/photo.jpg
-#     bio: "EPFL, Lausanne"
+stian:
+    display_name: "Stian Haklev"
+    role: collab
+    webpage: http://reganmian.net/blog/
+    image: https://lh6.googleusercontent.com/-9D1p8dRbFoQ/AAAAAAAAAAI/AAAAAAAAAAA/Y78D89dOYOM/s128-c-k/photo.jpg
+    bio: "EPFL, Lausanne"
 
-# michelle:
-#     display_name: "Michelle Driessen"
-#     role: collab
-#     webpage: https://chem.umn.edu/profiles/michelle-driessen
-#     image: https://cse.umn.edu/sites/cse.umn.edu/files/styles/full/public/DreissenMichelleNP.jpg
-#     bio: "University of Minnesota"
+michelle:
+    display_name: "Michelle Driessen"
+    # role: collab
+    webpage: https://chem.umn.edu/profiles/michelle-driessen
+    image: https://cse.umn.edu/sites/cse.umn.edu/files/styles/full/public/DreissenMichelleNP.jpg
+    bio: "University of Minnesota"
 
 # alums
 
