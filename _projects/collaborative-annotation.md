@@ -17,10 +17,15 @@ status: active
 
 Social annotation is a genre of information technology that allows a user to annotate information in a shared document and anchor a discussion to the annotated information. When it is used socially in online classrooms, web annotation can support social reading, group sensemaking, knowledge construction, and community building. Under the pandemic, more instructors are integrating social annotation to support collaborative learning. 
 
+To support several instructors’ pivot to online teaching, we conducted a study that was focused on engaging undergraduate students in reading and discussing course materials in online classes. Following a co-design approach, we worked closely with instructors to design a generic scaffolding framework for social annotation activities and supported them to implement the framework, with course-specific customizations, in their classes. All participating courses are piloting a web annotation tool named Hypothes.is that allows students to read and annotate socially. 
+
+
 ## Partners
 
 - College of Liberal Arts, University of Minnesota
 - School of Public Health, Duke University
+
+## Presentations
 
 ## Publications
 
