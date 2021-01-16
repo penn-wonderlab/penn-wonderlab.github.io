@@ -15,7 +15,7 @@ status: active
 
 ## Synopsis
 
-xx
+Social annotation is a genre of information technology that allows a user to annotate information in a shared document and anchor a discussion to the annotated information. When it is used socially in online classrooms, web annotation can support social reading, group sensemaking, knowledge construction, and community building. Under the pandemic, more instructors are integrating social annotation to support collaborative learning. 
 
 ## Partners
 
