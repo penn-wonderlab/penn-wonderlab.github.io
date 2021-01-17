@@ -26,6 +26,7 @@ To support several instructors’ pivot to online teaching, we conducted a study
 - School of Public Health, Duke University
 
 ## Presentations
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ut25Dm4eNhk?list=PLmuJEyeapl2ceOSuvT83CwGuJ64ceMaqp" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Publications
 
