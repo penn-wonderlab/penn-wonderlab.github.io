@@ -1,4 +1,4 @@
-name: Learning Futures Group
+name: Learning Futures Research Group
 url: https://learningfutures.github.io/
 
 exclude: [bibble, README.md, Makefile, Dockerfile]
