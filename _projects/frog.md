@@ -2,7 +2,7 @@
 title: "Orchestrating Idea Flows in Knowledge Communities"
 image: /img/flow-frog.png
 description: |
-  The purpose of this project is to examine the extent to which Orchestration Graphs could facilitate productive collaboration in online classes. 
+  The purpose of this project is to examine how orchestration graphs could facilitate productive collaboration in online classes. 
 people:
   - bodong
   - stian
