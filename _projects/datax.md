@@ -59,6 +59,6 @@ Special thanks to the awesome project team -- Mariya Gyendina (PM), Lindsay Matt
 
 ## Publications
 
-- Chen, B., & Avadhanam, A. (2021, June). [Integrating Data Science Explorations in Science Classrooms](../file/ISLS2021-datax-final.pdf). Poster presented at the Annual Meeting 2021, Online.
+- Chen, B., & Avadhanam, A. (2021, June). [Integrating Data Science Explorations in Science Classrooms](../file/ISLS2021-datax-final.pdf). Poster presented at the ISLS Annual Meeting 2021, Online.
 - Rosenberg, J., Edwards, A., & Chen, B. (2020). [Getting messy with data: Tools and strategies to help students analyze and interpret complex data sources](https://www.researchgate.net/publication/338926472_Getting_Messy_With_Data). *The Science Teacher, 87*(5), 30–34.
 - Chen, B., Ma, L., Peebles, B., & Barbaro, V. (2020, April). *[Data Expedition in a Knowledge Building Community](AERA20-data-science-across-curriculum.pdf)*. Paper to be presented in the "Exploring Data Science Across the Curriculum and Across Grade Levels" Structured Poster Session at the 2020 AERA Annual Meeting, San Francisco, CA.
