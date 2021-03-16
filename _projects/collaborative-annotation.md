@@ -2,7 +2,7 @@
 title: "Collaborative Annotation in College Classrooms"
 image: /img/annotation.png
 description: |
-  Supporting social and collaboration in college classrooms
+  Support social and collaborative annotation in college classrooms, through design partnerships
 people:
   - xinran
   - hongs

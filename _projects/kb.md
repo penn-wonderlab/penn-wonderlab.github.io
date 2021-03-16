@@ -2,7 +2,7 @@
 title: Knowledge Building Pedagogy and Technology
 image: /img/kb.png
 description: |
-  Design-based research on education for knowledge creation
+  Long-standing design-based research project to promote "education for knowledge creation"
 people:
   - bodong
   - hong
