@@ -1,18 +1,15 @@
 ---
-title: "DataX: Exploring Justice-Oriented Data Science with Secondary School Students"
+title: "DataX"
 image: https://upload.wikimedia.org/wikipedia/commons/8/84/Open_data_large_color_%28vector%29.svg
 description: |
   Supporting computational participation with open science data
-people:
-  - bodong
-  - rukmini
-  - batu
-  - wenjing
 
 layout: project
 status: active
 
 ---
+
+## DataX: Exploring Justice-Oriented Data Science with Secondary School Students
 
 DataX is [an NSF DRK-12 project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101413) that aims to develop an integrated, justice-oriented curriculum and a digital platform for teaching secondary students. 
 
@@ -27,7 +24,7 @@ DataX is [an NSF DRK-12 project](https://www.nsf.gov/awardsearch/showAward?AWD_I
 ![](https://www.nsf.gov/awardsearch/images/common/head.gif)
 <!-- ![](https://upload.wikimedia.org/wikipedia/commons/8/84/Open_data_large_color_%28vector%29.svg) -->
 
-## Phase 1 (2020-2021)
+## Phase 1 (2021-2022)
 
 (More soon...)
 
