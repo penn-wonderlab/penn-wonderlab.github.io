@@ -1,8 +1,8 @@
 ---
 title: "DataX"
-image: https://upload.wikimedia.org/wikipedia/commons/8/84/Open_data_large_color_%28vector%29.svg
+image: https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg
 description: |
-  Supporting computational participation with open science data
+  Exploring Justice-Oriented Data Science with Secondary School Students
 
 layout: project
 status: active

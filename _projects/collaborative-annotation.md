@@ -26,11 +26,16 @@ To support several instructors’ pivot to online teaching since Fall 2020, we c
 - School of Public Health, Duke University
 
 ## Presentations
-We participated the [Liquid Margin](https://web.hypothes.is/liquid-margins/), a show gathers talk about collaborative social annotion hosted by Hypothes.is to share our practice and research. In this eposide, we focused on how learning scientists and instructors can partner to successfully implement and use social annotation in diverse disciplines across higher education.
+
+- Zhu, X., Shui, H., & Chen, B. (2021, June). *Designing Support for Productive Social Interaction and Knowledge Co-construction in Collaborative Annotation*. Panel presentation at the [I Annotate 2021 Conference](https://iannotate.org/2021/), Online. [[**Slides**](../file/IAnnotate2021-Zhu.pdf)]
+
+<img src="../img/ianno21.jpeg" width = "600px"/>
+
+- We participated the [Liquid Margin](https://web.hypothes.is/liquid-margins/), a show gathers talk about collaborative social annotion hosted by Hypothes.is to share our practice and research. In this eposide, we focused on how learning scientists and instructors can partner to successfully implement and use social annotation in diverse disciplines across higher education.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ut25Dm4eNhk?list=PLmuJEyeapl2ceOSuvT83CwGuJ64ceMaqp" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Publications
 
-- Zhu, X., Shui, H., & Chen, B. (2020). A Scaffolding Framework for Social Annotation in Online Classes. EdArXiv. [https://doi.org/10.35542/osf.io/zk4vj](https://doi.org/10.35542/osf.io/zk4vj)
+- Zhu, X., Shui, H., & Chen, B. (2020, preprint). A Scaffolding Framework for Social Annotation in Online Classes. EdArXiv. [https://doi.org/10.35542/osf.io/zk4vj](https://doi.org/10.35542/osf.io/zk4vj)
 - Zhu, X., Chen, B., Avadhanam, R. M., Shui, H., & Zhang, R. Z. (2020). Reading and connecting: Using social annotation in online classes. Information and Learning Sciences, 121(5/6), 261–271. [https://doi.org/10.1108/ILS-04-2020-0117](https://doi.org/10.1108/ILS-04-2020-0117)
 - Chen, B. (2019). Designing for Networked Collaborative Discourse: An UnLMS Approach. TechTrends, 63(2), 194–201. [https://doi.org/10.1007/s11528-018-0284-7](https://doi.org/10.1007/s11528-018-0284-7)
