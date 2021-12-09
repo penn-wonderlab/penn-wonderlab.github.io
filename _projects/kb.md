@@ -7,6 +7,7 @@ people:
   - bodong
   - hong
   - matsuzawa
+  - shanyu
 
 layout: project
 status: active

@@ -21,7 +21,7 @@ ethan:
 yuhui:
     display_name: "Yu-Hui Chang"
     webpage: "https://twitter.com/yhuiChang"
-    role: grad
+    role: alum
     image: /img/people/hui.jpg
     bio: "PhD candidate in LT"
 
@@ -54,6 +54,12 @@ rukmini:
     role: grad
     image: /img/people/rukmini.jpg
     bio: "PhD student in LT"
+
+shanyu:
+    display_name: "Shan Yu"
+    role: grad
+    image: https://i1.rgstatic.net/ii/profile.image/299399507922950-1448393813833_Q512/Shan-Yu-22.jpg
+    bio: "PhD candidate in Design"
 
 hongs:
     display_name: "Hong Shui"
@@ -95,7 +101,7 @@ david:
 
 craig:
     display_name: "Craig Karlen"
-    role: teacher
+    role: alum
     image: /img/people/male_placeholder.jpg
     bio: "SPPS Science Teacher"
 
@@ -151,7 +157,8 @@ hong:
 matsuzawa:
     display_name: "Yoshiaki Matsuzawa"
     role: collab
-    image: /img/people/male_placeholder.jpg
+    webpage: http://www.matsuzawalab.info/
+    image: /img/people/yoshiaki.jpg
     bio: "Aoyama Gakuin U"
 
 qiong:
@@ -176,7 +183,7 @@ stian:
     role: collab
     webpage: http://reganmian.net/blog/
     image: https://lh6.googleusercontent.com/-9D1p8dRbFoQ/AAAAAAAAAAI/AAAAAAAAAAA/Y78D89dOYOM/s128-c-k/photo.jpg
-    bio: "EPFL, Lausanne"
+    bio: "Minerva Project"
 
 michelle:
     display_name: "Michelle Driessen"
