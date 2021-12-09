@@ -26,7 +26,7 @@ We designed a generic scaffolding framework comprising three scripted participat
 
 <img width="820" alt="Screen Shot 2021-12-09 at 12 36 59 PM" src="https://user-images.githubusercontent.com/52936789/145448419-8def9806-e9fd-48cd-8482-36a5e5f8220f.png">
 
-#### Designing Social Annotation Synthesizer (SASy) : a Tool for Knowledge Synthesis 
+#### Designing a Technology Support for Knowledge Synthesis -- Social Annotation Synthesizer (SASy)
 
 SASy is a tool for knowledge synthesis in collaborative sense-making and knowledge building. SASy aims to support the creation of knowledge synthesis, which does not only summarize existing ideas but also investigates connections across sources and generates novel knowledge, akin to the notion of “rise-aboves” in knowledge building (Scardamalia & Bereiter, 2014). As a scaffolding tool, SASy emphasizes the indispensability of connecting ideas and guides students through the key steps of making generative synthesis, including searching for relevant ideas, connecting, categorizing and rising above scattered ideas, and writing up the synthesis. 
 
