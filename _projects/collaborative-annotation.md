@@ -30,7 +30,7 @@ We designed a generic scaffolding framework comprising three scripted participat
 
 SASy is a tool for knowledge synthesis in collaborative sense-making and knowledge building. SASy aims to support the creation of knowledge synthesis, which does not only summarize existing ideas but also investigates connections across sources and generates novel knowledge, akin to the notion of “rise-aboves” in knowledge building (Scardamalia & Bereiter, 2014). As a scaffolding tool, SASy emphasizes the indispensability of connecting ideas and guides students through the key steps of making generative synthesis, including searching for relevant ideas, connecting, categorizing and rising above scattered ideas, and writing up the synthesis. 
 
-<img width="1557" alt="SASy_final" src="https://user-images.githubusercontent.com/52936789/145449753-01425de1-b4a4-4a0d-b25e-ec8be6189f55.png">
+<img width="920" alt="SASy_final" src="https://user-images.githubusercontent.com/52936789/145449753-01425de1-b4a4-4a0d-b25e-ec8be6189f55.png">
 
 ## Partners
 
