@@ -24,13 +24,13 @@ To support several instructors’ pivot to online teaching since Fall 2020, we c
 We designed a generic scaffolding framework comprising three scripted participation roles based on the CSCL literature (Strijbos & Weinberger, 2010; Wise et al., 2012). These roles are: a *facilitator* responsible for stimulating conversations by finding connections, seeking clarifications, and encouraging their peers to consistently tag their annotations for an entire week; a *synthesizer* who synthesizes the initial ideas, highlights agreement/disagreement, and suggests directions of further discussions in the middle of the week; and a *summarizer* who summarizes group conversations at the end of the week for the whole class. 
 
 
-<img width="920" alt="Screen Shot 2021-12-09 at 12 36 59 PM" src="https://user-images.githubusercontent.com/52936789/145448419-8def9806-e9fd-48cd-8482-36a5e5f8220f.png">
+<img width="820" alt="Screen Shot 2021-12-09 at 12 36 59 PM" src="https://user-images.githubusercontent.com/52936789/145448419-8def9806-e9fd-48cd-8482-36a5e5f8220f.png">
 
 #### Designing Social Annotation Synthesizer (SASy) : a Tool for Knowledge Synthesis 
 
 SASy is a tool for knowledge synthesis in collaborative sense-making and knowledge building. SASy aims to support the creation of knowledge synthesis, which does not only summarize existing ideas but also investigates connections across sources and generates novel knowledge, akin to the notion of “rise-aboves” in knowledge building (Scardamalia & Bereiter, 2014). As a scaffolding tool, SASy emphasizes the indispensability of connecting ideas and guides students through the key steps of making generative synthesis, including searching for relevant ideas, connecting, categorizing and rising above scattered ideas, and writing up the synthesis. 
 
-<img width="920" alt="SASy_final" src="https://user-images.githubusercontent.com/52936789/145449753-01425de1-b4a4-4a0d-b25e-ec8be6189f55.png">
+<img width="820" alt="SASy_final" src="https://user-images.githubusercontent.com/52936789/145449753-01425de1-b4a4-4a0d-b25e-ec8be6189f55.png">
 
 ## Partners
 
@@ -38,14 +38,12 @@ SASy is a tool for knowledge synthesis in collaborative sense-making and knowled
 - School of Public Health, Duke University
 
 ## Presentations
-- We presented our paper *Designing Support for Productive Social Interaction and Knowledge Co-construction in Collaborative Annotation* at *the 29th International Conference on Computers in Education* in November, 2021.
+- We presented our paper *Designing Support for Productive Social Interaction and Knowledge Co-construction in Collaborative Annotation* at *the 29th International Conference on Computers in Education* in November, 2021. [[**Slides**](../file/ICCE2021-Zhu.pdf)]
 
 - Zhu, X., Shui, H., & Chen, B. (2021, June). *Designing Support for Productive Social Interaction and Knowledge Co-construction in Collaborative Annotation*. Panel presentation at the [I Annotate 2021 Conference](https://iannotate.org/2021/), Online. [[**Slides**](../file/IAnnotate2021-Zhu.pdf)]
 
-<img src="../img/ianno21.jpeg" width = "600px"/>
+- We participated the [Liquid Margin](https://web.hypothes.is/liquid-margins/), a show gathers talk about collaborative social annotion hosted by Hypothes.is to share our practice and research. In this eposide, we focused on how learning scientists and instructors can partner to successfully implement and use social annotation in diverse disciplines across higher education. See [video recording](https://www.youtube.com/embed/ut25Dm4eNhk?list=PLmuJEyeapl2ceOSuvT83CwGuJ64ceMaqp).
 
-- We participated the [Liquid Margin](https://web.hypothes.is/liquid-margins/), a show gathers talk about collaborative social annotion hosted by Hypothes.is to share our practice and research. In this eposide, we focused on how learning scientists and instructors can partner to successfully implement and use social annotation in diverse disciplines across higher education.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ut25Dm4eNhk?list=PLmuJEyeapl2ceOSuvT83CwGuJ64ceMaqp" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Publications
 
