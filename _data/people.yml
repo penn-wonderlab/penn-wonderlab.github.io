@@ -1,9 +1,9 @@
 # grad
 
-val:
-    display_name: "Valerie Barbaro"
-    role: grad
-    bio: "PhD student in LT"
+# val:
+#     display_name: "Valerie Barbaro"
+#     role: grad
+#     bio: "PhD student in LT"
 
 batu:
     display_name: "William Batu"
@@ -25,11 +25,11 @@ yuhui:
     image: /img/people/hui.jpg
     bio: "PhD candidate in LT"
 
-chenchen:
-    display_name: "Chen Chen"
-    role: grad
-    image: /img/people/chenchen.jpg
-    bio: "PhD student in LT"
+# chenchen:
+#     display_name: "Chen Chen"
+#     role: grad
+#     image: /img/people/chenchen.jpg
+#     bio: "PhD student in LT"
 
 wenjing:
     display_name: "Wenjing Chen"
@@ -83,6 +83,12 @@ xinran:
     image: /img/people/xinran2.jpg
     bio: "PhD student in LT"
 
+johnb:
+    display_name: "John Bartucz"
+    role: grad
+    image: /img/people/male_placeholder.jpg
+    bio: "PhD student in LT"
+
 dipesh:
     display_name: "Dipesh Reen"
     role: alum
@@ -107,7 +113,7 @@ craig:
 
 dan:
     display_name: "Daniel Weyandt"
-    role: teacher
+    role: alum
     image: /img/people/male_placeholder.jpg
     bio: "SPPS Science Teacher"
 
@@ -147,6 +153,17 @@ hong:
     webpage: https://edu.nccu.edu.tw/en/Faculty/HUANG-YAO-HONG-50562481
     image: /img/people/male_placeholder.jpg
     bio: "National Chengchi U"
+
+scharber:
+    display_name: "Cassie Scharber"
+    role: collab
+    image: /img/people/female_placeholder.png
+
+deliema:
+    display_name: "David DeLiema"
+    role: collab
+    image: /img/people/male_placeholder.jpg
+
 
 # lund:
 #     display_name: "Kris Lund"

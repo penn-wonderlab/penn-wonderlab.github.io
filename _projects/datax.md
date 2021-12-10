@@ -1,8 +1,8 @@
 ---
-title: "DataX"
+title: "DataX: Justice-Oriented Data Science Education"
 image: https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg
 description: | 
-  Exploring Justice-Oriented Data Science with Secondary School Students
+  Integrating justice-oriented data science in secondary science and social studies
 people:
   - bodong
   - scharber
@@ -13,13 +13,14 @@ status: active
 
 ---
 
-## DataX: Exploring Justice-Oriented Data Science with Secondary School Students
+<!-- ## DataX: Exploring Justice-Oriented Data Science with Secondary School Students -->
+<br />
 
 DataX is [an NSF DRK-12 project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101413) that aims to develop an integrated, justice-oriented curriculum and a digital platform for teaching secondary students. 
 
 **PI**: Bodong Chen  
 **Co-PIs**: Cassie Scharber, David Deliema
-## Abstract
+## Introduction
 
 > Understanding data is critical for informed citizens. Data science is a growing and emerging field that can incorporate statistics, mathematics, and computer science to develop disciplinary knowledge and address societal challenges. This project will develop an integrated, justice-oriented curriculum and a digital platform for teaching secondary students about data science in science and social studies classrooms. The platform will help students learn about data science using real-world data sets and problems. This project includes science and social studies teachers in the design of the resources and in testing them in secondary school classrooms. Research and development in data science education is needed to understand how students can learn more about the use of data in meaningful and authentic ways. This interdisciplinary project will also help students meaningfully analyze real-world data sets, interpret social phenomena, and engage in social change.
 > 
