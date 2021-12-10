@@ -5,12 +5,17 @@ description: |
   Long-standing design-based research project to advance infrustructures for knowledge building
 people:
   - bodong
+  - xinran
+  - basel
+  - hongs
   - shanyu
 
 layout: project
 status: active
 
 ---
+
+<img src="/img/invision-wonder.png" width="100%" />
 
 Knowledge Building (KB) as a distinct educational approach engages students in producing and improving ideas to solve authentic problems. It is synonymous with knowledge creation that is discussed in organizational settings (Bereiter & Scardamalia, 2014). Similar to a team of knowledge workers, students work as a collective to produce something new and of interest to the collective. Designs – both pedagogical and technological – are put in place to empower students’ epistemic agency, so that they could focus on improving ideas (vs. performing tasks), collaborate with each other (vs. focus on individual performance), see the big picture of their work (vs. finish small tasks assigned to them), and make high-level decisions (vs. outsourcing the decisions to an adult). In essence, the way students approach knowledge is very much in line with that in a research team, even though students (and the teacher) also need to meet curricular goals defined by relevant educational regimes.
 
@@ -25,7 +30,6 @@ We are actively prototyping in the lab and conducting workshops with internation
 ## Partners
 
 - [**Knowledge Building International**](http://ikit.org/kbi/)
-- 
 
 
 ## Publications

@@ -11,7 +11,7 @@ people:
   - wanying
 
 layout: project
-status: active
+status: inactive
 
 ---
 
