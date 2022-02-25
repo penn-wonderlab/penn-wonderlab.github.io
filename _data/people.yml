@@ -143,7 +143,12 @@ jon:
 #     image: /img/people/yizhou.jpg
 #     bio: "PhD student from Peking University"
 
-
+mustafa:
+    display_name: "Mustafa Serkan Günbatar"
+    role: vscholar
+    webpage: https://avesis.yyu.edu.tr/mustafaserkan
+    image: https://avesis.yyu.edu.tr/user/image/2984
+    bio: "Associate Professor, Van Yüzüncü Yıl University"
 
 # collaborators
 
