@@ -38,6 +38,8 @@ SASy is a tool for knowledge synthesis in collaborative sense-making and knowled
 - School of Public Health, Duke University
 
 ## Presentations
+- We presented our paper *Socio-Semantic Network Motifs Framework for Discourse Analysis* at *LAK22: 12th International Learning Analytics and Knowledge Conference* in March, 2022.
+
 - We presented our paper *Designing Support for Productive Social Interaction and Knowledge Co-construction in Collaborative Annotation* at *the 29th International Conference on Computers in Education* in November, 2021. [[**Slides**](../file/ICCE2021-Zhu.pdf)]
 
 - Zhu, X., Shui, H., & Chen, B. (2021, June). *Designing Support for Productive Social Interaction and Knowledge Co-construction in Collaborative Annotation*. Panel presentation at the [I Annotate 2021 Conference](https://iannotate.org/2021/), Online. [[**Slides**](../file/IAnnotate2021-Zhu.pdf)]
@@ -47,6 +49,7 @@ SASy is a tool for knowledge synthesis in collaborative sense-making and knowled
 
 ## Publications
 
+-  Chen, B., Zhu, X., & Shui, H. (2022). Socio-Semantic Network Motifs Framework for Discourse Analysis. In LAK22: 12th International Learning Analytics and Knowledge Conference (LAK22), March 21–25, 2022. [https://doi.org/10.1145/3506860.3506893](https://doi.org/10.1145/3506860.3506893)
 -  Zhu, X., Shui, H., & Chen, B. (2021). Designing Support for Productive Social Interaction and Knowledge Co-construction in Collaborative Annotation. In Rodrigo, M. M. T. et al. (Eds.). *Proceedings of the 29th International Conference on Computers in Education*. Asia-Pacific Society for Computers in Education. **[Best Student Paper Award & Best Paper Nomination]**
 - Zhu, X., Shui, H., & Chen, B. (2020, preprint). A Scaffolding Framework for Social Annotation in Online Classes. EdArXiv. [https://doi.org/10.35542/osf.io/zk4vj](https://doi.org/10.35542/osf.io/zk4vj)
 - Zhu, X., Chen, B., Avadhanam, R. M., Shui, H., & Zhang, R. Z. (2020). Reading and connecting: Using social annotation in online classes. Information and Learning Sciences, 121(5/6), 261–271. [https://doi.org/10.1108/ILS-04-2020-0117](https://doi.org/10.1108/ILS-04-2020-0117)
