@@ -80,6 +80,7 @@ We are also developing a DataX platform that supports learners' computational pa
 
 ## Publications
 
+- Chen, B., Ma, L., & Peebles, B. (2021, June). *Seeing Ourselves in the Data: Situating Data Literacy in Theory Building by Youth*. Paper presented in the "Data Literacy" Structured Poster Session at the 2022 AERA Annual Meeting, San Diego, CA. ([Poster](../file/aera22-data-literacy.pdf))
 - Chen, B., & Avadhanam, A. (2021, June). [Integrating Data Science Explorations in Science Classrooms](../file/ISLS2021-datax-final.pdf). Poster presented at the ISLS Annual Meeting 2021, Online. ([Poster](../file/ISLS21_DataX_poster_final.pdf))
 - Rosenberg, J., Edwards, A., & Chen, B. (2020). [Getting messy with data: Tools and strategies to help students analyze and interpret complex data sources](https://www.researchgate.net/publication/338926472_Getting_Messy_With_Data). *The Science Teacher, 87*(5), 30–34.
-- Chen, B., Ma, L., Peebles, B., & Barbaro, V. (2020, April). *[Data Expedition in a Knowledge Building Community](../file/AERA20-data-science-across-curriculum.pdf)*. Paper to be presented in the "Exploring Data Science Across the Curriculum and Across Grade Levels" Structured Poster Session at the 2020 AERA Annual Meeting, San Francisco, CA.
+- Chen, B., Ma, L., Peebles, B., & Barbaro, V. (2020, April). *[Data Expedition in a Knowledge Building Community](../file/AERA20-data-science-across-curriculum.pdf)*. Paper presented in the "Exploring Data Science Across the Curriculum and Across Grade Levels" Structured Poster Session at the 2020 AERA Annual Meeting, San Francisco, CA.
