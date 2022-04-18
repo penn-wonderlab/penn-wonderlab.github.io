@@ -18,20 +18,41 @@ status: active
 
 DataX is [an NSF DRK-12 project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101413) that aims to develop an integrated, justice-oriented curriculum and a digital platform for teaching secondary students. 
 
-**PI**: Bodong Chen  
-**Co-PIs**: Cassie Scharber, David Deliema
+**PIs**: Bodong Chen, Cassie Scharber, David Deliema  
+**Graduate Researchers**: John Bartucz, Vimal Rao  
+**Developers**: Benji Encalada Mora
 ## Introduction
 
 > Understanding data is critical for informed citizens. Data science is a growing and emerging field that can incorporate statistics, mathematics, and computer science to develop disciplinary knowledge and address societal challenges. This project will develop an integrated, justice-oriented curriculum and a digital platform for teaching secondary students about data science in science and social studies classrooms. The platform will help students learn about data science using real-world data sets and problems. This project includes science and social studies teachers in the design of the resources and in testing them in secondary school classrooms. Research and development in data science education is needed to understand how students can learn more about the use of data in meaningful and authentic ways. This interdisciplinary project will also help students meaningfully analyze real-world data sets, interpret social phenomena, and engage in social change.
 > 
 > During a two-year project period, we aim to iteratively advance three design components of the DataX program: (a) a justice-oriented data science curriculum integrated in secondary science and social studies; (b) a web-based learning platform that extends the Common Online Data Analysis Platform (CODAP) to support collaboration and sophisticated data practices; and (c) pedagogical practices that involve learners to work collectively as community. The guiding research question is: What scaffolds and resources are necessary to support the co-development of data, disciplinary, and critical literacies in secondary classrooms? To address this, the project will use participatory design research with science and social studies teachers to develop and test the curriculum, the learning platform, and the pedagogical practices. The data collected will include qualitative sources gathered from participatory design workshops and classrooms, as well as quantitative data from questionnaires and system logs. Using the data, we examine students' data science skills, data dispositions, and social participation in collaborative data investigations.
 
-![](https://www.nsf.gov/awardsearch/images/common/head.gif)
-<!-- ![](https://upload.wikimedia.org/wikipedia/commons/8/84/Open_data_large_color_%28vector%29.svg) -->
+![](https://www.nsf.gov/awardsearch/images/common/head.gif)  ![](https://www.spps.org/cms/lib/MN01910242/Centricity/domain/6547/new%20spps%20logo/SPPS-HorizBlue.png)
 
-## Phase 1 (2021-2022)
+## Phase 1: Co-Designing DataX with Highschool Teachers
 
-(More soon...)
+During this phase, the UMN research team is working with three highschool teachers from the St Paul Public Schools to co-design DataX. 
+
+The following DataX components are advanced in tandem through co-design workshops:
+
+### 1. DataX Curriculum
+
+**Review of Data Science Education Curricula.** To inform our design, we have conducted a review of existing Data Science Education Curriculum efforts. See the table below. This review is by no means comprehensive. Please contact us if you have any suggestions.
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlTSsjpkBhLlN-PG2UOATH2P4h-6Dq19gtiZxMCq0nTKSD3Funjd0VIUyxmGnWQxWqjYmtBYzHyK9w/pubhtml?gid=2142626713&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe>
+
+[Download the table in CSV](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlTSsjpkBhLlN-PG2UOATH2P4h-6Dq19gtiZxMCq0nTKSD3Funjd0VIUyxmGnWQxWqjYmtBYzHyK9w/pub?gid=2142626713&single=true&output=csv)
+
+**Justice-Oriented Data Science Framework.** We are actively developing a framework of justice-oriented data science to ground the curriculum design. This framework will integrate multiple content areas and perspectives of learning to guide this project. 
+
+### 2. DataX Platform
+
+We are also developing a DataX platform to support the DataX Curriculum. Below is a screenshot of the platform we are currently developing. 
+
+<img src="/img/datax.gif" width = "80%" />
+
+
 
 ## Prior Work
 
@@ -67,12 +88,12 @@ Partner schools include:
 - Harding High School, St Paul
 - Jackman Institute of Child Study Lab School, Toronto
 
-#### DataX platform
+<!-- #### DataX platform
 
 We are also developing a DataX platform that supports learners' computational participation across disciplines. Below is a screenshot of the platform we are currently developing. 
 
 <img src="/img/datax.gif" width = "80%" />
-<!-- <img src="/img/datax.png" width = "80%" /> -->
+<img src="/img/datax.png" width = "80%" /> -->
 
 <!-- **We are looking for a talented Research Assistant to lead the DataExpedition tool development!** Please get in touch with Prof. Chen if you are interested.  -->
 
