@@ -3,15 +3,16 @@ title: "DataX: Justice-Oriented Data Science Education"
 image: https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg
 description: | 
   Integrating justice-oriented data science in secondary science and social studies
-people:
-  - bodong
-  - scharber
-  - deliema
-  - johnb
 layout: project
 status: active
 
 ---
+
+<!-- people:
+  - bodong
+  - scharber
+  - deliema
+  - johnb -->
 
 <!-- ## DataX: Exploring Justice-Oriented Data Science with Secondary School Students -->
 <br />
