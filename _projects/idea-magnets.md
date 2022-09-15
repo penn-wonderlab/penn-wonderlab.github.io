@@ -14,7 +14,7 @@ people:
   - dipesh
 
 layout: project
-status: active
+status: inactive
 
 icons:
   paper: '<i class="fa fa-file-text-o"></i>'

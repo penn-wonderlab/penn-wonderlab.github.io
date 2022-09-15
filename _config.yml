@@ -17,13 +17,13 @@ permalink: /blog/:year/:month/:day/:title.html
 # Sections on the "people" page.
 roles:
 
+    - {key: faculty, name: Faculty}
     - {key: ugrad, name: Undergrad Students}
-    - {key: teacher, name: K-12 Educators}
-    - {key: vscholar, name: Visiting Scholars}
-    - {key: collab, name: Collaborators}
+    # - {key: teacher, name: K-12 Educators}
+    # - {key: vscholar, name: Visiting Scholars}
+    # - {key: collab, name: Collaborators}
     # - {key: postdoc, name: Researchers}
     - {key: grad, name: Graduate Students}
-    - {key: faculty, name: Faculty}
     # - {key: ugrad-alum, name: Past Undergraduate Students}
     - {key: alum, name: Former Members}
 
@@ -41,18 +41,18 @@ collections:
 navigation:
     - title: Home
       link: /
-    - title: News
-      link: /#news
-    - title: People
-      link: /#people
+    # - title: News
+    #   link: /#news
+    # - title: People
+    #   link: /#people
     - title: Research
       link: /research/
     # - title: Publications
     #   link: /publications.html
-    - title: Events
-      link: /events.html
-    - title: Code
-      link: /code.html
+    # - title: Events
+    #   link: /events.html
+    - title: Resources
+      link: /resources.html
 
 
 # Rewriting of old path names.

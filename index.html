@@ -16,11 +16,11 @@ role_remain:
 <h2>About</h2>
 
 <div class="jumbotron">
-    <img src="img/logo-lf.png" width="200px" alt="">
+    <img src="img/wonder-logo.png" width="200px" alt="">
   <p>
-      The <b>Learning Futures Research Group</b> reimagines learning in the knowledge society. 
+      The <b>Penn Wonder Lab</b> reimagines learning and teaching in the knowledge society. 
   </p>
-  <p>As an interdisciplinary research group at the University of Minnesota, we design technology-enhanced learning environments, develop learning analytics applications, and conduct empirical research in various educational settings.</p>
+  <p>As an interdisciplinary research group at the University of Pennsylvania, we design technology-enhanced learning environments, develop learning analytics applications, and conduct empirical research in various educational settings. A central goal of these efforts is ask: <i>How can education better support human wonderment?</i></p>
   <!-- <p>Please get in touch if you're interested in joining the Group!</p> -->
 </div>
 
@@ -83,7 +83,7 @@ role_remain:
 
 <div class="row">
 {% for grp in page.role_groups %}
-    <div class="col-md-{% if grp contains 'grad' %}8{% else %}4{% endif %}">
+    <div class="col-md-{% if grp contains 'grad' %}12{% else %}4{% endif %}">
         {% for role in site.roles %}
         {% if grp contains role.key %}
             <h3>{{ role.name }}</h3>
@@ -128,7 +128,7 @@ role_remain:
 <!--Remaining roles (collaborators, undergrads, alumni) -->
 <div class="row">
 {% for grp in page.role_remain %}
-    <div class="col-md-4">
+    <div class="col-md-12">
         {% for role in site.roles %}
         {% if grp contains role.key %}
             <h3>{{ role.name }}</h3>
@@ -151,5 +151,5 @@ role_remain:
 
 <h2>Funding</h2>
 <p>
-Our work is supported by the National Science Foundation, the Schmidt Futures, the Digital Learning for Development Network, and the University of Minnesota Foundation and OVPR Office.
+Our work is supported by the National Science Foundation, the Schmidt Futures, Carina Initiatives, and other funding agencies.
 </p>

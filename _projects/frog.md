@@ -9,7 +9,7 @@ people:
   - hongs
 
 layout: project
-status: active
+status: inactive
 
 ---
 
@@ -28,5 +28,6 @@ Using Orchestration Graphs and FROG, this project has two main goals:
 
 ## References
 
+- Chen, B., Shui, H., & Håklev, S. (2022). __Orchestrating the flow and advancement of knowledge artifacts in an online class__. *Instructional Science*. https://doi.org/10.1007/s11251-022-09596-3
 - Dillenbourg, P. (2015). Orchestration graphs. EPFL press. 
 - Håklev, S., Faucon, L., Hadzilacos, T., & Dillenbourg, P. (2017). Orchestration Graphs: Enabling Rich Social Pedagogical Scenarios in MOOCs. In Proceedings of the Fourth (2017) ACM Conference on Learning @ Scale (pp. 261–264). New York, NY, USA: ACM. https://doi.org/10.1145/3051457.3054000
