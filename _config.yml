@@ -1,5 +1,5 @@
-name: Learning Futures Research Group
-url: https://learningfutures.github.io/
+name: Penn Wonder Lab
+url: https://penn-wonderlab.github.io/
 
 exclude: [bibble, README.md, Makefile, Dockerfile]
 
