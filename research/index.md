@@ -8,7 +8,8 @@ Learning Futures Research Group members hold various research interests. We desi
 ### Active Projects
 
 <div class="card-columns">
-{% for p in site.projects %}
+{% assign sorted = site.projects | sort: 'priority'  %}
+{% for p in sorted %}
 {% if p.status != "inactive" %}
 <div class="card {%if p.link or p.url%}link{%endif%}">
     {% if p.link %}

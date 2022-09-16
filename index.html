@@ -4,8 +4,8 @@ title: Home
 notitle: true
 
 role_groups:
-    - [teacher, vscholar]
-    - [grad, faculty]
+    - [faculty]
+    - [postdoc, grad]
 
 role_remain:
     - [collab, ugrad-alum]
@@ -83,7 +83,7 @@ role_remain:
 
 <div class="row">
 {% for grp in page.role_groups %}
-    <div class="col-md-{% if grp contains 'grad' %}12{% else %}4{% endif %}">
+    <div class="col-md-{% if grp contains 'grad' or grp contains 'postdoc' %}8{% else %}4{% endif %}">
         {% for role in site.roles %}
         {% if grp contains role.key %}
             <h3>{{ role.name }}</h3>

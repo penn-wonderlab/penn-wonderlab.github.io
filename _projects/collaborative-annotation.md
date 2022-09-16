@@ -10,6 +10,7 @@ people:
 
 layout: project
 status: active
+priority: 2
 
 ---
 

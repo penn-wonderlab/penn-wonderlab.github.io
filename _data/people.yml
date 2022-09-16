@@ -4,7 +4,7 @@
 xinran:
     display_name: "Xinran Zhu"
     role: grad
-    webpage: "https://www.researchgate.net/profile/Xinran_Zhu5"
+    webpage: "https://zhu-xinran.com/"
     image: /img/people/xinran2.jpg
     bio: "PhD Candidate in LST"
 
@@ -13,7 +13,7 @@ hongs:
     webpage: "https://twitter.com/shui_hong"
     role: grad
     image: /img/people/hongs.jpg
-    bio: "PhD student in LT"
+    bio: "PhD student"
 
 # val:
 #     display_name: "Valerie Barbaro"
@@ -55,13 +55,14 @@ wenjing:
 basel:
     display_name: "Basel Hussein"
     role: grad
+    webpage: https://www.baselhussein.com/
     image: https://miro.medium.com/fit/c/256/256/0*yVz4jBIFR7PKLy6d.jpg #/img/people/male_placeholder.jpg
-    bio: "PhD student in LT"
+    bio: "PhD student"
 
 robert:
     display_name: "Robert Kreml"
     role: grad
-    bio: "PhD student in LT"
+    bio: "PhD student"
 
 rukmini:
     display_name: "Rukmini Manasa"
@@ -216,6 +217,34 @@ michelle:
     webpage: https://chem.umn.edu/profiles/michelle-driessen
     image: https://cse.umn.edu/sites/cse.umn.edu/files/styles/full/public/DreissenMichelleNP.jpg
     bio: "University of Minnesota"
+
+konstan:
+    display_name: "Joseph A. Konstan"
+    role: collab
+    webpage: http://konstan.umn.edu/
+    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/08/konstan-2010-photo-edited.jpg
+    bio: "U of Minnesota"
+
+svarma:
+    display_name: "Sashank Varma"
+    role: collab
+    webpage: https://ic.gatech.edu/people/sashank-varma
+    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/08/VarmaS-2019-edited.jpg
+    bio: "Georgia Tech"
+# postdocs
+
+zixi:
+    display_name: "Zixi Chen"
+    role: postdoc
+    webpage: https://scholar.google.com/citations?user=zfkOwi4AAAAJ&hl=en
+    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/08/avatar-2-edited-150x150.png
+    bio: "Learning Informatics Lab"
+mengchen:
+    display_name: "Mengchen Su"
+    role: postdoc
+    webpage: https://www.mengchensu.com/
+    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/10/Su-pic-150x150.jpg
+    bio: "Learning Informatics Lab"
 
 # alums
 
