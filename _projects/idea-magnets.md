@@ -15,6 +15,7 @@ people:
 
 layout: project
 status: active
+priority: 2
 
 icons:
   paper: '<i class="fa fa-file-text-o"></i>'
