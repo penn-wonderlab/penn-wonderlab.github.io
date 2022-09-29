@@ -32,7 +32,7 @@ role_remain:
     {% assign numposts = site.posts | size %}
     <li>
         <div class="icon"><i class="fa fa-history"></i></div>
-        <div class="text"><a href="{{ site.base }}/{% if numposts >= site.front_page_news %}blog/{%else%}oldnews.html{%endif%}">Older news&hellip;</a></div>
+        <div class="text"><a href="{{ site.base }}/{% if numposts >= site.front_page_news %}post/{%else%}oldnews.html{%endif%}">Older news&hellip;</a></div>
     </li>
 </ul>
 

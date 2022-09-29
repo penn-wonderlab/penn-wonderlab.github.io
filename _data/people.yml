@@ -52,12 +52,20 @@ wenjing:
     image: /img/people/wenjing.jpg
     bio: "MEd graduate in LT"
 
+
 basel:
     display_name: "Basel Hussein"
     role: grad
     webpage: https://www.baselhussein.com/
     image: https://miro.medium.com/fit/c/256/256/0*yVz4jBIFR7PKLy6d.jpg #/img/people/male_placeholder.jpg
     bio: "PhD student"
+
+xiping:
+    display_name: "Xiping Jiang"
+    role: grad
+    webpage: http://sisypher.com/
+    image: /img/people/xiping.png
+    bio: "MSEd student"
 
 robert:
     display_name: "Robert Kreml"
@@ -238,13 +246,13 @@ zixi:
     role: postdoc
     webpage: https://scholar.google.com/citations?user=zfkOwi4AAAAJ&hl=en
     image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/08/avatar-2-edited-150x150.png
-    bio: "Learning Informatics Lab"
+    bio: "Postdoc"
 mengchen:
     display_name: "Mengchen Su"
     role: postdoc
     webpage: https://www.mengchensu.com/
     image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/10/Su-pic-150x150.jpg
-    bio: "Learning Informatics Lab"
+    bio: "Postdoc"
 
 # alums
 
