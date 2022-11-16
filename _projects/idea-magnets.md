@@ -14,7 +14,7 @@ people:
   - dipesh
 
 layout: project
-status: active
+status: inactive
 priority: 2
 
 icons:

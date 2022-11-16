@@ -94,12 +94,17 @@ shanyu:
 #     bio: "PhD student in STEM Education"
 #       # I am a PhD student in STEM Education, with a focus on diverse cultural perspectives in STEM learning and a supporting minor in Learning Technologies. My research interests include exploring collaborative relationships between families/communities and education, and utilizing various technologies towards such equitable collaborations. I completed my undergraduate degree in Chemistry/Philosophy, and my master’s degree in Geochemistry. I taught 8th grade science for five years in a highly diverse middle school with the Chicago Public Schools. I also taught Geology courses with Northwestern University’s School of Continuing Education for four years. I hope to integrate my experiences with teaching and learning, while working with families and educators towards better understanding factors that influence STEM engagement, opportunities, and outcomes.
 
+tina:
+    display_name: "Tina Jeon"
+    role: collab
+    image: https://lt.umn.edu/sites/lt-d8.umn.edu/files/styles/crop_freeform/public/2022-09/Screen%20Shot%202022-09-28%20at%2014.57.48.png?itok=cCeOlUka
+    bio: "PhD student in LT"
 
-# johnb:
-#     display_name: "John Bartucz"
-#     role: grad
-#     image: /img/people/male_placeholder.jpg
-#     bio: "PhD student in LT"
+johnb:
+    display_name: "John Bartucz"
+    role: collab
+    image: https://lt.umn.edu/sites/lt-d8.umn.edu/files/styles/crop_freeform/public/2022-01/JABpltw%20-%20John%20Bartucz%20%281%29_0.png?itok=W5_7vf47
+    bio: "PhD student in LT"
 
 dipesh:
     display_name: "Dipesh Reen"
@@ -174,12 +179,12 @@ hong:
 deliema:
     display_name: "David DeLiema"
     role: collab
-    image: /img/people/male_placeholder.jpg
+    image: https://i1.rgstatic.net/ii/profile.image/804481717518336-1568814796052_Q512/David-Deliema-2.jpg
 
 scharber:
     display_name: "Cassie Scharber"
     role: collab
-    image: /img/people/female_placeholder.png
+    image: https://media-exp1.licdn.com/dms/image/C4E03AQF5NZWSaZHr7g/profile-displayphoto-shrink_800_800/0/1516369551508?e=2147483647&v=beta&t=oniIGh6b3Q7hMJ_cBiwW0d_jS0e4D_CQ8RNrVA-V9rM
 
 
 # lund:

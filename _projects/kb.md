@@ -23,7 +23,7 @@ Students in KB classrooms face the same challenge as knowledge workers when they
 
 At a minimum, the notion of *infrastructure* interweaves theoretical, pedagogical, and technological ideas in Knowledge Building together and (re)focus the discussion on each student’s relations with the infrastructure. It reveals different relations between humans and infrastructures (such as contributing to collective work and celebrating individual growths) to be looked at, instead of being looked through; it brings out the relations held by different human agents (students, teachers) with knowledge infrastructures for dialogues; it connects challenges that are often dealt with in silos (such as UI design, teacher PD, student assessment) so that they could be looked at together and advanced in tandem.
 
-**Read more in [Bodong's blog post](https://bodong.me/post/2021-10-knowledge-infrastructures/).**
+**Read more in [Bodong's blog post](https://bodong.ch/blog/2021-10-knowledge-infrastructures/).**
 
 We are actively prototyping in the lab and conducting workshops with international collaborators to advance knowledge building infrastructures. 
 
@@ -34,6 +34,7 @@ We are actively prototyping in the lab and conducting workshops with internation
 
 ## Publications
 
+1.  Chen, B. (2022, August 25). *Toward A Framework of Infrastructuring for Sustainable Educational Innovations*. https://doi.org/10.31235/osf.io/svf4r
 1.  **Chen, B.** (2017). Fostering scientific understanding and epistemic beliefs through judgments of promisingness. *Educational Technology Research and Development, 65*(2), 255–277. doi:10.1007/s11423-016-9467-0
 1.  **Chen, B.**, Resendes, M., Chai, C.S., & Hong, H.-Y. (2017). Two tales of time: Uncovering the significance of sequential patterns among contribution types in knowledge-building discourse. *Interactive Learning Environments, 25*(2), 162–175. doi:10.1080/10494820.2016.1276081
 1.	**Chen, B.**, & Zhang, J. (2016). Analytics for knowledge creation: Towards epistemic agency and design-mode thinking. *Journal of Learning Analytics, 3*(2), 139–163. doi:10.18608/jla.2016.32.7
