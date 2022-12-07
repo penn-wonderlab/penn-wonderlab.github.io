@@ -27,11 +27,17 @@ We designed a generic scaffolding framework comprising three scripted participat
 
 <img width="820" alt="Screen Shot 2021-12-09 at 12 36 59 PM" src="https://user-images.githubusercontent.com/52936789/145448419-8def9806-e9fd-48cd-8482-36a5e5f8220f.png">
 
-#### Designing a Technology Support for Knowledge Synthesis -- Social Annotation Synthesizer (SASy)
+#### :wrench: Designing a Technology Support for Knowledge Synthesis -- Social Annotation Synthesizer (SASy)
 
 SASy is a tool for knowledge synthesis in collaborative sense-making and knowledge building. SASy aims to support the creation of knowledge synthesis, which does not only summarize existing ideas but also investigates connections across sources and generates novel knowledge, akin to the notion of “rise-aboves” in knowledge building (Scardamalia & Bereiter, 2014). As a scaffolding tool, SASy emphasizes the indispensability of connecting ideas and guides students through the key steps of making generative synthesis, including searching for relevant ideas, connecting, categorizing and rising above scattered ideas, and writing up the synthesis. 
 
+Check out the [blurb](https://docs.google.com/document/d/1vIn5NR-ZrOJJwmNe9qB_FvDjshmg4-vIWX36PpxuA0w/edit?usp=sharing) with a demo!
+
 <img width="820" alt="SASy_final" src="https://user-images.githubusercontent.com/52936789/145449753-01425de1-b4a4-4a0d-b25e-ec8be6189f55.png">
+
+#### :bar_chart: Developing Analytical Frameworks to Understand Collaborative Discourse
+
+Social annotation technologies provides learners with extensive opportunities to share and improve their ideas through collaborative discourse. There are emerging interests in the CSCL community to measure idea creation as both learning processes and outcomes. Rooted in the social constructivism perspective, we see idea creation as a product of *emergent* and *interactive* socio-cognitive endeavors, rather than a standalone and static text message. This means that it is critical to not only analyze the texts themselves but also to capture the contextual information, including both social, cognitive, and cultural aspects. Therefore, our team is dedicated to developing comprehensive analytic frameworks that depict the emergent and interactive nature of idea creation in collaborative discourse, by leveraging the natural language processing techniques and networked methods.
 
 ## Partners
 
