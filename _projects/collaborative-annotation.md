@@ -20,14 +20,14 @@ Social annotation is a genre of information technology that allows a user to ann
 
 To support several instructors’ pivot to online teaching since Fall 2020, we conducted the study that was focused on engaging undergraduate students in reading and discussing course materials in online classes through collaborative social annotation activities. Following a co-design approach, we have been working closely with instructors to design supports in both pedagogy and technology for social annotation activities and support them to implement the designs, with course-specific customizations, in their classes. All participating courses are piloting a web annotation tool named [Hypothes.is](https://web.hypothes.is/) that allows students to read and annotate socially. This project is currently moving forward in several exciting directions: 
 
-#### :speech_balloon: Designing a Generic Scaffolding Framework -- The Participation Roles Strategy
+#### 💬 Designing a Generic Scaffolding Framework -- The Participation Roles Strategy
 
 We designed a generic scaffolding framework comprising three scripted participation roles based on the CSCL literature (Strijbos & Weinberger, 2010; Wise et al., 2012). These roles are: a *facilitator* responsible for stimulating conversations by finding connections, seeking clarifications, and encouraging their peers to consistently tag their annotations for an entire week; a *synthesizer* who synthesizes the initial ideas, highlights agreement/disagreement, and suggests directions of further discussions in the middle of the week; and a *summarizer* who summarizes group conversations at the end of the week for the whole class. 
 
 
 <img width="820" alt="Screen Shot 2021-12-09 at 12 36 59 PM" src="https://user-images.githubusercontent.com/52936789/145448419-8def9806-e9fd-48cd-8482-36a5e5f8220f.png">
 
-#### :wrench: Designing a Technology Support for Knowledge Synthesis -- Social Annotation Synthesizer (SASy)
+#### 🔧 Designing a Technology Support for Knowledge Synthesis -- Social Annotation Synthesizer (SASy)
 
 SASy is a tool for knowledge synthesis in collaborative sense-making and knowledge building. SASy aims to support the creation of knowledge synthesis, which does not only summarize existing ideas but also investigates connections across sources and generates novel knowledge, akin to the notion of “rise-aboves” in knowledge building (Scardamalia & Bereiter, 2014). As a scaffolding tool, SASy emphasizes the indispensability of connecting ideas and guides students through the key steps of making generative synthesis, including searching for relevant ideas, connecting, categorizing and rising above scattered ideas, and writing up the synthesis. 
 
@@ -35,7 +35,7 @@ Check out the [blurb](https://docs.google.com/document/d/1vIn5NR-ZrOJJwmNe9qB_Fv
 
 <img width="820" alt="SASy_final" src="https://user-images.githubusercontent.com/52936789/145449753-01425de1-b4a4-4a0d-b25e-ec8be6189f55.png">
 
-#### :bar_chart: Developing Analytical Frameworks to Understand Collaborative Discourse
+#### 📊 Developing Analytical Frameworks to Understand Collaborative Discourse
 
 Social annotation technologies provides learners with extensive opportunities to share and improve their ideas through collaborative discourse. There are emerging interests in the CSCL community to measure idea creation as both learning processes and outcomes. Rooted in the social constructivism perspective, we see idea creation as a product of *emergent* and *interactive* socio-cognitive endeavors, rather than a standalone and static text message. This means that it is critical to not only analyze the texts themselves but also to capture the contextual information, including both social, cognitive, and cultural aspects. Therefore, our team is dedicated to developing comprehensive analytic frameworks that depict the emergent and interactive nature of idea creation in collaborative discourse, by leveraging the natural language processing techniques and networked methods.
 
