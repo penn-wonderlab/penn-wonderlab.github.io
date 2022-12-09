@@ -48,8 +48,8 @@ Under the framework of Activity-centered Analysis and Design—ACAD (Goodyear & 
 On the design page, instructors can input important design elements that generate a baseline for the learning process of students in social annotation activities. On the analytics page, instructors can easily see the difference between the activities designed and the performance of students in real time. Memo of reflection on the learning design and practice can be taken down on the dashboard while viewing the data. Instructors can also choose to share the learning design and memos with other instructors
 
 ## Partners
-
 - College of Liberal Arts, University of Minnesota
+- College of Education and Human Development, University of Minnesota
 - School of Public Health, Duke University
 
 ## Presentations
