@@ -39,6 +39,14 @@ Check out the [blurb](https://docs.google.com/document/d/1vIn5NR-ZrOJJwmNe9qB_Fv
 
 Social annotation technologies provides learners with extensive opportunities to share and improve their ideas through collaborative discourse. There are emerging interests in the CSCL community to measure idea creation as both learning processes and outcomes. Rooted in the social constructivism perspective, we see idea creation as a product of *emergent* and *interactive* socio-cognitive endeavors, rather than a standalone and static text message. This means that it is critical to not only analyze the texts themselves but also to capture the contextual information, including both social, cognitive, and cultural aspects. Therefore, our team is dedicated to developing comprehensive analytic frameworks that depict the emergent and interactive nature of idea creation in collaborative discourse, by leveraging the natural language processing techniques and networked methods.
 
+#### 🏫 Designing an Interactive Teacher-facing Dashboard for Social Annotation Activities
+
+The synergy of learning design, teacher inquiry, and learning analytics has a positive impact on instructors as designers and practitioners as well as the learning of students. Learning analytics dashboard developed nowadays, however, could not answer teachers’ inquiries into the learning process of students and provide a holistic information for the alignment between learning design and learning analytics (Macfadyen et al, 2020; Nguyen et al., 2020). 
+
+Under the framework of Activity-centered Analysis and Design—ACAD (Goodyear & Carvalho, 2014), we co-design with instructors a teacher-facing learning analytics dashboard for social annotation activities. The innovation of our dashboard is to have a design page and an analytics page that allow teachers to better keep track of students’ reading and discussion and know more about students’ perception toward learning materials and activities. 
+
+On the design page, instructors can input important design elements that generate a baseline for the learning process of students in social annotation activities. On the analytics page, instructors can easily see the difference between the activities designed and the performance of students in real time. Memo of reflection on the learning design and practice can be taken down on the dashboard while viewing the data. Instructors can also choose to share the learning design and memos with other instructors
+
 ## Partners
 
 - College of Liberal Arts, University of Minnesota
