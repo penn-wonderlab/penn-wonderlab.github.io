@@ -45,7 +45,7 @@ The synergy of learning design, teacher inquiry, and learning analytics has a po
 
 Under the framework of Activity-centered Analysis and Design—ACAD (Goodyear & Carvalho, 2014), we co-design with instructors a teacher-facing learning analytics dashboard for social annotation activities. The innovation of our dashboard is to have a design page and an analytics page that allow teachers to better keep track of students’ reading and discussion and know more about students’ perception toward learning materials and activities. 
 
-On the design page, instructors can input important design elements that generate a baseline for the learning process of students in social annotation activities. On the analytics page, instructors can easily see the difference between the activities designed and the performance of students in real time. Memo of reflection on the learning design and practice can be taken down on the dashboard while viewing the data. Instructors can also choose to share the learning design and memos with other instructors
+On the design page, instructors can input important design elements that generate a baseline for the learning process of students in social annotation activities. On the analytics page, instructors can easily see the difference between the activities designed and the performance of students in real time. Memo of reflection on the learning design and practice can be taken down on the dashboard while viewing the data. Instructors can also choose to share the learning design and memos with other instructors.
 
 ## Partners
 - College of Liberal Arts, University of Minnesota
