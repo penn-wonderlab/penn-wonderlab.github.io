@@ -1,4 +1,4 @@
-Learning Futures Group website
+Penn Wonder Lab website
 ===================
 
 This is the [Penn Wonder Lab website](https://penn-wonderlab.github.io/), built with [Jekyll][] and [bibble][].
