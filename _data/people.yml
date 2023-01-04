@@ -66,6 +66,13 @@ xiping:
     webpage: http://sisypher.com/
     image: /img/people/xiping.png
     bio: "MSEd student"
+    
+keerthi:
+    display_name: "Keerthanya Rajesh"
+    role: grad
+    webpage: https://www.linkedin.com/in/keerthanya-rajesh/
+    image:  /img/people/keerthi.jpeg
+    bio: "MSEd student"
 
 robert:
     display_name: "Robert Kreml"
@@ -84,6 +91,8 @@ shanyu:
     role: alum
     image: https://i1.rgstatic.net/ii/profile.image/299399507922950-1448393813833_Q512/Shan-Yu-22.jpg
     bio: "PhD candidate in Design"
+
+
 
 
 # ramya:
