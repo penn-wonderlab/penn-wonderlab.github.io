@@ -74,6 +74,13 @@ keerthi:
     image:  /img/people/keerthi.png
     bio: "MSEd student"
 
+vivian:
+    display_name: "Vivian Leung"
+    role: grad
+    webpage: https://vyleung.github.io/ 
+    image:  /img/people/vivian.png
+    bio: "MSEd student"
+
 robert:
     display_name: "Robert Kreml"
     role: grad
