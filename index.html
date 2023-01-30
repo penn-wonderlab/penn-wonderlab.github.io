@@ -4,8 +4,8 @@ title: Home
 notitle: true
 
 role_groups:
-    - [faculty]
-    - [postdoc, grad]
+    - [faculty, postdoc]
+    - [grad, developer]
 
 role_remain:
     - [collab, ugrad-alum]
@@ -18,9 +18,10 @@ role_remain:
 <div class="jumbotron">
     <img src="img/wonder-logo.png" width="200px" alt="">
   <p>
-      The <b>Penn Wonder Lab</b> reimagines learning and teaching in the knowledge society. 
+      The <b>Penn GSE Wonder Lab</b> reimagines learning and teaching in the knowledge society. 
   </p>
-  <p>As an interdisciplinary research group at the University of Pennsylvania, we design technology-enhanced learning environments, develop learning analytics applications, and conduct empirical research in authentic educational settings. The central question we ask is: <i>How can we better support human wonderment in various contexts of learning?</i></p>
+  <p>As an interdisciplinary research group at the University of Pennsylvania Graduate School of Education, we design technology-enhanced learning environments, develop learning analytics applications, and conduct empirical research in authentic educational settings. The central question we ask is: 
+    <br><i>How can we better support human wonderment in various contexts of learning?</i></p>
   <!-- <p>Please get in touch if you're interested in joining the Group!</p> -->
 </div>
 
@@ -83,7 +84,7 @@ role_remain:
 
 <div class="row">
 {% for grp in page.role_groups %}
-    <div class="col-md-{% if grp contains 'grad' or grp contains 'postdoc' %}8{% else %}4{% endif %}">
+    <div class="col-md-{% if grp contains 'grad' or grp contains 'postdoc' %}12{% else %}4{% endif %}">
         {% for role in site.roles %}
         {% if grp contains role.key %}
             <h3>{{ role.name }}</h3>

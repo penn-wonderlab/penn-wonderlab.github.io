@@ -4,4 +4,4 @@ shortnews: true
 icon: group
 ---
 
-Our new Penn Wonder Lab website is launched today! 
+Our new Penn GSE Wonder Lab website is launched today! 

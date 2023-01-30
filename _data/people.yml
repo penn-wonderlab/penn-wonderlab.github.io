@@ -1,6 +1,5 @@
 # grad
 
-
 xinran:
     display_name: "Xinran Zhu"
     role: grad
@@ -13,12 +12,7 @@ hongs:
     webpage: "https://twitter.com/shui_hong"
     role: grad
     image: /img/people/hongs.jpg
-    bio: "PhD student"
-
-# val:
-#     display_name: "Valerie Barbaro"
-#     role: grad
-#     bio: "PhD student in LT"
+    bio: "PhD Candidate"
 
 batu:
     display_name: "William Batu"
@@ -52,7 +46,6 @@ wenjing:
     image: /img/people/wenjing.jpg
     bio: "MEd graduate in LT"
 
-
 basel:
     display_name: "Basel Hussein"
     role: grad
@@ -84,7 +77,17 @@ vivian:
 robert:
     display_name: "Robert Kreml"
     role: grad
-    bio: "PhD student"
+    bio: "PhD candidate"
+
+# developer
+
+benji:
+    display_name: "Benji Encalada Mora"
+    role: developer
+    bio: "Lead Software Engineer"
+    webpage: https://www.benji.dog/
+
+    # alum
 
 rukmini:
     display_name: "Rukmini Manasa"
