@@ -25,6 +25,10 @@ DataX is [an NSF DRK-12 project](https://www.nsf.gov/awardsearch/showAward?AWD_I
 **Graduate Researchers**: John Bartucz, Vimal Rao, Tina Jeon  
 **Developers**: Benji Encalada Mora
 
+## News
+
+✨ 2023-04-13, [Toward a Framework for Justice-Oriented Data Science Education in K–12 Schools](aera23-datax.pdf), AERA 2023. 
+
 ## Introduction
 
 > Understanding data is critical for informed citizens. Data science is a growing and emerging field that can incorporate statistics, mathematics, and computer science to develop disciplinary knowledge and address societal challenges. This project will develop an integrated, justice-oriented curriculum and a digital platform for teaching secondary students about data science in science and social studies classrooms. The platform will help students learn about data science using real-world data sets and problems. This project includes science and social studies teachers in the design of the resources and in testing them in secondary school classrooms. Research and development in data science education is needed to understand how students can learn more about the use of data in meaningful and authentic ways. This interdisciplinary project will also help students meaningfully analyze real-world data sets, interpret social phenomena, and engage in social change.
@@ -33,7 +37,7 @@ DataX is [an NSF DRK-12 project](https://www.nsf.gov/awardsearch/showAward?AWD_I
 
 ![](https://www.nsf.gov/awardsearch/images/common/head.gif)  ![](https://www.spps.org/cms/lib/MN01910242/Centricity/domain/6547/new%20spps%20logo/SPPS-HorizBlue.png)
 
-## Phase 1: Co-Designing DataX with Highschool Teachers
+## Phase 1: Co-Designing DataX with Teachers
 
 During this phase, the UMN research team is working with three highschool teachers from the St Paul Public Schools to co-design DataX. 
 
@@ -48,15 +52,33 @@ The following DataX components are advanced in tandem through co-design workshop
 
 [Download the table in CSV](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlTSsjpkBhLlN-PG2UOATH2P4h-6Dq19gtiZxMCq0nTKSD3Funjd0VIUyxmGnWQxWqjYmtBYzHyK9w/pub?gid=2142626713&single=true&output=csv)
 
-**Justice-Oriented Data Science Framework.** We are actively developing a framework of justice-oriented data science to ground the curriculum design. This framework will integrate multiple content areas and perspectives of learning to guide this project. 
+**Justice-Oriented Data Science Framework.** Our curriculum design work is guided by a justice-oriented data science (JODS) framework. This framework includes five synergestic areas:
+
+1. DS practices. Learners work with data in authentic ways, including wrangling data, making data moves, generating data representations, and interpreting findings.
+2. Disciplinary inquiry with DS. Learners engage in meaningful disciplinary or interdisciplinary inquiries in which they pose their own questions and answer these questions by analyzing data, while interacting and communicating with others.
+3. Examine justice through DS. Learners develop their understanding of a range of justice issues (e.g., racial, climate) and their intersections through data investigations; learners mobilize data science to develop tools to tackle justice issues.
+4. Critical reflection on DS. Learners consider the nature of data science as a field of research and practice, the ways in which fairness and biases are reflected in data science, and connections between data science and societal discourse.
+5. Identity and cultural practices. Learners see themselves as people who use data for purposes that interest them, recognize connections between data science and themselves and their communities, and identify ways to  engage in data science in culturally congruent manners.
+
+<img src="jods.png" width = "80%" />
+
+See details in [AERA 2023 presentation](aera23-datax.pdf). 
+
+**Lesson plans.** In collaboration with science and social studies teachers, we designed lesson plans that attempt to integrate these JODS areas for particular disciplinary contexts. Please reach out to Dr. Chen if you are interested in sample lesson plans. 
 
 ### 2. DataX Platform
 
-We are also developing a DataX platform to support the DataX Curriculum. Below is a screenshot of the platform we are currently developing. 
+We have developed and been continously refining a DataX platform to support the DataX Curriculum. Below is a screenshot of the platform we are currently developing. 
 
 <img src="/img/datax.gif" width = "80%" />
 
+## Phase 2: Classroom investigations
 
+*ongoing*
+
+
+
+----
 
 ## Prior Work
 
@@ -105,6 +127,7 @@ We are also developing a DataX platform that supports learners' computational pa
 
 ## Publications
 
+- Chen, B., Bartucz, J., Scharber, C., Rao, V., & DeLiema, D. (2023, April). [Toward a framework for justice-oriented data science education in K–12 schools](aera23-datax.pdf). Paper presented at the AERA Annual Meeting, Chicago, IL.
 - Chen, B., Ma, L., & Peebles, B. (2021, June). *Seeing Ourselves in the Data: Situating Data Literacy in Theory Building by Youth*. Paper presented in the "Data Literacy" Structured Poster Session at the 2022 AERA Annual Meeting, San Diego, CA. ([Poster](../file/aera22-data-literacy.pdf))
 - Chen, B., & Avadhanam, A. (2021, June). [Integrating Data Science Explorations in Science Classrooms](../file/ISLS2021-datax-final.pdf). Poster presented at the ISLS Annual Meeting 2021, Online. ([Poster](../file/ISLS21_DataX_poster_final.pdf))
 - Rosenberg, J., Edwards, A., & Chen, B. (2020). [Getting messy with data: Tools and strategies to help students analyze and interpret complex data sources](https://www.researchgate.net/publication/338926472_Getting_Messy_With_Data). *The Science Teacher, 87*(5), 30–34.
