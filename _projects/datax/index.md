@@ -27,8 +27,9 @@ DataX is [an NSF DRK-12 project](https://www.nsf.gov/awardsearch/showAward?AWD_I
 
 ## News
 
-✨ 2023-06-28, [DataX: Toward a Justice-Oriented Data Science Program for Secondary Science and Social Studies](drk12-2023-poster.pdf), DRK12 PI Meeting.  
-✨ 2023-04-13, [Toward a Framework for Justice-Oriented Data Science Education in K–12 Schools](aera23-datax.pdf), AERA 2023. 
+✨ 2023-06-28, [DataX: Toward a Justice-Oriented Data Science Program for Secondary Science and Social Studies](drk12-2023-poster.pdf), Poster presented at the DRK12 PI Meeting, Arlington, VA.
+
+✨ 2023-04-13, [Toward a Framework for Justice-Oriented Data Science Education in K–12 Schools](aera23-datax.pdf), Paper presented at the AERA Annual Meeting, Chicago, IL. 
 
 ## Introduction
 
