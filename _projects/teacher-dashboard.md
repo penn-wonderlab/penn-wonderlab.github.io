@@ -1,5 +1,5 @@
 ---
-title: "LA Dashboard for LD in Social Annotation"
+title: "A LA Dashboard for Learning Design in Annotation Activity"
 image: 
 description: |
   supports teacher inquiry into the learning process of students and helps them reflect on and adjust their learning design.
@@ -28,11 +28,13 @@ Attempting to address the misalignment, this study is to design and implement a 
 Under the general guidance of ACAD, we collaborated with instructors from different colleges in the University of Minnesota via three-round meetings and multiple emails to design and develop a functional dashboard. 
 The developed dashboard has a design page and an analytics page. On the design page, instructors input their design as a baseline for students' learning process in social annotation activities (see Figure 2). With the baseline, the difference between the design and the student activity in real-time class could be easily seen on the analytics page (see Figure 3). Instructors can take down Memos of reflection on the dashboard while viewing the data. In this study, the learning analytics, with its alignment with learning design, takes a step further from _describing what things are_ to _how things should be_ (Kaliisa and Dolonen, 2022).
 
-Figure 2. Design page for instructors to input their design
-<img width="800" alt="Screen Shot 2023-07-01 at 04 44 20" src="https://github.com/penn-wonderlab/penn-wonderlab.github.io/assets/41907842/2139859c-689b-454a-86f7-bd0df907851f">
+Figure 2. _Design page for instructors to input their design_
 
-Figure 3. Analytics page aligning with the learning design
-<img width="800" alt="Screen Shot 2023-07-01 at 05 01 02" src="https://github.com/penn-wonderlab/penn-wonderlab.github.io/assets/41907842/4da1258d-7842-445f-bf7f-d948e14469ad">
+<img width="900" alt="Screen Shot 2023-07-01 at 08 44 31" src="https://github.com/penn-wonderlab/penn-wonderlab.github.io/assets/41907842/48e6edd5-6c0b-4e78-9cb6-bd792d282361">
+
+Figure 3. _Analytics page aligning with the learning design_
+
+<img width="900" alt="Screen Shot 2023-07-01 at 05 01 02" src="https://github.com/penn-wonderlab/penn-wonderlab.github.io/assets/41907842/4da1258d-7842-445f-bf7f-d948e14469ad">
 
 #### Implemenation - from September 2023 to December 2023
 In the upcoming fall semester of 2024, the instructors will use the dashboard in their classes. Our investigation focuses on in what ways the dashboard supports teacher inquiry into the learning process of students and helps them reflect on and adjust their learning design. The effect of adjusted learning design on the learning process of students will be reported.
