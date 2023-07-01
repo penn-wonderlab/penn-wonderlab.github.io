@@ -22,11 +22,14 @@ Figure 1. The alignment between learning design, teacher inquiry, and learning a
 
 
 ### The Present Study
-Attempting to address the misalignment, this study is to design and implement a learning analytics dashboard with and for teachers with ACAD framework (Goodyear & Carvalho, 2014). Using the design-based research approach, the present study, focusing on the first cycle, includes twom main phases: the design and implementation phase. 
+Attempting to address the misalignment, this study is to design and implement a learning analytics dashboard with and for teachers with ACAD framework (Goodyear & Carvalho, 2014). Using the design-based research approach, the present study, focusing on the first cycle, includes two main phases: the design and implementation phase. 
 
 #### Design - from October 2022 to June 2023
 Under the general guidance of ACAD, we collaborated with instructors from different colleges in the University of Minnesota via three-round meetings and multiple emails to design and develop a functional dashboard. 
-The developed dashboard has a design page and an analytics page. On the design page, instructors input their design as a baseline for students' learning process in social annotation activities (see Figure 2). With the baseline, the difference between the design and the student activity in real-time class could be easily seen on the analytics page (see Figure 3). Instructors can take down Memos of reflection on the dashboard while viewing the data. In this study, the learning analytics, with its alignment with learning design, takes a step further from _describing what things are_ to _how things should be_ (Kaliisa and Dolonen, 2022).
+The developed dashboard has a design page and an analytics page. On <span style="color:blue"> the design page </span>, instructors input their design of social annotation activities(see Figure 2). Taking the learning design as a baseline/reference, the difference between student activity imagined by the instructor and the student activity in real-time class could be easily seen on the analytic page (see Figure 3). Instructors can take down Memos of reflection on the dashboard while viewing the data. In this study, the learning analytics, with its alignment with learning design, takes a step further from _describing what things are_ to _how things should be_ (Kaliisa and Dolonen, 2022).
+
+#### Implemenation - from September 2023 to December 2023
+In the upcoming fall semester of 2024, the instructors will use the dashboard in their classes. Our investigation focuses on in what ways the dashboard supports teacher inquiry into the learning process of students and helps them reflect on and adjust their learning design. The effect of adjusted learning design on the learning process of students will be reported. 
 
 Figure 2. _Design page for instructors to input their design_
 
@@ -35,8 +38,3 @@ Figure 2. _Design page for instructors to input their design_
 Figure 3. _Analytics page aligning with the learning design_
 
 <img width="900" alt="Screen Shot 2023-07-01 at 05 01 02" src="https://github.com/penn-wonderlab/penn-wonderlab.github.io/assets/41907842/4da1258d-7842-445f-bf7f-d948e14469ad">
-
-#### Implemenation - from September 2023 to December 2023
-In the upcoming fall semester of 2024, the instructors will use the dashboard in their classes. Our investigation focuses on in what ways the dashboard supports teacher inquiry into the learning process of students and helps them reflect on and adjust their learning design. The effect of adjusted learning design on the learning process of students will be reported.
-
-### 
