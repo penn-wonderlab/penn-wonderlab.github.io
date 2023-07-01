@@ -14,5 +14,17 @@ priority: 5
 
 ---
 
-#### Introduction
+### Introduction
 As shown in Figure 1, the synergy of learning design, teacher inquiry, and learning analytics has a positive impact on instructors as designers and practitioners as well as the learning of students. The potential synergy between learning design, teacher inquiry, and learning analytics has been reduced due to the misalignment in this circle. It is reported that the data provided by learning analytics cannot answer teachers' questions to help them reflect on their learning design (e.g., Macfadyen et al., 2020). The disconnection was also revealed by the systematic review of Mangaroska and Giannakos (2018).
+
+Figure 1. The alignment between learning design, teacher inquiry, and learning analytics 
+
+### The Present Study
+Attempting to address the misalignment, this study is to design and implement a learning analytics dashboard with and for teachers using ACAD framework (Goodyear & Carvalho, 2014). Using the design-based research approach, the present study, focusing on the first cycle, includes twom main phases: the design and implementation phase. 
+
+#### Design - from October 2022 to June 2023
+Under the general guidance of ACAD, we collaborated with instructors from different colleges in the University of Minnesota via three-round meetings and multiple emails to design and develop a functional dashboard. 
+The developed dashboard has a design page and an analytics page. On the design page, instructors input their design as a baseline for students' learning process in social annotation activities (see Figure 2). With the baseline, the difference between the design and the student activity in real-time class could be easily seen on the analytics page (see Figure 3). Instructors can take down Memos of reflection on the dashboard while viewing the data. 
+
+#### Implemenation - from September 2023 to December 2023
+In the upcoming fall semester of 2024, the instructors will use the dashboard in their classes. Our investigation focuses on in what ways the dashboard supports teacher inquiry into the learning process of students and helps them reflect on and adjust their learning design. The effect of adjusted learning design on the learning process of students will be reported.  
