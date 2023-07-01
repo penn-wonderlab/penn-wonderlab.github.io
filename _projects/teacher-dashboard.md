@@ -1,5 +1,5 @@
 ---
-title: "LA Dashboard for Learning Design in Social Annotation Activities"
+title: "LA Dashboard for LD in Social Annotation"
 image: 
 description: |
   supports teacher inquiry into the learning process of students and helps them reflect on and adjust their learning design.
