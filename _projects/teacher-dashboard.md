@@ -18,6 +18,8 @@ priority: 5
 As shown in Figure 1, the synergy of learning design, teacher inquiry, and learning analytics has a positive impact on instructors as designers and practitioners as well as the learning of students. The potential synergy between learning design, teacher inquiry, and learning analytics has been reduced due to the misalignment in this circle. It is reported that the data provided by learning analytics cannot answer teachers' questions to help them reflect on their learning design (e.g., Macfadyen et al., 2020). The disconnection was also revealed by the systematic review of Mangaroska and Giannakos (2018).
 
 Figure 1. The alignment between learning design, teacher inquiry, and learning analytics 
+<img width="494" alt="Screen Shot 2023-07-01 at 07 44 03" src="https://github.com/penn-wonderlab/penn-wonderlab.github.io/assets/41907842/5d20c6af-ac19-4ff3-bcb8-427cacb01bb4">
+
 
 ### The Present Study
 Attempting to address the misalignment, this study is to design and implement a learning analytics dashboard with and for teachers with ACAD framework (Goodyear & Carvalho, 2014). Using the design-based research approach, the present study, focusing on the first cycle, includes twom main phases: the design and implementation phase. 
