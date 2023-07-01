@@ -1,4 +1,3 @@
-<img width="1233" alt="Screen Shot 2023-07-01 at 04 44 20" src="https://github.com/penn-wonderlab/penn-wonderlab.github.io/assets/41907842/35ba435c-2c37-46b1-961c-8b1f72866e9d">---
 title: "a Teacher-facing Learning Analytics Dashboard for Learning Design in Social Annotation Activities"
 image: 
 description: |
