@@ -1,5 +1,5 @@
 ---
-title: "A LA Dashboard for Learning Design in Annotation Activity"
+title: "LA Dashboard for Learning Design in Annotation Activity"
 image: 
 description: |
   supports teacher inquiry into the learning process of students and helps them reflect on and adjust their learning design.
