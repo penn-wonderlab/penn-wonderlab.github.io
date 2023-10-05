@@ -24,4 +24,5 @@ See [this page](http://www.david-deliema.com/debugging) for more details.
 
 **Publications**
 
-(forthcoming)
+- Liu, X., Hussein, B., Barany, A., Baker, R. S., & Chen, B. (2023). [Decoding Player Behavior: Analyzing Reasons for Player Quitting Using Log Data from Puzzle Game Baba Is You](https://learninganalytics.upenn.edu/ryanbaker/ICQE23_paper_25.pdf). In *Proceedings of the International Conference on Quantitative Ethnography*, Melbourne, Australia.
+
