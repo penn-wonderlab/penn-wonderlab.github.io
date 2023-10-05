@@ -14,38 +14,6 @@ hongs:
     image: /img/people/hongs.jpg
     bio: "PhD Candidate"
 
-batu:
-    display_name: "William Batu"
-    role: alum
-    image: /img/people/batu.jpeg
-    bio: "M.S. student in CS"
-
-ethan:
-    display_name: "Ethan Brown"
-    webpage: "http://statisfactions.com/"
-    role: alum
-    image: /img/people/ethan.jpg
-    bio: "PhD in EdPsy"
-
-yuhui:
-    display_name: "Yu-Hui Chang"
-    webpage: "https://twitter.com/yhuiChang"
-    role: alum
-    image: /img/people/hui.jpg
-    bio: "PhD candidate in LT"
-
-# chenchen:
-#     display_name: "Chen Chen"
-#     role: grad
-#     image: /img/people/chenchen.jpg
-#     bio: "PhD student in LT"
-
-wenjing:
-    display_name: "Wenjing Chen"
-    role: alum
-    image: /img/people/wenjing.jpg
-    bio: "MEd graduate in LT"
-
 basel:
     display_name: "Basel Hussein"
     role: grad
@@ -89,29 +57,6 @@ benji:
 
     # alum
 
-rukmini:
-    display_name: "Rukmini Manasa"
-    webpage: "https://www.researchgate.net/profile/Rukmini_Manasa_Avadhanam"
-    role: alum
-    image: /img/people/rukmini.jpg
-    bio: "PhD student in LT"
-
-shanyu:
-    display_name: "Shan Yu"
-    role: alum
-    image: https://i1.rgstatic.net/ii/profile.image/299399507922950-1448393813833_Q512/Shan-Yu-22.jpg
-    bio: "PhD candidate in Design"
-
-
-
-
-# ramya:
-#     display_name: "Ramya Sivaraj"
-#     # webpage: "https://fanouyang.net/"
-#     role: grad
-#     image: /img/people/sivaraj.png
-#     bio: "PhD student in STEM Education"
-#       # I am a PhD student in STEM Education, with a focus on diverse cultural perspectives in STEM learning and a supporting minor in Learning Technologies. My research interests include exploring collaborative relationships between families/communities and education, and utilizing various technologies towards such equitable collaborations. I completed my undergraduate degree in Chemistry/Philosophy, and my master’s degree in Geochemistry. I taught 8th grade science for five years in a highly diverse middle school with the Chicago Public Schools. I also taught Geology courses with Northwestern University’s School of Continuing Education for four years. I hope to integrate my experiences with teaching and learning, while working with families and educators towards better understanding factors that influence STEM engagement, opportunities, and outcomes.
 
 tina:
     display_name: "Tina Jeon"
@@ -125,43 +70,9 @@ johnb:
     image: https://lt.umn.edu/sites/lt-d8.umn.edu/files/styles/crop_freeform/public/2022-01/JABpltw%20-%20John%20Bartucz%20%281%29_0.png?itok=W5_7vf47
     bio: "PhD student in LT"
 
-dipesh:
-    display_name: "Dipesh Reen"
-    role: alum
-    image: /img/people/male_placeholder.jpg
-    bio: "MS graduate in CS"
-
-
-# teacher
-
-david:
-    display_name: "David Groos"
-    webpage: "https://twitter.com/djgroos?lang=en"
-    role: alum
-    image: "https://pbs.twimg.com/profile_images/3742118341/786217c615101e9ada82a6066c60b99b_400x400.jpeg"
-    bio: "MPS Science Teacher"
-
-craig:
-    display_name: "Craig Karlen"
-    role: alum
-    image: /img/people/male_placeholder.jpg
-    bio: "SPPS Science Teacher"
-
-dan:
-    display_name: "Daniel Weyandt"
-    role: alum
-    image: /img/people/male_placeholder.jpg
-    bio: "SPPS Science Teacher"
 
 # undergrad
 
-jon:
-    display_name: "Jonathan Shoberg"
-    webpage: "https://github.com/lordgentlehosen"
-    role: alum
-    image: /img/people/jon.jpg
-    bio: "Computer Science"
-      # I am an undergraduate student studying computer science at the College of Science and Engineering at the University of Minnesota, with a focus in Human-Computer Interaction. I am interested in using technology in new and innovative ways to enhance learning experiences, and I have a particular interest in using video games for this purpose. In my studies, I have found that I have a passion for both technology and psychology, and I try to keep both of these things in mind in my work, to come up with the best solution possible for both the user and the software.
 
 # visiting scholars
 
@@ -178,13 +89,6 @@ jon:
 #     role: vscholar
 #     image: /img/people/yizhou.jpg
 #     bio: "PhD student from Peking University"
-
-mustafa:
-    display_name: "Mustafa Serkan Günbatar"
-    role: alum
-    webpage: https://avesis.yyu.edu.tr/mustafaserkan
-    image: https://avesis.yyu.edu.tr/user/image/2984
-    bio: "Associate Professor, Van Yüzüncü Yıl University"
 
 # collaborators
 
@@ -265,20 +169,61 @@ svarma:
     bio: "Georgia Tech"
 # postdocs
 
-zixi:
-    display_name: "Zixi Chen"
-    role: postdoc
-    webpage: https://scholar.google.com/citations?user=zfkOwi4AAAAJ&hl=en
-    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/08/avatar-2-edited-150x150.png
-    bio: "Postdoc"
-mengchen:
-    display_name: "Mengchen Su"
-    role: postdoc
-    webpage: https://www.mengchensu.com/
-    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/10/Su-pic-150x150.jpg
-    bio: "Postdoc"
 
 # alums
+
+zixi:
+    display_name: "Zixi Chen"
+    role: alum
+    webpage: https://scholar.google.com/citations?user=zfkOwi4AAAAJ&hl=en
+    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/08/avatar-2-edited-150x150.png
+    bio: "Postdoc; now assistant professor at NYU Shanghai"
+mengchen:
+    display_name: "Mengchen Su"
+    role: alum
+    webpage: https://www.mengchensu.com/
+    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/10/Su-pic-150x150.jpg
+    bio: "Postdoc; now Research Scientist at UMN"
+
+yuhui:
+    display_name: "Yu-Hui Chang"
+    webpage: "https://education.nsysu.edu.tw/p/405-1134-275857,c11706.php?Lang=en"
+    role: alum
+    image: /img/people/hui.jpg
+    bio: "PhD in LT; now Assistant Professor at National Sun Yat-sen University"
+
+rukmini:
+    display_name: "Rukmini Manasa"
+    webpage: "https://www.researchgate.net/profile/Rukmini_Manasa_Avadhanam"
+    role: alum
+    image: /img/people/rukmini.jpg
+    bio: "PhD student in LT"
+
+shanyu:
+    display_name: "Shan Yu"
+    role: alum
+    image: https://i1.rgstatic.net/ii/profile.image/299399507922950-1448393813833_Q512/Shan-Yu-22.jpg
+    bio: "PhD candidate in Design"
+
+wenjing:
+    display_name: "Wenjing Chen"
+    role: alum
+    image: /img/people/wenjing.jpg
+    bio: "MEd graduate in LT"
+
+
+batu:
+    display_name: "William Batu"
+    role: alum
+    image: /img/people/batu.jpeg
+    bio: "M.S. student in CS"
+
+ethan:
+    display_name: "Ethan Brown"
+    webpage: "http://statisfactions.com/"
+    role: alum
+    image: /img/people/ethan.jpg
+    bio: "PhD in EdPsy"
 
 hwu:
     display_name: "Huanqing Wu"
@@ -318,6 +263,42 @@ yizhou:
     role: alum
     image: /img/people/yizhou.jpg
     bio: "Visiting scholar from Peking U"
+
+jon:
+    display_name: "Jonathan Shoberg"
+    webpage: "https://github.com/lordgentlehosen"
+    role: alum
+    image: /img/people/jon.jpg
+    bio: "Computer Science"
+      # I am an undergraduate student studying computer science at the College of Science and Engineering at the University of Minnesota, with a focus in Human-Computer Interaction. I am interested in using technology in new and innovative ways to enhance learning experiences, and I have a particular interest in using video games for this purpose. In my studies, I have found that I have a passion for both technology and psychology, and I try to keep both of these things in mind in my work, to come up with the best solution possible for both the user and the software.
+
+mustafa:
+    display_name: "Mustafa Serkan Günbatar"
+    role: alum
+    webpage: https://avesis.yyu.edu.tr/mustafaserkan
+    image: https://avesis.yyu.edu.tr/user/image/2984
+    bio: "Associate Professor, Van Yüzüncü Yıl University"
+
+    # teacher
+
+david:
+    display_name: "David Groos"
+    webpage: "https://twitter.com/djgroos?lang=en"
+    role: alum
+    image: "https://pbs.twimg.com/profile_images/3742118341/786217c615101e9ada82a6066c60b99b_400x400.jpeg"
+    bio: "MPS Science Teacher"
+
+craig:
+    display_name: "Craig Karlen"
+    role: alum
+    image: /img/people/male_placeholder.jpg
+    bio: "SPPS Science Teacher"
+
+dan:
+    display_name: "Daniel Weyandt"
+    role: alum
+    image: /img/people/male_placeholder.jpg
+    bio: "SPPS Science Teacher"
 
 # faculty
 

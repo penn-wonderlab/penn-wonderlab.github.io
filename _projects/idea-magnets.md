@@ -1,6 +1,6 @@
 ---
 title: "IdeaMagnets"
-image: https://www.nsf.gov/images/logos/NSF_4-Color_bitmap_Logo_thumb.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/NSF_logo.png/220px-NSF_logo.png
 description: |
   CRII: Cyberlearning: Connecting Web Annotations and Progressive Online Discourse in Science Classrooms.
 people:
