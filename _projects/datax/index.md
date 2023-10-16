@@ -10,6 +10,7 @@ people:
   - scharber
   - deliema
   - johnb
+  - vivian
 priority: 1
 
 ---

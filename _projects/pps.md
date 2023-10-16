@@ -9,6 +9,7 @@ people:
   - deliema
   - bodong
   - basel
+  - rachel
 priority: 2
 ---
 
