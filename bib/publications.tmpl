@@ -16,10 +16,8 @@
 			<span class="pubtitle">
 				{%- set url = entry|main_url %}
 				{%- if url %}
-					{%- if '.pdf' in url %}
-					<img src="img/pdficon_small.png" width="16"
-						height="16" alt="PDF" />
-					{%- endif %}
+				<img src="img/pdficon_small.png" width="16"
+					height="16" alt="PDF" />
 				<a href="{{ url|escape }}">{{ entry|title }}</a>.
 				{%- else %}
 				{{ entry|title }}.
@@ -36,7 +34,7 @@
 			{%- endif %}
 			<br />
 			<span class="links">
-			{%- for type, url in (entry|extra_urls).iteritems() %}
+			{%- for type, url in (entry|extra_urls).items() %}
 				[<a href="{{ url|escape }}">{{ type|escape }}</a>]
 			{%- endfor %}
 				{%- if entry.fields['abstract'] %}

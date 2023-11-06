@@ -3,13 +3,10 @@ layout: default
 title: Resources
 ---
 
-## Curricular Materials
+## Events
 
-Under construction
+- March 2023 - June 2023, Knowledge Building Design Jam & Hackathon, Online. [[Report](https://docs.google.com/presentation/d/1lEj2NepwxyOsEojPyQGt_ENnj79gft_u5nMQRoAeaR0/edit?usp=sharing)]
 
-## Software Packages
-
-Under construction
 
 ## Code
 
