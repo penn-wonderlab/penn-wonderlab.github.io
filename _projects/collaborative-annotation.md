@@ -7,6 +7,8 @@ people:
   - xinran
   - hongs
   - bodong
+  - emily
+  - pingting
 
 layout: project
 status: active
