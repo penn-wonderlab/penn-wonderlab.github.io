@@ -48,6 +48,20 @@ rachel:
     webpage: https://www.linkedin.com/in/xiner-liu-rachel/
     image:  "https://media.licdn.com/dms/image/C5103AQGItoSMAugCZw/profile-displayphoto-shrink_800_800/0/1582490517674?e=2147483647&v=beta&t=lwyZlD_81qBckeKOf-tE6s-fT7HFiq2UkrJjG7_NK-4"
     bio: "MSEd student"
+
+pingting:
+    display_name: "Pingting Chen"
+    role: grad
+    image:  /img/people/pingting.jpg
+    bio: "MSEd student"
+
+emily:
+    display_name: "Emily Yan"
+    role: grad
+    webpage: http://linkedin.com/in/emily-yan-a9b146230/
+    image:  /img/people/emily.png
+    bio: "MSEd student"
+    
 robert:
     display_name: "Robert Kreml"
     role: grad
