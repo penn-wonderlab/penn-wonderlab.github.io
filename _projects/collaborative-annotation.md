@@ -29,13 +29,13 @@ We designed a generic scaffolding framework comprising three scripted participat
 
 <img width="820" alt="Screen Shot 2021-12-09 at 12 36 59 PM" src="https://user-images.githubusercontent.com/52936789/145448419-8def9806-e9fd-48cd-8482-36a5e5f8220f.png">
 
-#### 🔧 Designing a Technology Support for Knowledge Synthesis -- Social Annotation Synthesizer (SASy)
+#### 🔧 Designing a Technology Support for Knowledge Synthesis -- The Synthesis Lab
 
-SASy is a tool for knowledge synthesis in collaborative sense-making and knowledge building. SASy aims to support the creation of knowledge synthesis, which does not only summarize existing ideas but also investigates connections across sources and generates novel knowledge, akin to the notion of “rise-aboves” in knowledge building (Scardamalia & Bereiter, 2014). As a scaffolding tool, SASy emphasizes the indispensability of connecting ideas and guides students through the key steps of making generative synthesis, including searching for relevant ideas, connecting, categorizing and rising above scattered ideas, and writing up the synthesis. 
+The Synthesis Lab is a tool for knowledge synthesis in collaborative sense-making and knowledge building. It aims to support the creation of knowledge synthesis, which does not only summarize existing ideas but also investigates connections across sources and generates novel knowledge, akin to the notion of “rise-aboves” in knowledge building (Scardamalia & Bereiter, 2014). As a scaffolding tool, the tool emphasizes the indispensability of connecting ideas and guides students through the key steps of making generative synthesis, including searching for relevant ideas, connecting, categorizing and rising above scattered ideas, and writing up the synthesis. 
 
 Check out the [blurb](https://docs.google.com/document/d/1vIn5NR-ZrOJJwmNe9qB_FvDjshmg4-vIWX36PpxuA0w/edit?usp=sharing) with a demo!
 
-<img width="820" alt="SASy_final" src="https://user-images.githubusercontent.com/52936789/145449753-01425de1-b4a4-4a0d-b25e-ec8be6189f55.png">
+<img width="820" alt="SASy_final" src="https://freight.cargo.site/t/original/i/d5215daa1f9a17f719b2cca790f2ea002e1a37a2ca8960c2372ebb44bd6e192a/TSL.png">
 
 #### 📊 Developing Analytical Frameworks to Understand Collaborative Discourse
 
@@ -66,6 +66,8 @@ On the design page, instructors can input important design elements that generat
 
 ## Publications
 
+-  Zhu, X., Shui, H., & Chen, B. (2023). The Synthesis Lab: Empowering collaborative learning in higher education through knowledge synthesis. Proceedings of Computer Supported Cooperative Work and Social Computing (CSCW’23 Companion) (pp. 245-248).
+-  Zhu, X., Shui, H., & Chen, B. (2023). Beyond reading together: Facilitating knowledge construction through participation roles and social annotation in college classrooms. The Internet and Higher Education, 100919.
 -  Chen, B., Zhu, X., & Shui, H. (2022). Socio-Semantic Network Motifs Framework for Discourse Analysis. In LAK22: 12th International Learning Analytics and Knowledge Conference (LAK22), March 21–25, 2022. [https://doi.org/10.1145/3506860.3506893](https://doi.org/10.1145/3506860.3506893)
 -  Zhu, X., Shui, H., & Chen, B. (2021). Designing Support for Productive Social Interaction and Knowledge Co-construction in Collaborative Annotation. In Rodrigo, M. M. T. et al. (Eds.). *Proceedings of the 29th International Conference on Computers in Education*. Asia-Pacific Society for Computers in Education. **[Best Student Paper Award & Best Paper Nomination]**
 - Zhu, X., Shui, H., & Chen, B. (2020, preprint). A Scaffolding Framework for Social Annotation in Online Classes. EdArXiv. [https://doi.org/10.35542/osf.io/zk4vj](https://doi.org/10.35542/osf.io/zk4vj)
