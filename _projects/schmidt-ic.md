@@ -4,7 +4,7 @@ image: https://www.evpa.ngo/sites/www.evpa.ngo/files/styles/large/public/logo-im
 description: | 
   Research discovery with "big data" in large-scale student information and learning management systems
 layout: project
-status: active
+status: inactive
 people:
   - zixi
   - mengchen
