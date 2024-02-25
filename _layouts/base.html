@@ -11,6 +11,33 @@
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="shortcut icon" href="{{ site.base }}/favicon.ico" type="image/vnd.microsoft.icon">
 
+        <!-- style added to support collaposible sections -->
+        <style>
+          details {
+            user-select: none;
+          }
+
+          details>summary span.icon {
+            width: 24px;
+            height: 24px;
+            transition: all 0.3s;
+            margin-left: auto;
+          }
+
+          details[open] summary span.icon {
+            transform: rotate(-90deg);
+          }
+
+          summary {
+            display: flex;
+            cursor: pointer;
+          }
+
+          summary::-webkit-details-marker {
+            display: none;
+          }
+        </style>
+
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <script async src="https://www.googletagmanager.com/gtag/js?id=UA-50108133-2"></script>
         <script>
