@@ -11,7 +11,6 @@ people:
   - batu
   - jon
   - fan
-  - dipesh
 
 layout: project
 status: inactive
@@ -40,7 +39,9 @@ This project has been concluded in March 2020.
 
 ## Project Updates
 
-- 2010-11-20, The project team presented a paper titled [Crisscrossing Information Spaces with the IdeaMagnets Tool](/file/KBSI2020_IdeaMagnets.pdf/) at [KBSI 2020](https://ikit.org/summerinstitute2020/index.php/program/). Check out [a brief presentation here](https://play.library.utoronto.ca/play/6a41e5572d1f001035ec234414f85991).
+- 2024-04-14, we presented [a poster](https://aera24-aera.ipostersessions.com/Default.aspx?s=2E-43-54-8F-32-4C-69-FA-DC-83-77-BC-DB-0D-BF-2A) based on the project in an AERA 2024 Structured Poster Session [Advancing Understanding of Infrastructuring in the Learning Sciences](http://tinyurl.com/yt8p7oqq).
+- 2024-03-27, a paper informed by the project, titled *[A framework for infrastructuring sustainable innovations in education](https://doi.org/10.1080/10508406.2024.2320159)*, is published in the Journal of the Learning Sciences.
+- 2020-11-20, The project team presented a paper titled [Crisscrossing Information Spaces with the IdeaMagnets Tool](/file/KBSI2020_IdeaMagnets.pdf/) at [KBSI 2020](https://ikit.org/summerinstitute2020/index.php/program/). Check out [a brief presentation here](https://play.library.utoronto.ca/play/6a41e5572d1f001035ec234414f85991).
 - 2019-12-05, Bodong Chen delivered a theme-based invited speech titled "Creating Conditions for Knowledge Building for the Public Good" at the ICCE conference in Taiwan, Kenting. See [slides](https://speakerdeck.com/bodong/icce-2019-theme-based-invited-speech-creating-conditions-for-knowledge-building-for-the-public-good?slide=15), and the [video recording](https://youtu.be/7j2fmdT31eM?t=1135). 
 - 2019-04-10, we presented the IdeaMagnets project [2019 AERA Annual Meeting (#AERA19) and the Knowledge Building Summer Institute (#KBSI2019)](/blog/2019/04/10/aera19.html) collocated in Toronto, Canada
 - 2019-03-26, [The project was featured at the CEHD Research Day](/blog/2019/03/26/cehd-research-day.html)
@@ -64,6 +65,7 @@ This project has been concluded in March 2020.
 
 ## Publications
 
+- Chen, B. (2024). A framework for infrastructuring sustainable innovations in education. *Journal of the Learning Sciences, 0*(0), 1–30. https://doi.org/10.1080/10508406.2024.2320159
 - Chen, B., Chang, Y.-H., & Groos, D. (2020, November). _Crisscrossing Information Spaces with the IdeaMagnets Tool_. 2020 Knowledge Building Summer Institute, Online. [https://ikit.org/summerinstitute2020/wp-content/uploads/2021/03/149-Chen-Crisscrossing.pdf](https://ikit.org/summerinstitute2020/wp-content/uploads/2021/03/149-Chen-Crisscrossing.pdf)
 - Hussein, B., & Chen, B. (2020, November). _Intelligent Support for Knowledge Building Across Web Spaces_. KBSI 2020, Online. [https://ikit.org/summerinstitute2020/wp-content/uploads/2021/03/163-Poster.pdf](https://ikit.org/summerinstitute2020/wp-content/uploads/2021/03/163-Poster.pdf)
 - Chen, B., Chang, Y.-H., & Groos, D. (2020). Bridging Public Discourse and Knowledge Building Discourse in Science Classrooms with the IdeaMagnets Tool. In M. Gresalfi & I. S. Horn (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, Volume 2 (pp. 863–864). International Society of the Learning Sciences. https://doi.org/10.22318/icls2020.863
