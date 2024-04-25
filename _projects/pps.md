@@ -10,6 +10,7 @@ people:
   - bodong
   - basel
   - rachel
+  - emily
 priority: 2
 ---
 

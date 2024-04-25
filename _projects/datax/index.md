@@ -30,7 +30,7 @@ DataX is [an NSF DRK-12 project](https://www.nsf.gov/awardsearch/showAward?AWD_I
 
 ✨ 2024-06, *Supporting Learning Pathways of Justice-Oriented Data Science in Secondary Science and History Classes: Teachers’ Perspectives*, Poster to be presented at the ISLS Annual Meeting. AUTHORS: Bodong Chen, David DeLiema, Cassie Scharber and John Bartucz
 
-✨ 2024-04-14, *Characterizing Data Literacy Instruction: Content Analysis of a High School Science and Social Studies Textbook*. Paper to be presented at the AERA Annual Meeting, Philadelphia, PA. AUTHORS: Keerthanya Rajesh & Bodong Chen. 
+✨ 2024-04-14, *[Characterizing Data Literacy Instruction: Content Analysis of a High School Science and Social Studies Textbook](aera2024-textbooks-handout.pdf)*. Paper to be presented at the AERA Annual Meeting, Philadelphia, PA. AUTHORS: Keerthanya Rajesh & Bodong Chen. 
 
 ✨ 2023-06-28, [DataX: Toward a Justice-Oriented Data Science Program for Secondary Science and Social Studies](drk12-2023-poster.pdf), Poster presented at the DRK12 PI Meeting, Arlington, VA.
 
