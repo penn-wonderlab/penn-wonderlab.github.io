@@ -12,7 +12,7 @@ exclude: [bibble, README.md, Makefile, Dockerfile]
 highlighter: rouge
 
 # The path structure for blog posts.
-permalink: /blog/:year/:month/:day/:title.html
+permalink: /post/:year/:month/:day/:title.html
 
 # Sections on the "people" page.
 roles:
