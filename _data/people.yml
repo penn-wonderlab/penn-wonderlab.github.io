@@ -23,14 +23,14 @@ basel:
 
 xiping:
     display_name: "Xiping Jiang"
-    role: grad
+    role: alum
     webpage: http://sisypher.com/
     image: /img/people/xiping.png
     bio: "MSEd student"
     
 keerthi:
     display_name: "Keerthanya Rajesh"
-    role: grad
+    role: alum
     webpage: https://www.linkedin.com/in/keerthanya-rajesh/
     image:  /img/people/keerthi.png
     bio: "MSEd student"
@@ -40,7 +40,7 @@ vivian:
     role: grad
     webpage: https://vyleung.github.io/ 
     image:  /img/people/vivian.png
-    bio: "MSEd student"
+    bio: "MSEd"
 
 rachel:
     display_name: "Rachel Liu"
@@ -75,7 +75,14 @@ benji:
     bio: "Lead Software Engineer"
     webpage: https://www.benji.dog/
 
-    # alum
+
+wenxi:
+    display_name: "Wenxi Chen"
+    role: developer
+    bio: "Developer"
+    webpage: https://github.com/wenxich
+
+# alum
 
 
 tina:
