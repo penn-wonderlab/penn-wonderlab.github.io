@@ -51,7 +51,7 @@ rachel:
 
 pingting:
     display_name: "Pingting Chen"
-    role: grad
+    role: alum
     image:  /img/people/pingting.jpg
     bio: "MSEd student"
 
@@ -311,19 +311,19 @@ mustafa:
 david:
     display_name: "David Groos"
     webpage: "https://twitter.com/djgroos?lang=en"
-    role: alum
+    role: teacher
     image: "https://pbs.twimg.com/profile_images/3742118341/786217c615101e9ada82a6066c60b99b_400x400.jpeg"
     bio: "MPS Science Teacher"
 
 craig:
     display_name: "Craig Karlen"
-    role: alum
+    role: teacher
     image: /img/people/male_placeholder.jpg
     bio: "SPPS Science Teacher"
 
 dan:
     display_name: "Daniel Weyandt"
-    role: alum
+    role: teacher
     image: /img/people/male_placeholder.jpg
     bio: "SPPS Science Teacher"
 

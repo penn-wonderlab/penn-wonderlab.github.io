@@ -4,7 +4,8 @@ title: Home
 notitle: true
 
 role_groups:
-    - [faculty, postdoc]
+    <!-- - [faculty, postdoc] -->
+    - [faculty]
     - [grad, developer]
 
 role_remain:
@@ -38,54 +39,11 @@ role_remain:
     </li>
 </ul>
 
-
-<!-- <h2>Research Themes</h2>
-
-<div class="card-columns">
-{% for p in site.projects %}
-{% if p.status != "inactive" %}
-<div class="card {%if p.link or p.url%}link{%endif%}">
-    {% if p.link %}
-        {% assign proj_url = p.link %}
-    {% else %}
-        {% capture proj_url %}{{site.base}}{{p.url}}.html{% endcapture %}
-    {% endif %}
-
-    <a href="{{proj_url}}">
-        <div class="card-block">
-            <div class="title">
-                {% if p.image %}
-                    {% assign imgurl = p.image %}
-                    {% capture init %}{{ p.image | slice: 0,1 }}{% endcapture %}
-                    {% if init == "/" %}
-                        {% capture imgurl %}{{site.base}}{{p.image}}{% endcapture %}
-                    {% endif %}
-                    <h3 class="card-title">
-                        <img class="icon img-responsive" src="{{imgurl}}" alt="{{p.title}}"/>
-                    </h3>
-                {% endif %}
-                <h3 class="card-title">{{p.title}}</h3>
-            </div>
-            <div class="card-text">
-                {{ p.description | markdownify }}
-            </div>
-        </div>
-        {% if p.people %}
-        <div class="card-footer">
-            {% include project-people.html people=p.people %}
-        </div>
-        {% endif %}
-    </a>
-</div>
-{% endif %}
-{% endfor %}
-</div> -->
-
 <h2 id="people">People</h2>
 
 <div class="row">
 {% for grp in page.role_groups %}
-    <div class="col-md-{% if grp contains 'grad' or grp contains 'postdoc' %}12{% else %}4{% endif %}">
+    <div class="col-md-{% if grp contains 'grad' or grp contains 'developer' %}12{% else %}4{% endif %}">
         {% for role in site.roles %}
         {% if grp contains role.key %}
             <h3>{{ role.name }}</h3>
