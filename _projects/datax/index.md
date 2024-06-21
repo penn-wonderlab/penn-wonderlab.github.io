@@ -5,12 +5,6 @@ description: |
   Integrating justice-oriented data science in secondary science and social studies
 layout: project
 status: active
-people:
-  - bodong
-  - scharber
-  - deliema
-  - johnb
-  - vivian
 priority: 1
 
 ---
@@ -22,7 +16,7 @@ priority: 1
 DataX is [an NSF DRK-12 project](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2101413) that aims to develop an integrated, justice-oriented curriculum and a digital platform for teaching secondary students. 
 
 **PIs**: Bodong Chen, Cassie Scharber, David Deliema  
-**Graduate Researchers**: Vivian Leung, John Bartucz, Vimal Rao, Tina Jeon  
+**Graduate Researchers**: Regina Lisinker, John Bartucz, Vivian Leung, Vimal Rao, Tina Jeon  
 **Developers**: Benji Encalada Mora
 
 ## News

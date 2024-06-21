@@ -17,7 +17,7 @@
     place-items: start;
     gap: 1rem;
     margin: 0;
-    padding: 1rem;
+    /* padding: 1rem; */
     color: var(--primary);
     background: var(--background);
   }
@@ -29,12 +29,12 @@
     z-index: -1;
   }
   .tab__content {
-    /* max-height: 0; */
+    max-height: fit-content;
     overflow: hidden;
     transition: all 0.35s;
   }
   .tab input:checked ~ .tab__content {
-    max-height: 10rem;
+    max-height: 0;
   }
   
   /* Visual styles */
