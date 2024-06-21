@@ -16,7 +16,6 @@ priority: 1
 ---
 
 
-
 <!-- ## DataX: Exploring Justice-Oriented Data Science with Secondary School Students -->
 <br />
 
@@ -52,55 +51,44 @@ The following DataX components are advanced in tandem through co-design workshop
 
 **Click on each section below to expand for details:**
 
-<details>
-  <summary>
-  <h3>1. DataX Curriculum</h3>
-  <span class="icon" style='font-size:36px'>👇</span>
-  </summary>
-  <b>Review of Data Science Education Curricula.</b> To inform our design, we have conducted a review of existing Data Science Education Curriculum efforts. See the table below. This review is by no means comprehensive. Please contact us if you have any suggestions.
+<section class="accordion accordion--radio">
+  <div class="tab">
+    <input type="checkbox" name="accordion-1" id="cb1" checked>
+    <label for="cb1" class="tab__label"><b>1. DataX Curriculum</b></label>
+    <div class="tab__content">
+      <p><b>Review of Data Science Education Curricula.</b> To inform our design, we have conducted a review of existing Data Science Education Curriculum efforts. See the table below. This review is by no means comprehensive. Please contact us if you have any suggestions.</p>
 
-  <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlTSsjpkBhLlN-PG2UOATH2P4h-6Dq19gtiZxMCq0nTKSD3Funjd0VIUyxmGnWQxWqjYmtBYzHyK9w/pubhtml?gid=2142626713&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe>
+      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlTSsjpkBhLlN-PG2UOATH2P4h-6Dq19gtiZxMCq0nTKSD3Funjd0VIUyxmGnWQxWqjYmtBYzHyK9w/pubhtml?gid=2142626713&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe>
 
-  <p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlTSsjpkBhLlN-PG2UOATH2P4h-6Dq19gtiZxMCq0nTKSD3Funjd0VIUyxmGnWQxWqjYmtBYzHyK9w/pub?gid=2142626713&single=true&output=csv">Download the table in CSV</a>
-  </p>
+      <p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlTSsjpkBhLlN-PG2UOATH2P4h-6Dq19gtiZxMCq0nTKSD3Funjd0VIUyxmGnWQxWqjYmtBYzHyK9w/pub?gid=2142626713&single=true&output=csv">Download the table in CSV</a>
+      </p>
 
 
-  <p><b>Justice-Oriented Data Science Framework.</b> Our curriculum design work is guided by a justice-oriented data science (JODS) framework. This framework includes five synergestic areas:</p>
-  
-  <p>1. DS practices. Learners work with data in authentic ways, including wrangling data, making data moves, generating data representations, and interpreting findings.</p>
-  <p>2. Disciplinary inquiry with DS. Learners engage in meaningful disciplinary or interdisciplinary inquiries in which they pose their own questions and answer these questions by analyzing data, while interacting and communicating with others.</p>
-  <p>3. Examine justice through DS. Learners develop their understanding of a range of justice issues (e.g., racial, climate) and their intersections through data investigations; learners mobilize data science to develop tools to tackle justice issues.</p>
-  <p>4. Critical reflection on DS. Learners consider the nature of data science as a field of research and practice, the ways in which fairness and biases are reflected in data science, and connections between data science and societal discourse.</p>
-  <p>5. Identity and cultural practices. Learners see themselves as people who use data for purposes that interest them, recognize connections between data science and themselves and their communities, and identify ways to  engage in data science in culturally congruent manners.</p>
+      <p><b>Justice-Oriented Data Science Framework.</b> Our curriculum design work is guided by a justice-oriented data science (JODS) framework. This framework includes five synergestic areas:</p>
+      
+      <p>1. DS practices. Learners work with data in authentic ways, including wrangling data, making data moves, generating data representations, and interpreting findings.</p>
+      <p>2. Disciplinary inquiry with DS. Learners engage in meaningful disciplinary or interdisciplinary inquiries in which they pose their own questions and answer these questions by analyzing data, while interacting and communicating with others.</p>
+      <p>3. Examine justice through DS. Learners develop their understanding of a range of justice issues (e.g., racial, climate) and their intersections through data investigations; learners mobilize data science to develop tools to tackle justice issues.</p>
+      <p>4. Critical reflection on DS. Learners consider the nature of data science as a field of research and practice, the ways in which fairness and biases are reflected in data science, and connections between data science and societal discourse.</p>
+      <p>5. Identity and cultural practices. Learners see themselves as people who use data for purposes that interest them, recognize connections between data science and themselves and their communities, and identify ways to  engage in data science in culturally congruent manners.</p>
 
-  <img src="jods.png" width = "80%" />
+      <img src="jods.png" width = "80%" />
 
-  <p>See details in <a href="aera23-datax.pdf">AERA 2023 presentation</a>. </p>
+      <p>See details in <a href="aera23-datax.pdf">AERA 2023 presentation</a>. </p>
 
-  
-</details>
 
-<!-- 
-<details>
-  <summary>
-  <h3>1. DataX Curriculum</h3>
-  <span class="icon" style='font-size:36px'>👇</span>
-  </summary>
+    </div>
+  </div>
+  <div class="tab">
+    <input type="checkbox" name="accordion-1" id="cb2" checked>
+    <label for="cb2" class="tab__label"><b>2. DataX Platform</b></label>
+    <div class="tab__content">
+      <p>We have developed and been continously refining a DataX platform to support the DataX Curriculum. Below is a screenshot of the platform we are currently developing.</p>
 
-</details>
--->
-
-<details>
-  <summary>
-  <h3>2. DataX Platform</h3>
-  <span class="icon" style='font-size:36px'>👇</span>
-  </summary>
-
-  We have developed and been continously refining a DataX platform to support the DataX Curriculum. Below is a screenshot of the platform we are currently developing. 
-
-  <img src="/img/datax.gif" width = "80%" />
-
-</details>
+      <img src="/img/datax.gif" width = "80%" />
+    </div>
+  </div>
+</section>
 
 
 
@@ -128,53 +116,49 @@ The research in this phase is directed toward addressing the following questions
 
 Data science has become an integral part of the practice of modern science, technology, engineering and mathematics (STEM), inspiring educators to integrate computing with STEM learning. This project aims to develop a pedagogical model -- *Data Expedition* or *DataX* -- to engage students in building scientific explanations based on real-world open science data, computing, and classroom dialogues. DataX would not only nurture crucial scientific practices emphasized by the Next Generation Science Standards, but also make science learning more connected with real-world problems and aligned with real-world scientific practices.
 
-<details>
-  <summary>
-  <h3>Early Exploration (May 2018)</h3>
-  <span class="icon" style='font-size:36px'>👇</span>
-  </summary>
+<section class="accordion">
+<div class="tab">
+  <input type="checkbox" name="accordion-1" id="cb3" checked>
+  <label for="cb3" class="tab__label"><b>Early Exploration (May 2018)</b></label>
+  <div class="tab__content">
+    <p>The initial phase of the project was supported by the University of Minnesota Libraries, under its [Research Sprints program](https://www.lib.umn.edu/research-sprints).</p>
 
-  <p>The initial phase of the project was supported by the University of Minnesota Libraries, under its [Research Sprints program](https://www.lib.umn.edu/research-sprints).</p>
+    <p>During the research sprint, a project team -- made of geospatial data curators, data scientists, and instructional designers -- worked together to identify, retrieve, and preserve a set of open geoscience data to support data expeditions to the Arctic and Antarctic. Over the span of 4 days, we have:</p>
 
-<p>During the research sprint, a project team -- made of geospatial data curators, data scientists, and instructional designers -- worked together to identify, retrieve, and preserve a set of open geoscience data to support data expeditions to the Arctic and Antarctic. Over the span of 4 days, we have:</p>
+    <ul>
+      <li>Drafted curriculum-relevant inquiry questions related to the climate change</li>
+      <li>Compiled dozens of open datasets related to the climate change</li>
+      <li>Cleaned a subset of the identified datasets (appx. 12) and created a data wrangling/cleaning guide for future use</li>
+      <li>Imported 8 datasets to the [Common Online Data
+    Analysis Platform (CODAP)](https://codap.concord.org/) for data expeditions and created 3 'data stories' from these expeditions</li>
+      <li>Developed a mockup for the DataExpedition environment</li>
+      <li>Created a preliminary pedagogical design for DataExpedition in high school science</li>
+    </ul>
 
-<ul>
-  <li>Drafted curriculum-relevant inquiry questions related to the climate change</li>
-  <li>Compiled dozens of open datasets related to the climate change</li>
-  <li>Cleaned a subset of the identified datasets (appx. 12) and created a data wrangling/cleaning guide for future use</li>
-  <li>Imported 8 datasets to the [Common Online Data
-Analysis Platform (CODAP)](https://codap.concord.org/) for data expeditions and created 3 'data stories' from these expeditions</li>
-  <li>Developed a mockup for the DataExpedition environment</li>
-  <li>Created a preliminary pedagogical design for DataExpedition in high school science</li>
-</ul>
-
-<p>Special thanks to the awesome project team -- Mariya Gyendina (PM), Lindsay Matts-Benson, Carolyn Rauber, Melinda Kernik, Danny Hanson, Ryan Mattke, and Frank Sayre -- who brought tremendous expertise, curiosity, and willingness to play.</p>
-
-
-</details>
-
-<details>
-  <summary>
-  <h3>Prototype Design and Pilots (Jan 2019 - Jun 2020)</h3>
-  <span class="icon" style='font-size:36px'>👇</span>
-  </summary>
-
-<p>The project is supported by the Grant-in-Aid (GIA) initiative of the Office of the Vice President for Research, University of Minnesota. </p>
+    <p>Special thanks to the awesome project team -- Mariya Gyendina (PM), Lindsay Matts-Benson, Carolyn Rauber, Melinda Kernik, Danny Hanson, Ryan Mattke, and Frank Sayre -- who brought tremendous expertise, curiosity, and willingness to play.</p>
+  </div>
+</div>
 
 
-<h4>Co-design with teachers</h4>
+<div class="tab">
+  <input type="checkbox" name="accordion-1" id="cb4" checked>
+  <label for="cb4" class="tab__label"><b>Prototype Design and Pilots (Jan 2019 - Jun 2020)</b></label>
+  <div class="tab__content">
+    <p>The project is supported by the Grant-in-Aid (GIA) initiative of the Office of the Vice President for Research, University of Minnesota. </p>
 
-In this phase, we are co-designing pedagogical interventions with K-12 teachers.
+    <p><b>Co-design with teachers</b></p>
 
-Partner schools include:
+    <p>In this phase, we are co-designing pedagogical interventions with K-12 teachers. Partner schools include:</p>
 
-<ul>
-  <li>Central High School, St Paul</li>
-  <li>Harding High School, St Paul</li>
-  <li>Jackman Institute of Child Study Lab School, Toronto</li>
-</ul>
+    <ul>
+      <li>Central High School, St Paul</li>
+      <li>Harding High School, St Paul</li>
+      <li>Jackman Institute of Child Study Lab School, Toronto</li>
+    </ul>
+  </div>
+</div>
+</section>
 
-</details>
 
 
 <!-- #### DataX platform
