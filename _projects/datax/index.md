@@ -51,14 +51,14 @@ The following DataX components are advanced in tandem through co-design workshop
 
 **Click on each section below to expand for details:**
 
-<section class="accordion accordion--radio">
+<section class="accordion">
   <div class="tab">
     <input type="checkbox" name="accordion-1" id="cb1" checked>
     <label for="cb1" class="tab__label"><b>1. DataX Curriculum</b></label>
     <div class="tab__content">
       <p><b>Review of Data Science Education Curricula.</b> To inform our design, we have conducted a review of existing Data Science Education Curriculum efforts. See the table below. This review is by no means comprehensive. Please contact us if you have any suggestions.</p>
 
-      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlTSsjpkBhLlN-PG2UOATH2P4h-6Dq19gtiZxMCq0nTKSD3Funjd0VIUyxmGnWQxWqjYmtBYzHyK9w/pubhtml?gid=2142626713&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe>
+      <p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlTSsjpkBhLlN-PG2UOATH2P4h-6Dq19gtiZxMCq0nTKSD3Funjd0VIUyxmGnWQxWqjYmtBYzHyK9w/pubhtml?gid=2142626713&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500px"></iframe></p>
 
       <p><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlTSsjpkBhLlN-PG2UOATH2P4h-6Dq19gtiZxMCq0nTKSD3Funjd0VIUyxmGnWQxWqjYmtBYzHyK9w/pub?gid=2142626713&single=true&output=csv">Download the table in CSV</a>
       </p>
@@ -72,7 +72,7 @@ The following DataX components are advanced in tandem through co-design workshop
       <p>4. Critical reflection on DS. Learners consider the nature of data science as a field of research and practice, the ways in which fairness and biases are reflected in data science, and connections between data science and societal discourse.</p>
       <p>5. Identity and cultural practices. Learners see themselves as people who use data for purposes that interest them, recognize connections between data science and themselves and their communities, and identify ways to  engage in data science in culturally congruent manners.</p>
 
-      <img src="jods.png" width = "80%" />
+      <p><img src="jods.png" width = "80%" /></p>
 
       <p>See details in <a href="aera23-datax.pdf">AERA 2023 presentation</a>. </p>
 
@@ -85,7 +85,7 @@ The following DataX components are advanced in tandem through co-design workshop
     <div class="tab__content">
       <p>We have developed and been continously refining a DataX platform to support the DataX Curriculum. Below is a screenshot of the platform we are currently developing.</p>
 
-      <img src="/img/datax.gif" width = "80%" />
+      <p><img src="/img/datax.gif" width = "80%" /></p>
     </div>
   </div>
 </section>

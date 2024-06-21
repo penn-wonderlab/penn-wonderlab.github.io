@@ -1,5 +1,5 @@
 :root {
-    --primary: #000000;
+    --primary: #000000e5;
     --secondary: #227093;
     /* --background: #eee; */
     --highlight: #ffda79;
@@ -40,7 +40,7 @@
   /* Visual styles */
   .accordion {
     color: var(--theme);
-    border: 2px solid;
+    border: 1px solid;
     border-radius: 0.5rem;
     overflow: hidden;
   }
