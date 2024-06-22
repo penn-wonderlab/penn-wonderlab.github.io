@@ -18,13 +18,13 @@ permalink: /post/:year/:month/:day/:title.html
 roles:
 
     - {key: faculty, name: Faculty}
-    # - {key: ugrad, name: Undergrad Students}
-    # - {key: teacher, name: K-12 Educators}
-    # - {key: vscholar, name: Visiting Scholars}
-    # - {key: collab, name: Collaborators}
-    # - {key: postdoc, name: Postdocs}
     - {key: grad, name: Graduate Students}
     - {key: developer, name: Developers}
+    # - {key: ugrad, name: Undergrad Students}
+    # - {key: teacher, name: K-12 Educators}
+    - {key: vscholar, name: Visiting Scholars}
+    # - {key: collab, name: Collaborators}
+    # - {key: postdoc, name: Postdocs}
     # - {key: ugrad-alum, name: Past Undergraduate Students}
     - {key: alum, name: Former Members}
 

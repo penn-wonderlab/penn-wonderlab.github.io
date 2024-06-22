@@ -1,39 +1,23 @@
 # grad
 
-xinran:
-    display_name: "Xinran Zhu"
-    role: grad
-    webpage: "https://zhu-xinran.com/"
-    image: /img/people/xinran2.jpg
-    bio: "PhD Candidate in LST"
-
-hongs:
-    display_name: "Hong Shui"
-    webpage: "https://twitter.com/shui_hong"
-    role: grad
-    image: /img/people/hongs.jpg
-    bio: "PhD Candidate"
-
 basel:
     display_name: "Basel Hussein"
     role: grad
     webpage: https://www.baselhussein.com/
     image: https://miro.medium.com/fit/c/256/256/0*yVz4jBIFR7PKLy6d.jpg #/img/people/male_placeholder.jpg
+    bio: "PhD Candidate"
+
+yuwei:
+    display_name: "Yuwei Liang"
+    role: grad
+    image: /img/people/female_placeholder.png
     bio: "PhD student"
 
-xiping:
-    display_name: "Xiping Jiang"
-    role: alum
-    webpage: http://sisypher.com/
-    image: /img/people/xiping.png
-    bio: "MSEd student"
-    
-keerthi:
-    display_name: "Keerthanya Rajesh"
-    role: alum
-    webpage: https://www.linkedin.com/in/keerthanya-rajesh/
-    image:  /img/people/keerthi.png
-    bio: "MSEd student"
+jiayu:
+    display_name: "Jiayu Cheng"
+    role: grad
+    image: /img/people/female_placeholder.png
+    bio: "PhD student"
 
 vivian:
     display_name: "Vivian Leung"
@@ -49,23 +33,12 @@ rachel:
     image:  "https://media.licdn.com/dms/image/C5103AQGItoSMAugCZw/profile-displayphoto-shrink_800_800/0/1582490517674?e=2147483647&v=beta&t=lwyZlD_81qBckeKOf-tE6s-fT7HFiq2UkrJjG7_NK-4"
     bio: "MSEd student"
 
-pingting:
-    display_name: "Pingting Chen"
-    role: alum
-    image:  /img/people/pingting.jpg
-    bio: "MSEd student"
-
 emily:
     display_name: "Emily Yan"
     role: grad
     webpage: http://linkedin.com/in/emily-yan-a9b146230/
     image:  /img/people/emily.png
     bio: "MSEd student"
-    
-robert:
-    display_name: "Robert Kreml"
-    role: grad
-    bio: "PhD candidate"
 
 # developer
 
@@ -74,16 +47,164 @@ benji:
     role: developer
     bio: "Lead Software Engineer"
     webpage: https://www.benji.dog/
-
+    image: https://benji.dog/assets/photo.jpg
 
 wenxi:
     display_name: "Wenxi Chen"
     role: developer
     bio: "Developer"
     webpage: https://github.com/wenxich
+    image: https://avatars.githubusercontent.com/u/92760430?v=4
 
 # alum
 
+xinran:
+    display_name: "Xinran Zhu"
+    role: alum
+    webpage: "https://zhu-xinran.com/"
+    image: /img/people/xinran2.jpg
+    bio: "PhD --> assistant prof at UIUC"
+
+hongs:
+    display_name: "Hong Shui"
+    webpage: "https://twitter.com/shui_hong"
+    role: alum
+    image: /img/people/hongs.jpg
+    bio: "PhD"
+
+zixi:
+    display_name: "Zixi Chen"
+    role: alum
+    webpage: https://scholar.google.com/citations?user=zfkOwi4AAAAJ&hl=en
+    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/08/avatar-2-edited-150x150.png
+    bio: "Postdoc --> assistant professor at NYU Shanghai"
+
+mengchen:
+    display_name: "Mengchen Su"
+    role: alum
+    webpage: https://www.mengchensu.com/
+    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/10/Su-pic-150x150.jpg
+    bio: "Postdoc --> Research Scientist at UMN"
+
+pingting:
+    display_name: "Pingting Chen"
+    role: alum
+    image:  /img/people/pingting.jpg
+    bio: "MSEd"
+
+xiping:
+    display_name: "Xiping Jiang"
+    role: alum
+    webpage: http://sisypher.com/
+    image: /img/people/xiping.png
+    bio: "MSEd --> PhD student at UT-Austin"
+    
+keerthi:
+    display_name: "Keerthanya Rajesh"
+    role: alum
+    webpage: https://www.linkedin.com/in/keerthanya-rajesh/
+    image:  /img/people/keerthi.png
+    bio: "MSEd --> Research Analyst at Research for Action"
+
+yuhui:
+    display_name: "Yu-Hui Chang"
+    webpage: "https://education.nsysu.edu.tw/p/405-1134-275857,c11706.php?Lang=en"
+    role: alum
+    image: /img/people/hui.jpg
+    bio: "PhD --> Assistant Professor at National Sun Yat-sen University"
+
+rukmini:
+    display_name: "Rukmini Manasa"
+    webpage: "https://www.researchgate.net/profile/Rukmini_Manasa_Avadhanam"
+    role: alum
+    image: /img/people/rukmini.jpg
+    bio: "PhD --> Research Associate at UIC"
+
+fan:
+    display_name: "Fan Ouyang"
+    webpage: "https://fanouyang.net/"
+    role: alum
+    image: /img/people/fan.jpg
+    bio: "PhD --> faculty at Zhejiang University"
+
+# shanyu:
+#     display_name: "Shan Yu"
+#     role: alum
+#     image: https://i1.rgstatic.net/ii/profile.image/299399507922950-1448393813833_Q512/Shan-Yu-22.jpg
+#     bio: "PhD in Design"
+
+# wenjing:
+#     display_name: "Wenjing Chen"
+#     role: alum
+#     image: /img/people/wenjing.jpg
+#     bio: "MEd"
+# batu:
+#     display_name: "William Batu"
+#     role: alum
+#     image: /img/people/batu.jpeg
+#     bio: "M.S. student in CS"
+
+# ethan:
+#     display_name: "Ethan Brown"
+#     webpage: "http://statisfactions.com/"
+#     role: alum
+#     image: /img/people/ethan.jpg
+#     bio: "PhD in EdPsy"
+
+hwu:
+    display_name: "Huanqing Wu"
+    role: alum
+    webpage: http://cm.qfnu.edu.cn/info/1052/2208.htm
+    image: http://cm.qfnu.edu.cn/__local/3/0A/9F/4FBF99668D6239F124901D2E35C_E6E072E2_178E4.jpg
+    bio: "Visiting scholar from Qufu Normal University"
+
+# xing:
+#     display_name: "Xing Liu"
+#     role: alum
+#     image: /img/people/male_placeholder.jpg
+#     bio: "Master's graduate in Financial Math"
+
+wanying:
+    display_name: "Wanying Zhou"
+    role: alum
+    image: /img/people/female_placeholder.png
+    bio: "Undergrad in Psychology --> Master's student at Penn"
+
+tianhui:
+    display_name: "Tianhui Huang"
+    role: alum
+    webpage: https://www.researchgate.net/profile/Huang_Tianhui
+    image: /img/people/thuang.jpg
+    bio: "Visiting scholar --> faculty at Yunnan University"
+
+yizhou:
+    display_name: "Yizhou Fan"
+    role: alum
+    image: /img/people/yizhou.jpg
+    bio: "Visiting scholar --> faculty at Peking University"
+
+# jon:
+#     display_name: "Jonathan Shoberg"
+#     webpage: "https://github.com/lordgentlehosen"
+#     role: alum
+#     image: /img/people/jon.jpg
+#     bio: "Computer Science"
+#       # I am an undergraduate student studying computer science at the College of Science and Engineering at the University of Minnesota, with a focus in Human-Computer Interaction. I am interested in using technology in new and innovative ways to enhance learning experiences, and I have a particular interest in using video games for this purpose. In my studies, I have found that I have a passion for both technology and psychology, and I try to keep both of these things in mind in my work, to come up with the best solution possible for both the user and the software.
+
+mustafa:
+    display_name: "Mustafa Serkan Günbatar"
+    role: alum
+    webpage: https://avesis.yyu.edu.tr/mustafaserkan
+    image: https://avesis.yyu.edu.tr/user/image/2984
+    bio: "Visiting scholar, Associate Professor at Van Yüzüncü Yıl University"
+
+
+# robert:
+#     display_name: "Robert Kreml"
+#     role: alum
+#     bio: "PhD candidate"
+
+# collaborators
 
 tina:
     display_name: "Tina Jeon"
@@ -102,6 +223,18 @@ johnb:
 
 
 # visiting scholars
+
+simone:
+    display_name: "Simone Luchini"
+    role: vscholar
+    bio: "PhD student at PSU"
+    image: /img/people/simone.jpeg
+
+alwyn:
+    display_name: "Lee, Vwen Yen Alwyn"
+    role: vscholar
+    bio: "Research Scientist at National Institute of Education, Singapore"
+    image: /img/people/alwyn.jpeg
 
 # tianhui:
 #     display_name: "Tianhui Huang"
@@ -197,116 +330,9 @@ svarma:
 # postdocs
 
 
-# alums
-
-zixi:
-    display_name: "Zixi Chen"
-    role: alum
-    webpage: https://scholar.google.com/citations?user=zfkOwi4AAAAJ&hl=en
-    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/08/avatar-2-edited-150x150.png
-    bio: "Postdoc; now assistant professor at NYU Shanghai"
-mengchen:
-    display_name: "Mengchen Su"
-    role: alum
-    webpage: https://www.mengchensu.com/
-    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/10/Su-pic-150x150.jpg
-    bio: "Postdoc; now Research Scientist at UMN"
-
-yuhui:
-    display_name: "Yu-Hui Chang"
-    webpage: "https://education.nsysu.edu.tw/p/405-1134-275857,c11706.php?Lang=en"
-    role: alum
-    image: /img/people/hui.jpg
-    bio: "PhD in LT; now Assistant Professor at National Sun Yat-sen University"
-
-rukmini:
-    display_name: "Rukmini Manasa"
-    webpage: "https://www.researchgate.net/profile/Rukmini_Manasa_Avadhanam"
-    role: alum
-    image: /img/people/rukmini.jpg
-    bio: "PhD student in LT"
-
-shanyu:
-    display_name: "Shan Yu"
-    role: alum
-    image: https://i1.rgstatic.net/ii/profile.image/299399507922950-1448393813833_Q512/Shan-Yu-22.jpg
-    bio: "PhD candidate in Design"
-
-wenjing:
-    display_name: "Wenjing Chen"
-    role: alum
-    image: /img/people/wenjing.jpg
-    bio: "MEd graduate in LT"
 
 
-batu:
-    display_name: "William Batu"
-    role: alum
-    image: /img/people/batu.jpeg
-    bio: "M.S. student in CS"
-
-ethan:
-    display_name: "Ethan Brown"
-    webpage: "http://statisfactions.com/"
-    role: alum
-    image: /img/people/ethan.jpg
-    bio: "PhD in EdPsy"
-
-hwu:
-    display_name: "Huanqing Wu"
-    role: alum
-    webpage: http://cm.qfnu.edu.cn/info/1052/2208.htm
-    image: http://cm.qfnu.edu.cn/__local/3/0A/9F/4FBF99668D6239F124901D2E35C_E6E072E2_178E4.jpg
-    bio: "Visiting scholar from Qufu Normal University"
-
-fan:
-    display_name: "Fan Ouyang"
-    webpage: "https://fanouyang.net/"
-    role: alum
-    image: /img/people/fan.jpg
-    bio: "Learning Technologies"
-
-xing:
-    display_name: "Xing Liu"
-    role: alum
-    image: /img/people/male_placeholder.jpg
-    bio: "Master's graduate in Financial Math"
-
-wanying:
-    display_name: "Wanying Zhou"
-    role: alum
-    image: /img/people/female_placeholder.png
-    bio: "Undergrad in Psychology"
-
-tianhui:
-    display_name: "Tianhui Huang"
-    role: alum
-    webpage: https://www.researchgate.net/profile/Huang_Tianhui
-    image: /img/people/thuang.jpg
-    bio: "Visiting scholar from Fudan U"
-
-yizhou:
-    display_name: "Yizhou Fan"
-    role: alum
-    image: /img/people/yizhou.jpg
-    bio: "Visiting scholar from Peking U"
-
-jon:
-    display_name: "Jonathan Shoberg"
-    webpage: "https://github.com/lordgentlehosen"
-    role: alum
-    image: /img/people/jon.jpg
-    bio: "Computer Science"
-      # I am an undergraduate student studying computer science at the College of Science and Engineering at the University of Minnesota, with a focus in Human-Computer Interaction. I am interested in using technology in new and innovative ways to enhance learning experiences, and I have a particular interest in using video games for this purpose. In my studies, I have found that I have a passion for both technology and psychology, and I try to keep both of these things in mind in my work, to come up with the best solution possible for both the user and the software.
-
-mustafa:
-    display_name: "Mustafa Serkan Günbatar"
-    role: alum
-    webpage: https://avesis.yyu.edu.tr/mustafaserkan
-    image: https://avesis.yyu.edu.tr/user/image/2984
-    bio: "Associate Professor, Van Yüzüncü Yıl University"
-
-    # teacher
+# teacher
 
 david:
     display_name: "David Groos"
