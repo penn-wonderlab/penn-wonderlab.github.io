@@ -26,12 +26,14 @@ vivian:
     image:  /img/people/vivian.png
     bio: "MSEd"
 
+
+
 rachel:
     display_name: "Rachel Liu"
     role: collab
     webpage: https://www.linkedin.com/in/xiner-liu-rachel/
     image:  "https://media.licdn.com/dms/image/C5103AQGItoSMAugCZw/profile-displayphoto-shrink_800_800/0/1582490517674?e=2147483647&v=beta&t=lwyZlD_81qBckeKOf-tE6s-fT7HFiq2UkrJjG7_NK-4"
-    bio: "MSEd student"
+    bio: "PhD student"
 
 emily:
     display_name: "Emily Yan"
