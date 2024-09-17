@@ -27,14 +27,6 @@ vivian:
     bio: "MSEd"
 
 
-
-rachel:
-    display_name: "Rachel Liu"
-    role: collab
-    webpage: https://www.linkedin.com/in/xiner-liu-rachel/
-    image:  "https://media.licdn.com/dms/image/C5103AQGItoSMAugCZw/profile-displayphoto-shrink_800_800/0/1582490517674?e=2147483647&v=beta&t=lwyZlD_81qBckeKOf-tE6s-fT7HFiq2UkrJjG7_NK-4"
-    bio: "PhD student"
-
 emily:
     display_name: "Emily Yan"
     role: grad
@@ -42,6 +34,19 @@ emily:
     image:  /img/people/emily.png
     bio: "MSEd student"
 
+chenw:
+    display_name: "Chen Wang"
+    role: grad
+    # webpage: https://kloechen.webflow.io/
+    image:  /img/people/chenw.jpeg
+    bio: "Instructional Technologist"
+
+kexin:
+    display_name: "Kexin Chen"
+    role: grad
+    webpage: https://kloechen.webflow.io/
+    image:  /img/people/kchen.jpg
+    bio: "MSEd"
 # developer
 
 benji:
@@ -59,6 +64,13 @@ wenxi:
     image: https://avatars.githubusercontent.com/u/92760430?v=4
 
 # alum
+
+rachel:
+    display_name: "Rachel Liu"
+    role: collab
+    webpage: https://www.linkedin.com/in/xiner-liu-rachel/
+    image:  "https://media.licdn.com/dms/image/C5103AQGItoSMAugCZw/profile-displayphoto-shrink_800_800/0/1582490517674?e=2147483647&v=beta&t=lwyZlD_81qBckeKOf-tE6s-fT7HFiq2UkrJjG7_NK-4"
+    bio: "PhD student"
 
 xinran:
     display_name: "Xinran Zhu"
@@ -226,17 +238,17 @@ johnb:
 
 # visiting scholars
 
+alwyn:
+    display_name: "Lee, Vwen Yen Alwyn"
+    role: vscholar
+    bio: "Research Scientist at National Institute of Education, Singapore"
+    image: /img/people/Alwyn3.JPG
+
 simone:
     display_name: "Simone Luchini"
     role: vscholar
     bio: "PhD student at PSU"
     image: /img/people/simone.jpeg
-
-alwyn:
-    display_name: "Lee, Vwen Yen Alwyn"
-    role: vscholar
-    bio: "Research Scientist at National Institute of Education, Singapore"
-    image: /img/people/alwyn.jpeg
 
 # tianhui:
 #     display_name: "Tianhui Huang"
