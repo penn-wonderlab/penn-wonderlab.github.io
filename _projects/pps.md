@@ -11,7 +11,7 @@ people:
   - basel
   - rachel
   - emily
-priority: 2
+priority: 4
 ---
 
 <br />

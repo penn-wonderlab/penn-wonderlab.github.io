@@ -1,6 +1,6 @@
 ---
-title: "Teacher-Facing Learning Analytics Dashboard for Social Annotation"
-image: 
+title: "Teacher Dashboards for Social Annotation"
+image: ../img/dashboard.png
 description: |
   Supports teacher inquiry into the learning process of students and helps them reflect on and adjust their learning design in social annotation activity.
 people:

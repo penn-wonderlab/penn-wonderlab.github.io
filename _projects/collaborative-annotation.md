@@ -1,5 +1,5 @@
 ---
-title: "Collaborative Annotation in Classrooms"
+title: "Social Annotation in College Classrooms"
 image: /img/annotation.png
 description: |
   Support social and collaborative annotation in college classrooms, through design partnerships
@@ -12,7 +12,7 @@ people:
 
 layout: project
 status: active
-priority: 2
+priority: 3
 
 ---
 

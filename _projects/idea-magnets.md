@@ -9,8 +9,6 @@ people:
   - david
   - wenjing
   - batu
-  - jon
-  - fan
 
 layout: project
 status: inactive

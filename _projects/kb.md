@@ -10,8 +10,8 @@ people:
   - shanyu
 
 layout: project
-status: active
-priority: 1
+status: inactive
+# priority: 1
 ---
 
 <img src="/img/invision-wonder.png" width="100%" />
