@@ -17,7 +17,6 @@ permalink: /post/:year/:month/:day/:title.html
 # Sections on the "people" page.
 roles:
 
-    - {key: faculty, name: Faculty}
     - {key: grad, name: Graduate Students}
     - {key: developer, name: Developers}
     # - {key: ugrad, name: Undergrad Students}
@@ -26,6 +25,7 @@ roles:
     # - {key: collab, name: Collaborators}
     # - {key: postdoc, name: Postdocs}
     # - {key: ugrad-alum, name: Past Undergraduate Students}
+    - {key: faculty, name: Faculty}
     - {key: alum, name: Former Members}
 
 # Number of news stories on the front page.

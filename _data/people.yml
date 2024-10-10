@@ -7,14 +7,15 @@ basel:
     image: https://miro.medium.com/fit/c/256/256/0*yVz4jBIFR7PKLy6d.jpg #/img/people/male_placeholder.jpg
     bio: "PhD Candidate"
 
-yuwei:
-    display_name: "Yuwei Liang"
-    role: grad
-    image: /img/people/female_placeholder.png
-    bio: "PhD student"
-
 jiayu:
     display_name: "Jiayu Cheng"
+    role: grad
+    image: /img/people/jiayu.jpg
+    webpage: www.linkedin.com/in/jiayu-cheng-7b489b248
+    bio: "PhD student"
+
+yuwei:
+    display_name: "Yuwei Liang"
     role: grad
     image: /img/people/female_placeholder.png
     bio: "PhD student"
@@ -26,6 +27,12 @@ vivian:
     image:  /img/people/vivian.png
     bio: "MSEd"
 
+amanda:
+    display_name: "Amanda Tran"
+    role: grad
+    webpage: https://github.com/mandachan-727
+    image: https://avatars.githubusercontent.com/u/85417121?v=4
+    bio: "MSEd student"
 
 emily:
     display_name: "Emily Yan"
@@ -46,7 +53,7 @@ kexin:
     role: grad
     webpage: https://kloechen.webflow.io/
     image:  /img/people/kchen.jpg
-    bio: "MSEd"
+    bio: "MSEd student"
 # developer
 
 benji:
