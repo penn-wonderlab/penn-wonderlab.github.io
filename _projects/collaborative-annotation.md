@@ -1,8 +1,8 @@
 ---
-title: "Social Annotation in College Classrooms"
+title: "Social Reading and Annotation"
 image: /img/annotation.png
 description: |
-  Support social and collaborative annotation in college classrooms, through design partnerships
+  Support social reading and collaborative annotation in college classrooms, through design partnerships
 people:
   - xinran
   - hongs
