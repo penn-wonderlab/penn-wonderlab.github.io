@@ -42,3 +42,7 @@ Figure 2. _Design page for instructors to input their design_
 Figure 3. _Analytics page aligning with the learning design_
 
 <img width="900" alt="Screen Shot 2023-07-01 at 05 01 02" src="https://github.com/penn-wonderlab/penn-wonderlab.github.io/assets/41907842/4da1258d-7842-445f-bf7f-d948e14469ad">
+
+## Publications
+
+- Shui, H., Zhu, X., & Chen, B. (2024). Tackling the Alignment Problem: The Design of a Learning Analytics Dashboard for Teacher Inquiry. In *Companion Proceedings of the 14th International Learning Analytics and Knowledge Conference (LAK’24)* (pp. 239-241). Society for Learning Analytics Research (SoLAR). 

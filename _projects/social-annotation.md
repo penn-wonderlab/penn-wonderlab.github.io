@@ -66,6 +66,7 @@ On the design page, instructors can input important design elements that generat
 
 ## Publications
 
+- Zhu, X., Jung, Y., Chen, B., Hickey, D., Chartrand, G., Kalir, R., Hodgson, J., Andrews, C., Wise, A., Shui, H., Chen, P., & Avadhanam, R. M. (2024). Bridging Social Annotation Practice with Perspectives from the Learning Sciences and CSCL. In *Proceedings of the 17th International Conference on Computer-Supported Collaborative Learning—CSCL 2024 (pp. 331–338)*. International Society of the Learning Sciences. https://repository.isls.org//handle/1/10543
 -  Zhu, X., Shui, H., & Chen, B. (2023). The Synthesis Lab: Empowering collaborative learning in higher education through knowledge synthesis. Proceedings of Computer Supported Cooperative Work and Social Computing (CSCW’23 Companion) (pp. 245-248).
 -  Zhu, X., Shui, H., & Chen, B. (2023). Beyond reading together: Facilitating knowledge construction through participation roles and social annotation in college classrooms. The Internet and Higher Education, 100919.
 -  Chen, B., Zhu, X., & Shui, H. (2022). Socio-Semantic Network Motifs Framework for Discourse Analysis. In LAK22: 12th International Learning Analytics and Knowledge Conference (LAK22), March 21–25, 2022. [https://doi.org/10.1145/3506860.3506893](https://doi.org/10.1145/3506860.3506893)
