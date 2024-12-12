@@ -91,7 +91,7 @@ hongs:
     webpage: "https://twitter.com/shui_hong"
     role: alum
     image: /img/people/hongs.jpg
-    bio: "PhD"
+    bio: "PhD; faculty at Sichuan Normal University"
 
 zixi:
     display_name: "Zixi Chen"
@@ -163,7 +163,7 @@ batu:
     display_name: "William Batu"
     role: alum
     image: /img/people/batu.jpeg
-    bio: "M.S. student in CS"
+    bio: "M.S. in CS"
 
 # ethan:
 #     display_name: "Ethan Brown"
