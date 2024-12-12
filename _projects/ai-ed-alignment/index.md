@@ -7,7 +7,8 @@ layout: project
 status: active
 priority: 1
 people:
-  - yuwei
+  - jiayu
+  - chenw
   - bodong
 
 ---
