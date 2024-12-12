@@ -9,6 +9,8 @@ priority: 1
 people:
   - bodong
   - jiayu
+  - hong
+  - yuhui
 
 ---
 
@@ -35,3 +37,7 @@ To support teachers (both pre-service and in-service) in the Network, we develop
 KB Coach has two main features: (1) carrying out free-flow, reflective conversations with teachers; and (2) providing rubric-based evaluation of lesson designs provided by teachers. Both features are grounded in relevant literature and resources. 
 
 <img src='/img/kb-coach.png' width='300px' />
+
+## Publications
+
+1. Seet, C. H., Chang, Y.-H., Chen, M., Chen, B., & Hong, H.-Y. (2024, October). *Integrate design thinking and knowledge building for teacher professional development*. Paper presented at the 2024 Knowledge Building Summer Institute, Singapore. 
