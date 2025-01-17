@@ -6,9 +6,9 @@ description: |
 people:
   - xinran
   - hongs
-  - bodong
   - emily
   - pingting
+  - bodong
 
 layout: project
 status: active
