@@ -30,5 +30,7 @@ This project has two thrusts:
 
 ### Publications
 
-- Cheng, J., Wang, C., & Chen, B. (under review). Evaluating Student Agency in AI-Generated Lesson Plans.
+- Chen, B. (2025). *Beyond Tools: Generative AI as Epistemic Infrastructure in Education* (No. arXiv:2504.06928). arXiv. https://doi.org/10.48550/arXiv.2504.06928
+- Chen, B., Cheng, J., Wang, C., & Leung, V. (2025, in press). Pedagogical biases in AI-powered educational tools: The case of lesson plan generators. *The Social Innovations Journal*. https://osf.io/preprints/osf/zqjw5_v1
+- Cheng, J., Wang, C., & Chen, B. (2025). Evaluating Student Agency in AI-Generated Lesson Plans. In the *Proceedings of the ICLS Conference*. ISLS: Helsinki, Finland. 
 - Chen, B. (2024, October). *Epistemic Agency and Infrastructure in the GenAI Era*. Invited lecture at the National Institute of Education, Nanyang Technological University, Singapore.

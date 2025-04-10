@@ -1,0 +1,35 @@
+---
+title: "InkSpire: Generative AI for Reading in Science Disciplines"
+image: /img/inkspire-logo.png
+description: | 
+  To help college instructors create scaffolded reading assignments to improve student engagement.
+layout: project
+status: active
+priority: 1
+people:
+  - bodong
+  - yuwei
+
+---
+
+<img src='/img/inkspire-logo.png' width='300px' />
+
+
+
+
+### PROJECT GOAL
+
+To develop and test InkSpire, an AI-enhanced web application that helps college instructors create scaffolded
+reading assignments to improve student engagement in science fields.
+
+### OBJECTIVES
+
+The project integrates established disciplinary literacy frameworks with AI capabilities to create InkSpire. Through a
+pilot study in biology and information science classrooms, we will investigate how this AI-enhanced approach
+affects instructors' design practices and students' reading engagement, skills, and dispositions.
+
+### Acknowledgement
+
+This project is funded by the Alfred P. Sloan Foundation (#G-2025-25241).
+
+<img src='https://sloan.org/storage/app/media/uploaded-files/Logo-1B-SMALL-Gold-Blue.png' width='200px' />

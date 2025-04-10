@@ -4,7 +4,7 @@ image: ../img/baba.png
 description: | 
   Investigating and scaffolding problem solving in a digital game
 layout: project
-status: active
+status: inactive
 people:
   - deliema
   - bodong
