@@ -1,12 +1,5 @@
 # grad
 
-basel:
-    display_name: "Basel Hussein"
-    role: grad
-    webpage: https://www.baselhussein.com/
-    image: https://miro.medium.com/fit/c/256/256/0*yVz4jBIFR7PKLy6d.jpg #/img/people/male_placeholder.jpg
-    bio: "PhD Candidate"
-
 jiayu:
     display_name: "Jiayu Cheng"
     role: grad
@@ -32,13 +25,6 @@ amanda:
     role: grad
     webpage: https://github.com/mandachan-727
     image: https://avatars.githubusercontent.com/u/85417121?v=4
-    bio: "MSEd student"
-
-emily:
-    display_name: "Emily Yan"
-    role: grad
-    webpage: http://linkedin.com/in/emily-yan-a9b146230/
-    image:  /img/people/emily.png
     bio: "MSEd student"
 
 chenw:
@@ -79,6 +65,13 @@ rachel:
     image:  "https://media.licdn.com/dms/image/C5103AQGItoSMAugCZw/profile-displayphoto-shrink_800_800/0/1582490517674?e=2147483647&v=beta&t=lwyZlD_81qBckeKOf-tE6s-fT7HFiq2UkrJjG7_NK-4"
     bio: "PhD student"
 
+basel:
+    display_name: "Basel Hussein"
+    role: alum
+    webpage: https://www.baselhussein.com/
+    image: https://miro.medium.com/fit/c/256/256/0*yVz4jBIFR7PKLy6d.jpg #/img/people/male_placeholder.jpg
+    bio: "PhD --> postdoc at NYU"
+
 xinran:
     display_name: "Xinran Zhu"
     role: alum
@@ -107,12 +100,6 @@ mengchen:
     image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/10/Su-pic-150x150.jpg
     bio: "Postdoc --> Research Scientist at UMN"
 
-pingting:
-    display_name: "Pingting Chen"
-    role: alum
-    image:  /img/people/pingting.jpg
-    bio: "MSEd"
-
 xiping:
     display_name: "Xiping Jiang"
     role: alum
@@ -126,6 +113,12 @@ keerthi:
     webpage: https://www.linkedin.com/in/keerthanya-rajesh/
     image:  /img/people/keerthi.png
     bio: "MSEd --> Research Analyst at Research for Action"
+
+pingting:
+    display_name: "Pingting Chen"
+    role: alum
+    image:  /img/people/pingting.jpg
+    bio: "MSEd"
 
 yuhui:
     display_name: "Yu-Hui Chang"
@@ -153,6 +146,13 @@ fan:
 #     role: alum
 #     image: https://i1.rgstatic.net/ii/profile.image/299399507922950-1448393813833_Q512/Shan-Yu-22.jpg
 #     bio: "PhD in Design"
+
+emily:
+    display_name: "Emily Yan"
+    role: alum
+    webpage: http://linkedin.com/in/emily-yan-a9b146230/
+    image:  /img/people/emily.png
+    bio: "MSEd student"
 
 wenjing:
     display_name: "Wenjing Chen"
@@ -247,14 +247,14 @@ johnb:
 
 alwyn:
     display_name: "Lee, Vwen Yen Alwyn"
-    role: vscholar
-    bio: "Research Scientist at National Institute of Education, Singapore"
+    role: alum
+    bio: "Visiting Scholar, NIE Singapore"
     image: /img/people/Alwyn3.JPG
 
 simone:
     display_name: "Simone Luchini"
-    role: vscholar
-    bio: "PhD student at PSU"
+    role: alum
+    bio: "Visiting Student, PSU"
     image: /img/people/simone.jpeg
 
 # tianhui:
