@@ -1,6 +1,7 @@
 ---
 layout:     post
-shortnews: true
+title: "The Wonder Lab will be well represented at the upcoming International Society for the Learning Sciences annual meeting."
+shortnews: false
 icon: slideshare
 author: admin
 ---
@@ -19,5 +20,6 @@ Below is a list of our presentations:
 | Poster             | Jiayu Cheng, Chen Wang and   Bodong Chen                                                                                                                                                                                                   | Evaluating Student Agency in AI-Generated Lesson Plans                                                                             |
 | Poster             | Yuwei Liang, Alwyn Vwen Yen   Lee, Jiayu Cheng, Chen Wang, Kexin Chen, Hong-Minh Nguyen Tran, Bian Zheng,   Jiaxin Xu and Bodong Chen                                                                                                      | Design Patterns in Computer-Supported Collaborative Learning:   A Survey of ijCSCL Studies                                         |
 
+<br>
 
 In addition, we will also be in two symposia on "Collaborating with Generative AI for Learning?" (chaired by Davinia Hernandez-Leo) and "Actionable Collaborative Discourse Analysis" (chaired by Yeonji Jung and Xinran Zhu).
