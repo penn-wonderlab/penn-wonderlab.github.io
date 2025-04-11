@@ -40,6 +40,21 @@ kexin:
     webpage: https://kloechen.webflow.io/
     image:  /img/people/kchen.jpg
     bio: "MSEd student"
+
+ruby:
+    display_name: "Ruby Ren"
+    role: grad
+    webpage: https://rubyren.me/
+    image:  https://res.cloudinary.com/drihmlyza/q_auto/v1741896639/static/untitled_design__10_-removebg-previewpng_1741896640_99716.png
+    bio: "MSEd student"
+
+yue:
+    display_name: "Yue Zhao"
+    role: grad
+    webpage: https://yuez.design/
+    image:  /img/people/yue.jpg
+    bio: "MSEd student"
+
 # developer
 
 benji:
