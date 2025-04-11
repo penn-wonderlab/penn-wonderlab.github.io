@@ -45,7 +45,7 @@ ruby:
     display_name: "Ruby Ren"
     role: grad
     webpage: https://rubyren.me/
-    image:  https://res.cloudinary.com/drihmlyza/q_auto/v1741896639/static/untitled_design__10_-removebg-previewpng_1741896640_99716.png
+    image:  /img/people/ruby.png
     bio: "MSEd student"
 
 yue:
@@ -259,6 +259,14 @@ johnb:
 
 
 # visiting scholars
+
+
+gaoyu:
+    display_name: "Yu Gao"
+    role: vscholar
+    image: /img/people/female_placeholder.png
+    bio: "PhD student from CCNU"
+
 
 alwyn:
     display_name: "Lee, Vwen Yen Alwyn"
