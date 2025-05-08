@@ -12,20 +12,20 @@ people:
 
 ---
 
-<img src='/img/inkspire-logo.png' width='300px' />
 
 
+### Project Goal
 
-
-### PROJECT GOAL
-
-To develop and test InkSpire, an AI-enhanced web application that helps college instructors create scaffolded
+To develop and test **InkSpire**, an AI-enhanced web application that helps college instructors create scaffolded
 reading assignments to improve student engagement in science fields.
 
-### OBJECTIVES
+<img src='/img/inkspire-logo.png' width='200px' />
 
-The project integrates established disciplinary literacy frameworks with AI capabilities to create InkSpire. Through a
-pilot study in biology and information science classrooms, we will investigate how this AI-enhanced approach
+
+### Objectives
+
+The project integrates established disciplinary literacy frameworks with AI capabilities to create **InkSpire**. Through a
+pilot study in college-level science classrooms, we will investigate how this AI-enhanced approach
 affects instructors' design practices and students' reading engagement, skills, and dispositions.
 
 ### Acknowledgement
