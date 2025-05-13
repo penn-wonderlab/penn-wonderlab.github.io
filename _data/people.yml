@@ -10,7 +10,7 @@ jiayu:
 yuwei:
     display_name: "Yuwei Liang"
     role: grad
-    image: /img/people/female_placeholder.png
+    image: /img/people/placeholder.jpg
     bio: "PhD student"
 
 vivian:
@@ -105,14 +105,14 @@ zixi:
     display_name: "Zixi Chen"
     role: alum
     webpage: https://scholar.google.com/citations?user=zfkOwi4AAAAJ&hl=en
-    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/08/avatar-2-edited-150x150.png
+    image: /img/people/Zixi.jpg
     bio: "Postdoc --> assistant professor at NYU Shanghai"
 
 mengchen:
     display_name: "Mengchen Su"
     role: alum
     webpage: https://www.mengchensu.com/
-    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/10/Su-pic-150x150.jpg
+    image: /img/people/mengchen.jpeg
     bio: "Postdoc --> Research Scientist at UMN"
 
 xiping:
@@ -167,7 +167,7 @@ emily:
     role: alum
     webpage: http://linkedin.com/in/emily-yan-a9b146230/
     image:  /img/people/emily.png
-    bio: "MSEd student"
+    bio: "MSEd"
 
 wenjing:
     display_name: "Wenjing Chen"
@@ -203,7 +203,7 @@ hwu:
 wanying:
     display_name: "Wanying Zhou"
     role: alum
-    image: /img/people/female_placeholder.png
+    image: /img/people/wanying-zhou.png
     bio: "Undergrad in Psychology --> Master's student at Penn"
 
 tianhui:
@@ -264,7 +264,7 @@ johnb:
 gaoyu:
     display_name: "Yu Gao"
     role: vscholar
-    image: /img/people/female_placeholder.png
+    image: /img/people/placeholder.jpg
     bio: "PhD student from CCNU"
 
 
@@ -300,7 +300,7 @@ hong:
     display_name: "Huang-Yao Hong"
     role: collab
     webpage: https://edu.nccu.edu.tw/en/Faculty/HUANG-YAO-HONG-50562481
-    image: /img/people/male_placeholder.jpg
+    image: /img/people/placeholder.jpg
     bio: "National Chengchi U"
 
 deliema:
@@ -311,7 +311,7 @@ deliema:
 scharber:
     display_name: "Cassie Scharber"
     role: collab
-    image: /img/people/female_placeholder.png
+    image: /img/people/placeholder.jpg
 
 
 # lund:
@@ -362,14 +362,14 @@ konstan:
     display_name: "Joseph A. Konstan"
     role: collab
     webpage: http://konstan.umn.edu/
-    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/08/konstan-2010-photo-edited.jpg
+    image: https://cse.umn.edu/sites/cse.umn.edu/files/styles/webp_scaled/public/Konstan_Joe_headshot_thumb.jpg.webp
     bio: "U of Minnesota"
 
 svarma:
     display_name: "Sashank Varma"
     role: collab
     webpage: https://ic.gatech.edu/people/sashank-varma
-    image: https://innovation.umn.edu/informatics/wp-content/uploads/sites/59/2021/08/VarmaS-2019-edited.jpg
+    image: https://psychology.gatech.edu/sites/default/files/sashank-2019-official.jpg
     bio: "Georgia Tech"
 # postdocs
 
@@ -388,13 +388,13 @@ david:
 craig:
     display_name: "Craig Karlen"
     role: teacher
-    image: /img/people/male_placeholder.jpg
+    image: /img/people/placeholder.jpg
     bio: "SPPS Science Teacher"
 
 dan:
     display_name: "Daniel Weyandt"
     role: teacher
-    image: /img/people/male_placeholder.jpg
+    image: /img/people/placeholder.jpg
     bio: "SPPS Science Teacher"
 
 # faculty

@@ -1,5 +1,5 @@
 ---
-title: Infrastructures and Innovation Networks for Knowledge Building
+title: Knowledge Building Pedagogy and Technology
 image: /img/kb.png
 description: |
   Long-standing design-based research project to advance infrustructures for knowledge building
@@ -7,7 +7,7 @@ people:
   - bodong
   - xinran
   - hongs
-  - shanyu
+  # - shanyu
 
 layout: project
 status: inactive

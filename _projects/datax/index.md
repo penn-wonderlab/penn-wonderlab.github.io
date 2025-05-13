@@ -6,6 +6,14 @@ description: |
 layout: project
 status: active
 priority: 2
+people:
+  - bodong
+  - scharber
+  - deliema
+  - tina
+  - vivian
+  - benji
+  - amanda
 
 ---
 
