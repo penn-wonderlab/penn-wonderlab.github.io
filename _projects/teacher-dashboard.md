@@ -9,7 +9,7 @@ people:
   - bodong
 
 layout: project
-status: active
+status: inactive
 priority: 5
 
 ---
