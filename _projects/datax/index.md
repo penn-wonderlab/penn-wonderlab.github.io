@@ -5,7 +5,7 @@ description: |
   Integrating justice-oriented data science in secondary science and social studies
 layout: project
 status: active
-priority: 2
+priority: 5
 people:
   - bodong
   - scharber

@@ -5,7 +5,7 @@ description: |
   Using Generative AI to support student learning in introductory programming courses.
 layout: project
 status: active
-priority: 1
+priority: 6
 people:
   - yuwei
   - bodong

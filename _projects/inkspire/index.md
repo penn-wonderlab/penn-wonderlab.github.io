@@ -9,6 +9,9 @@ priority: 1
 people:
   - bodong
   - yuwei
+  - amanda
+  - ruby
+  - yue
 
 ---
 

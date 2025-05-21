@@ -5,7 +5,7 @@ description: |
   KBIN connects members of knowledge building’s global community to continuously innovate on infrastructures for learning and knowledge building.
 layout: project
 status: active
-priority: 1
+priority: 3
 people:
   - bodong
   - jiayu
