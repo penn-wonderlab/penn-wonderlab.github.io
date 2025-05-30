@@ -24,11 +24,17 @@ Knowledge building has its footprints in more than 20 countries around the world
 
 The Knowledge Building Innovation Network (KBIN) brings together interdisciplinary expertise and diverse experiences of working with education systems around the world to develop and improve infrastructures for knowledge building. KBIN strives for systemic educational change through technology innovation, robust research, and local capacity building. It is committed to creating and sustaining research–practice partnerships, as well as reciprocal partnerships among international collaborators. By leveraging the collective intelligence of educators, researchers, and engineers, and through iterative design and development, KBIN produces practical models of implementing knowledge building in diverse educational systems, as well as resources and infrastructures sharable among members of the network.
 
-<img src="https://www.gse.upenn.edu/sites/default/files/KBIN-fig1.png" width = "40%" />
+<img src="https://www.gse.upenn.edu/sites/default/files/styles/500xauto_webp/public/image/2024/08/kbin.png.webp?itok=Zi0t-Mty" width = "40%" />
 
 ## [Penn Global Project: KBIN in Greater China](https://www.gse.upenn.edu/global-initiatives/knowledge-building-innovation-network)
 
-With support from the Penn Global Research & Engagement Grant Program, we launched an innovation network in 2023 to support K–12 educators in Greater China to implement knowledge building while designing innovative ways of integrating the UN Sustainable Development Goals in their schools. This effort responds to a strong interest in alternative visions of education in Greater China. Following the design-based implementation research approach, KBIN bridges Penn and two university–school partnerships in Nanjing and Taipei, engaging teachers, school leaders, and researchers in generating actionable plans to integrate knowledge building and sustainable development in their schools.
+With support from the Penn Global Research & Engagement Grant Program, we launched an innovation network in 2023 to support K–12 educators in Greater China to implement knowledge building while designing innovative ways of integrating the UN Sustainable Development Goals (SDGs) in their schools. This effort responds to a strong interest in alternative visions of education in Greater China. Following the design-based implementation research approach, KBIN bridges Penn and two university–school partnerships in Nanjing and Taipei, engaging teachers, school leaders, and researchers in generating actionable plans to integrate knowledge building and sustainable development in their schools.
+
+Teachers participating in KBIN are supported to design and implement knowledge building lessons that integrate the UN SDGs in their classrooms. Their lesson designs are published below:
+
+-	[SDG lesson designs by teachers - Volume 1](../../file/kbin-lessons-vol1-2023.pdf) (2023)
+-	[SDG lesson designs by teachers - Volume 2](../../file/kbin-lessons-vol2-20240129.pdf) (2024)
+
 
 ## KB Coach
 
