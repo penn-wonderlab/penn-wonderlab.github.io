@@ -176,6 +176,7 @@ We are also developing a DataX platform that supports learners' computational pa
 
 ## Publications
 
+- Chen, B., Ma, L., & Leung, V. Y. (2025). Seeing Our World Through Data: Sixth Graders Integrating Data Investigations in Collaborative Knowledge Building. *Journal of Statistics and Data Science Education*, 1–23. https://doi.org/10.1080/26939169.2025.2505431
 - Chen, B., DeLiema, D., Scharber, C., & Bartucz, J. (2024). Supporting Learning Pathways of Justice-Oriented Data Science in Secondary Science and History Classes: Teachers’ Perspectives. In *Proceedings of the 18th International Conference of the Learning Sciences—ICLS 2024 (pp. 2243–2244)*. International Society of the Learning Sciences. https://repository.isls.org//handle/1/10956
 - Chen, B., Bartucz, J., Scharber, C., Rao, V., & DeLiema, D. (2023, April). [Toward a framework for justice-oriented data science education in K–12 schools](aera23-datax.pdf). Paper presented at the AERA Annual Meeting, Chicago, IL.
 - Chen, B., Ma, L., & Peebles, B. (2021, June). *Seeing Ourselves in the Data: Situating Data Literacy in Theory Building by Youth*. Paper presented in the "Data Literacy" Structured Poster Session at the 2022 AERA Annual Meeting, San Diego, CA. ([Poster](../../file/aera22-data-literacy.pdf))
