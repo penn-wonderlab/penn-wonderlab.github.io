@@ -1,6 +1,6 @@
 ---
 layout:     post
-title: "The Wonder Lab will be well represented at the upcoming International Society for the Learning Sciences annual meeting."
+title: "The Wonder Lab is well represented at the International Society for the Learning Sciences annual meeting."
 shortnews: false
 icon: slideshare
 author: admin
