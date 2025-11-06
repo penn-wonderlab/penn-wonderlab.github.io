@@ -18,14 +18,7 @@ vivian:
     role: grad
     webpage: https://vyleung.github.io/ 
     image:  /img/people/vivian.png
-    bio: "MSEd"
-
-amanda:
-    display_name: "Amanda Tran"
-    role: grad
-    webpage: https://github.com/mandachan-727
-    image: https://avatars.githubusercontent.com/u/85417121?v=4
-    bio: "MSEd student"
+    bio: "Researcher; Developer"
 
 chenw:
     display_name: "Chen Wang"
@@ -34,26 +27,39 @@ chenw:
     image:  /img/people/chenw.jpeg
     bio: "Instructional Technologist"
 
-kexin:
-    display_name: "Kexin Chen"
+szhang:
+    display_name: "Shiyang Zhang"
     role: grad
-    webpage: https://kloechen.webflow.io/
-    image:  /img/people/kchen.jpg
+    image: /img/people/placeholder.jpg
     bio: "MSEd student"
 
-ruby:
-    display_name: "Ruby Ren"
+cwang:
+    display_name: "Cassie Wang"
     role: grad
-    webpage: https://rubyren.me/
-    image:  /img/people/ruby.png
+    image: /img/people/placeholder.jpg
     bio: "MSEd student"
+
+
+lsun:
+    display_name: "Weijia Lina Sun"
+    role: grad
+    image: /img/people/placeholder.jpg
+    bio: "MSEd student"
+
+azing:
+    display_name: "Ashley Zingillioglu"
+    role: grad
+    image: /img/people/placeholder.jpg
+    bio: "MSEd student"
+
+
 
 yue:
     display_name: "Yue Zhao"
-    role: grad
+    role: developer
     webpage: https://yuez.design/
     image:  /img/people/yue.jpg
-    bio: "MSEd student"
+    bio: "MSEd; Developer"
 
 # developer
 
@@ -66,8 +72,8 @@ benji:
 
 wenxi:
     display_name: "Wenxi Chen"
-    role: developer
-    bio: "Developer"
+    role: alum
+    bio: "Undergrad Developer"
     webpage: https://github.com/wenxich
     image: https://avatars.githubusercontent.com/u/92760430?v=4
 
@@ -263,9 +269,9 @@ johnb:
 
 gaoyu:
     display_name: "Yu Gao"
-    role: vscholar
+    role: alum
     image: /img/people/placeholder.jpg
-    bio: "PhD student from CCNU"
+    bio: "Visiting PhD student from CCNU"
 
 
 alwyn:
@@ -401,9 +407,30 @@ dan:
 
 bodong:
     display_name: "Bodong Chen"
-    webpage: "https://bodong.ch/"
+    webpage: "https://bchen.net/"
     github: meefen
     role: faculty
     image: /img/people/bodong.jpg
     bio: "Associate Professor"
     
+amanda:
+    display_name: "Amanda Tran"
+    role: alum
+    webpage: https://github.com/mandachan-727
+    image: https://avatars.githubusercontent.com/u/85417121?v=4
+    bio: "MSEd student"
+
+kexin:
+    display_name: "Kexin Chen"
+    role: alum
+    webpage: https://kloechen.webflow.io/
+    image:  /img/people/kchen.jpg
+    bio: "MSEd student"
+
+ruby:
+    display_name: "Ruby Ren"
+    role: alum
+    webpage: https://rubyren.me/
+    image:  /img/people/ruby.png
+    bio: "MSEd student"
+
