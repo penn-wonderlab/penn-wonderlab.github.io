@@ -10,7 +10,8 @@ jiayu:
 yuwei:
     display_name: "Yuwei Liang"
     role: grad
-    image: /img/people/placeholder.jpg
+    webpage: https://www.linkedin.com/in/yuwei-liang-a8184b291/
+    image: /img/people/yuwei.jpg
     bio: "PhD student"
 
 vivian:
@@ -30,15 +31,15 @@ chenw:
 szhang:
     display_name: "Shiyang Zhang"
     role: grad
-    image: /img/people/placeholder.jpg
+    image: /img/people/shiyang.jpg
     bio: "MSEd student"
 
 cwang:
-    display_name: "Cassie Wang"
+    display_name: "Ruiqian Wang"
     role: grad
-    image: /img/people/placeholder.jpg
+    webpage: https://www.ruiqianwang.com/
+    image: /img/people/ruiqian_wang.jpeg
     bio: "MSEd student"
-
 
 lsun:
     display_name: "Weijia Lina Sun"
@@ -49,10 +50,26 @@ lsun:
 azing:
     display_name: "Ashley Zingillioglu"
     role: grad
-    image: /img/people/placeholder.jpg
+    image: /img/people/ashley.jpg
     bio: "MSEd student"
 
 
+sherry:
+    display_name: "Qiao Lin"
+    role: grad
+    webpage: https://www.linkedin.com/in/sherry-lin-99a460329/
+    image: /img/people/sherry.jpeg
+    bio: "MSEd student"
+
+zichen:
+    display_name: "Zichen Wang"
+    role: grad
+    webpage: https://www.linkedin.com/in/zichenwang2002/
+    image: /img/people/zichen.jpg
+    bio: "MSEd student"
+
+
+# developer
 
 yue:
     display_name: "Yue Zhao"
@@ -60,8 +77,6 @@ yue:
     webpage: https://yuez.design/
     image:  /img/people/yue.jpg
     bio: "MSEd; Developer"
-
-# developer
 
 benji:
     display_name: "Benji Encalada Mora"
