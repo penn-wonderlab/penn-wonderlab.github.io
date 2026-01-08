@@ -5,12 +5,12 @@ description: |
   Align Generative AI tools with core values in education.
 layout: project
 status: active
-priority: 2
+priority: 4
 people:
+  - bodong
   - jiayu
   - vivian
   - chenw
-  - bodong
 
 ---
 

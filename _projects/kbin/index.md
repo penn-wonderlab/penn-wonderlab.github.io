@@ -7,10 +7,10 @@ layout: project
 status: active
 priority: 3
 people:
-  - bodong
   - jiayu
   - hong
   - yuhui
+  - bodong
 
 ---
 

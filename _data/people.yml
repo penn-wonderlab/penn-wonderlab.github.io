@@ -21,6 +21,13 @@ vivian:
     image:  /img/people/vivian.png
     bio: "Researcher; Developer"
 
+vivian2:
+    display_name: "Vivian Leung"
+    role: developer
+    webpage: https://vyleung.github.io/ 
+    image:  /img/people/vivian.png
+    bio: "Researcher; Developer"
+
 chenw:
     display_name: "Chen Wang"
     role: grad
@@ -73,14 +80,14 @@ zichen:
 
 yue:
     display_name: "Yue Zhao"
-    role: developer
+    role: alum
     webpage: https://yuez.design/
     image:  /img/people/yue.jpg
     bio: "MSEd; Developer"
 
 benji:
     display_name: "Benji Encalada Mora"
-    role: developer
+    role: alum
     bio: "Lead Software Engineer"
     webpage: https://www.benji.dog/
     image: https://benji.dog/assets/photo.jpg

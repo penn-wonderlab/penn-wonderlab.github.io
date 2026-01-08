@@ -4,7 +4,7 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/NSF_logo.png/22
 description: | 
   Integrating justice-oriented data science in secondary science and social studies
 layout: project
-status: active
+status: inactive
 priority: 5
 people:
   - bodong

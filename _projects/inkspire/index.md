@@ -5,7 +5,7 @@ description: |
   To help college instructors create scaffolded reading assignments to improve student engagement.
 layout: project
 status: active
-priority: 1
+priority: 2
 people:
   - bodong
   - yuwei
