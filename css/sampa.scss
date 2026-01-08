@@ -368,3 +368,13 @@ ul.news {
 
 #proj-people {
 }
+
+/* Tutorial images */
+.content img {
+  max-width: 100%;
+  max-height: 500px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  margin: 1em 0;
+}

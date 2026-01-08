@@ -10,7 +10,7 @@ Penn Wonder Lab members hold various research interests. We design innovative di
 <div class="card-columns">
 {% assign sorted = site.projects | sort: 'priority'  %}
 {% for p in sorted %}
-{% if p.status != "inactive" %}
+{% if p.status != "inactive" and p.project != false %}
 <div class="card {%if p.link or p.url%}link{%endif%}">
     {% if p.link %}
         {% assign proj_url = p.link %}
@@ -52,7 +52,7 @@ Penn Wonder Lab members hold various research interests. We design innovative di
 
 <div class="card-columns">
 {% for p in site.projects %}
-{% if p.status == "inactive" %}
+{% if p.status == "inactive" and p.project != false %}
 <div class="card {%if p.link or p.url%}link{%endif%}">
     {% if p.link %}
         {% assign proj_url = p.link %}
