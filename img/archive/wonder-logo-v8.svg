@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="grad8" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0ea5e9"/>
+      <stop offset="100%" style="stop-color:#6366f1"/>
+    </linearGradient>
+  </defs>
+  <!-- Clean modern W with lift -->
+  <path
+    d="M12 32
+       C18 60, 28 75, 42 75
+       Q50 75, 50 48
+       Q50 75, 58 75
+       C72 75, 82 60, 88 32"
+    fill="none"
+    stroke="url(#grad8)"
+    stroke-width="6"
+    stroke-linecap="round"/>
+  <!-- Starburst spark - breakthrough moment -->
+  <circle cx="50" cy="20" r="5" fill="#6366f1"/>
+  <line x1="50" y1="10" x2="50" y2="6" stroke="#6366f1" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <line x1="44" y1="14" x2="41" y2="11" stroke="#6366f1" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+  <line x1="56" y1="14" x2="59" y2="11" stroke="#6366f1" stroke-width="1.5" stroke-linecap="round" opacity="0.4"/>
+</svg>

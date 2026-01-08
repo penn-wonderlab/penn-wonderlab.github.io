@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="grad4" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06b6d4"/>
+      <stop offset="50%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#a855f7"/>
+    </linearGradient>
+  </defs>
+  <!-- Dynamic fluid W with more energy -->
+  <path
+    d="M8 32
+       C12 52, 18 72, 30 75
+       Q40 77, 48 50
+       Q50 44, 52 50
+       Q60 77, 70 75
+       C82 72, 88 52, 92 32"
+    fill="none"
+    stroke="url(#grad4)"
+    stroke-width="8"
+    stroke-linecap="round"/>
+  <!-- Ascending wonder sparks -->
+  <circle cx="50" cy="26" r="5" fill="#6366f1"/>
+  <circle cx="50" cy="14" r="3.5" fill="#8b5cf6" opacity="0.7"/>
+  <circle cx="50" cy="5" r="2" fill="#a855f7" opacity="0.5"/>
+</svg>

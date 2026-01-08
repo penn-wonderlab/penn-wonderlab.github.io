@@ -4,12 +4,15 @@
         <meta charset="utf-8">
         <title>{{ site.name }}: {{ page.title }}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
         <link href="{{site.base}}/css/bootstrap.min.css" rel="stylesheet">
         <link href="{{site.base}}/css/sampa.css" rel="stylesheet">
         <link rel="alternate" type="application/atom+xml" title="Atom"
             href="{{ site.base }}/blog/blog.xml">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <link rel="shortcut icon" href="{{ site.base }}/favicon.ico" type="image/vnd.microsoft.icon">
+        <link rel="icon" href="{{ site.base }}/favicon.svg" type="image/svg+xml">
 
         <!-- style added to support collaposible sections -->
         <style>
@@ -53,9 +56,8 @@
         <div class="container">
           <div class="header">
             <a href="{{ site.base }}/">
-                <img src="{{ site.base }}/img/wonder-logo.png"
-                    srcset="{{ site.base }}/img/wonder-logo.png 2x"
-                    alt="Sampa" id="logo">
+                <img src="{{ site.base }}/img/wonder-logo.svg"
+                    alt="Wonder Lab" id="logo">
             </a>
             <ul class="nav nav-pills pull-right">
                   {% assign shorturl = page.url | replace:'.html','' | replace:'index','' %}
