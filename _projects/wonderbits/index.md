@@ -29,6 +29,8 @@ Wonderbits is already equipped with several 'AI helpers'—Glint, Buzz, Shimmer,
 
 This is only the beginning.
 
+> Wonderbits is in early alpha. If you're interested in joining the waiting list, please simply email [our team](wonderbits7@gmail.com).
+
 ## Tutorials
 
 Get started with Wonderbits through our step-by-step guides.
