@@ -165,9 +165,9 @@ ul.people {
         // draw empty gray circle for those without a profile pic
         .noprofile {
             fill: #f5f5f5;
-            r: calc($profile-size / 2);
-            cx: calc($profile-size / 2);
-            cy: calc($profile-size / 2);
+            r: $profile-size / 2;
+            cx: $profile-size / 2;
+            cy: $profile-size / 2;
         }
     }
 
