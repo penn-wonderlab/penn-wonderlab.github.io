@@ -92,11 +92,11 @@ a {
     }
 
     .title {
-        display: table;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
         .card-title {
-            display: table-cell;
-            vertical-align: middle;
-            margin: 0em .5rem;
+            margin: 0;
         }
     }
 
@@ -110,9 +110,14 @@ a {
         padding: 1rem;
     }
 
+    .card-footer {
+        padding: 0 1rem 1.25rem;
+    }
+
     img.icon {
         max-height: 2em;
-        margin: 0em 0.5rem;
+        width: auto;
+        flex-shrink: 0;
     }
 }
 
