@@ -1,8 +1,8 @@
 ---
-title: "InkSpire: Generative AI for Reading in Science Disciplines"
+title: "InkSpire"
 image: /img/inkspire-logo.png
-description: | 
-  To help college instructors create scaffolded reading assignments to improve student engagement.
+description: |
+  Use generative AI to help college instructors create scaffolded reading assignments to improve student engagement.
 layout: project
 status: active
 priority: 2
