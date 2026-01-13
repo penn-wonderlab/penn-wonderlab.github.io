@@ -1,8 +1,8 @@
 ---
 title: "AI Alignment with Education"
 image: /img/ai-alignment.png
-description: | 
-  Align Generative AI tools with core values in education.
+description: |
+  Align generative AI tools with core values in education.
 layout: project
 status: active
 priority: 4
