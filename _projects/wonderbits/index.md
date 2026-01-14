@@ -43,4 +43,11 @@ Get started with Wonderbits through our step-by-step guides.
 4. [Canvas Navigation](tutorials/part1-4-canvas-navigation/) — Pan, zoom, selection, and semantic zoom levels
 5. [Document View](tutorials/part1-5-document-view/) — Switching between Canvas and Document views
 
-*More tutorials coming soon: Organizing (clusters, pages, views), Collaboration, AI Helpers, and Thinking Lab.*
+### Part 2: Organizing Your Thinking
+
+1. [Advanced Node Types](tutorials/part2-1-advanced-node-types/) — Ground, Synthesis, and Draw nodes for deeper thinking
+2. [Clusters and Pages](tutorials/part2-2-clusters-and-pages/) — Grouping related ideas and organizing larger projects
+3. [Filters and Lenses](tutorials/part2-3-views-and-filters/) — Filter by type, search, and save custom lenses
+4. [Document View](tutorials/part2-4-document-view/) — Create stories and share your thinking
+
+*More tutorials coming soon: Collaboration, AI Helpers, and Thinking Lab.*
