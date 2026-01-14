@@ -19,7 +19,7 @@ The view toggle in the header lets you switch between Canvas and Document views.
 <!-- ![The Canvas/Document toggle in the header](images/01-view-toggle.png)
 *The Canvas/Document toggle in the header* -->
 
-![Document View showing ideas in linear format](images/02-document-view-initial.png)
+![Document View showing ideas in linear format](images/02-document-view-initial.png)  
 *Document View showing ideas in linear format*
 
 In Document View, your ideas appear as a vertical list, making it easy to read through them like a document.
@@ -44,7 +44,7 @@ If you select a node on the canvas before switching to Document View, you'll see
 
 If you multi-select several nodes on the canvas, Document View shows just those selected ideas in order.
 
-![](images/02-document-view-selected.png)
+![](images/02-document-view-selected.png)  
 *Document View showing one selected idea and the "thread" it's part of*
 
 For any idea in Document View, you can easily go back to where it is on Canvas View by clicking on the "View on canvas" button in the bottom-right corner.
@@ -60,7 +60,7 @@ If you select a cluster, Document View shows all the ideas contained within that
 
 If you have type filters active, Document View shows only ideas matching those filters.
 
-![](images/02-document-view-filters.png)
+![](images/02-document-view-filters.png)  
 *Document View showing only claims and questions on the canvas*
 
 ### Document View controls
@@ -104,7 +104,7 @@ Saved stories appear in a dropdown in Document View. Select a story to load it a
 
 Once you've created a story, you can edit it to refine your narrative.
 
-![](images/06-story-builder.png)
+![](images/06-story-builder.png)  
 *Editing a story*
 
 ### Reordering Ideas

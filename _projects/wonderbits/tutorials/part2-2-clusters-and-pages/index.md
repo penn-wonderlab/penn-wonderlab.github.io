@@ -36,7 +36,7 @@ To create a cluster, follow these steps:
 2. Look for the **Group as Cluster** button in the selection menu
 3. Click the button to create the cluster
 
-![The selection menu with Group as Cluster option](images/02-multi-select-menu.png)
+![The selection menu with Group as Cluster option](images/02-multi-select-menu.png)  
 *The selection menu with Group as Cluster option*
 
 > **Tip**: Multi-select can be also useful for viewing multiple ideas as Document, or sending them to be worked on in Thinking Lab.
@@ -58,13 +58,13 @@ Clusters can be **collapsed** to save space on your canvas. A collapsed cluster 
 - **Collapse:** Click on the cluster header to collapse it
 - **Expand:** Click on a collapsed cluster to expand and see all ideas inside
 
-![A cluster can be collapsed or expanded](images/03-cluster-example.png)
+![A cluster can be collapsed or expanded](images/03-cluster-example.png)  
 *A cluster can be collapsed or expanded*
 
 Collapsing clusters is useful when you want to focus on other parts of your canvas without deleting your work.
 
 
-![A cluster can be collapsed or expanded](images/03-cluster-example-collapsed.png)
+![A cluster can be collapsed or expanded](images/03-cluster-example-collapsed.png)  
 *A cluster can be collapsed*
 
 
@@ -100,10 +100,10 @@ Use pages when you want to:
 - Keep your main canvas clean while exploring tangents
 - Work on a large project that would be overwhelming on one canvas
 
-![The current page selector in the header](images/04-page-dropdown-button.png)
+![The current page selector in the header](images/04-page-dropdown-button.png). 
 *The current page selector in the header*
 
-![The page dropdown showing available pages](images/05-page-dropdown-open.png)
+![The page dropdown showing available pages](images/05-page-dropdown-open.png)  
 *The page dropdown showing available pages*
 
 ### Creating a New Page
@@ -115,7 +115,7 @@ To create a new page:
 3. Enter a name for your new page
 4. The new page opens as a blank canvas
 
-![A new page with a blank canvas](images/06-new-page-created.png)
+![A new page with a blank canvas](images/06-new-page-created.png)  
 *A new page with a blank canvas*
 
 ### Switching Between Pages

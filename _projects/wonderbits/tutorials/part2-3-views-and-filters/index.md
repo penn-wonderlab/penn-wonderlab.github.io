@@ -125,7 +125,7 @@ To create a saved view:
 3. Give your lense a descriptive name
 4. The lense is saved and appears in your Lenses panel
 
-![](images/05-lenses-save.png)
+![](images/05-lenses-save.png)  
 *Creating a saved lense focused on questions and claims about search term 'team'*
 
 ### Loading a Saved Lense
@@ -143,7 +143,7 @@ The Lenses panel always shows a **Full Canvas** option at the top. Click this to
 
 > **Tip:** Create Lenses for different phases of your thinking, like "Questions to explore" or "Key claims".
 
-![](images/06-lenses-load.png)
+![](images/06-lenses-load.png)  
 *Loading the saved lense focused on questions and claims about search term 'team'*
 
 
