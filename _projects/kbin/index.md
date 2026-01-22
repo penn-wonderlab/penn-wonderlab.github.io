@@ -35,14 +35,29 @@ Teachers participating in KBIN are supported to design and implement knowledge b
 -	[SDG lesson designs by teachers - Volume 1](../../file/kbin-lessons-vol1-2023.pdf) (2023)
 -	[SDG lesson designs by teachers - Volume 2](../../file/kbin-lessons-vol2-20240129.pdf) (2024)
 
+## KB Principles Cards
 
-## KB Coach
+To help educators explore the 12 principles of Knowledge Building, we developed [an interactive site](https://penn-wonderlab.github.io/kb-principles/) for educators to learn about the principles.
+
+## KB Teaching Skills
+
+KB is a principle-based pedagogy without a linear approach to implementation. This creates challenges for both new and experienced teachers.
+
+We are developing [a public repository of KB Teaching Skills](https://github.com/penn-wonderlab/kb-teaching-skills) to make tacit knowledge in KB teaching explicit. 
+
+This public repository can be used in multiple ways:
+
+- Read each skill and incorporate strategies in KB teaching
+- Download a skill and install it to Claude (and alike) to guide AI-assisted teaching
+- For tool developers, incorporate these skills in your teacher-facing tools
+
+<!-- ## KB Coach
 
 To support teachers (both pre-service and in-service) in the Network, we developed an AI tool---**KB Coach**---to support teacher learning in Knowledge Building (KB) and teacher design of KB lessons. 
 
 KB Coach has two main features: (1) carrying out free-flow, reflective conversations with teachers; and (2) providing rubric-based evaluation of lesson designs provided by teachers. Both features are grounded in relevant literature and resources. 
 
-<img src='/img/kb-coach.png' width='300px' />
+<img src='/img/kb-coach.png' width='300px' /> -->
 
 ## Publications
 
