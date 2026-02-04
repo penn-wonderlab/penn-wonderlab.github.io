@@ -2,15 +2,15 @@
 title: "KB Innovation Network"
 image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UPenn_shield_with_banner.svg/250px-UPenn_shield_with_banner.svg.png?20160402004431
 description: | 
-  KBIN connects members of knowledge building’s global community to continuously innovate on infrastructures for learning and knowledge building.
+  KBIN connects members of the KB global community to continuously innovate on infrastructures for learning and knowledge building.
 layout: project
 status: active
 priority: 3
 people:
+  - bodong
   - jiayu
   - hong
   - yuhui
-  - bodong
 
 ---
 

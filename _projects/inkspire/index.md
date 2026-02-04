@@ -7,11 +7,10 @@ layout: project
 status: active
 priority: 2
 people:
-  - bodong
   - yuwei
-  - amanda
-  - ruby
+  - cwang
   - yue
+  - bodong
 
 ---
 

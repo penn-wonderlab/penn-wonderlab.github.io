@@ -4,8 +4,8 @@ image: /img/coding-buddy-logo.png
 description: | 
   Using Generative AI to support student learning in introductory programming courses.
 layout: project
-status: active
-priority: 6
+status: inactive
+priority: 2
 people:
   - yuwei
   - bodong

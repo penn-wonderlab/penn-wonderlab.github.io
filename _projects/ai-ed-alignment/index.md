@@ -35,15 +35,13 @@ We examine pedagogical biases in AI-powered educational tools. In a recent study
 
 Of course, pedagogical biases are not limited to these two dimensions or lesson plan generators. We are currently working on a broader framework to identify and mitigate pedagogical biases in AI-powered educational tools. We are especially keen in drawing on different epistemological and pedagogical frameworks to imagine possible futures---especially those are currently neglected.
 
-### CraftPad: A Workspace for Teachers to Sketch and Refine Knowledge Building Designs
+### Value-Sensitive Design of GenAI Tools for Education
 
-CraftPad is presented as a counter argument against efficiency-centric dialogues on AI in education. It re-centers educator expertise and judgment, with a focus on supporting teacher design of *Knowledge Building* (KB) lessons or classrooms. 
+Building on our evaluative work, we apply value-sensitive design principles to conceptualize and prototype next-generation GenAI interfaces for education. Several design projects have emerged from this thrust:
 
-Designing effective environments for knowledge building represents a sophisticated craft that demands deep understanding of KB principles, careful balancing of structure and emergence, and a design-oriented mindset. While generative AI has gained popularity in supporting teacher lesson planning, current systems—even the most advanced ones—operate within rigid templates that constrain teacher agency. These limitations prevent educators from engaging in the skilled, iterative actions essential to the craft of teaching. 
-
-Our work adopts an alternative approach that positions teachers as designers---rather than mere end-users---of AI tools. This perspective necessitates “meta-design”—designing for design itself—which empowers educators to configure and adapt tools in service of their professional craft and educational aspirations. By centering teachers’ expertise and creative agency, we aim to develop AI-enhanced environments that genuinely support the complex, nuanced work of knowledge building design.
-
-Departing from these perspectives, we design CraftPad as a flexible workspace that centers teachers’ expertise and creative agency. CraftPad features: (1) an infinite canvas (similar to Knowledge Forum) providing space for open-ended ideation and flexible organization; (2) an embedded prompt library informed by KB principles to guide various AI generation tasks in support of teacher design; and (3) a flexible workflow enabling teachers to quickly initiate designs, iteratively refine specific components with their professional input, and compile design artifacts (e.g., lesson designs) that incorporate AI-generated content while preserving the primacy of teacher judgment. This approach embodies our meta-design philosophy by supporting teachers as designers rather than mere consumers of AI outputs.
+- [**CraftPad**](/projects/craftpad/) — A workspace for teachers to sketch and refine Knowledge Building designs, re-centering educator expertise and judgment against efficiency-centric dialogues on AI in education.
+- [**InkSpire**](/projects/inkspire/) — An AI-enhanced web application that helps college instructors create scaffolded reading assignments to improve student engagement.
+- [**Wonderbits**](/projects/wonderbits/) — A collaborative environment for growing ideas that embodies principles of student agency and knowledge building.
 
 ### Publications
 
