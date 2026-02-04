@@ -61,4 +61,6 @@ KB Coach has two main features: (1) carrying out free-flow, reflective conversat
 
 ## Publications
 
+1. Cheng, J., Gao, Y., Liu, X., Barany, A., & Chen, B. (2026). Educators’ AI Journey: Developing AI Competencies in a Professional Development Program. In G. Carmona, C. Lima, M. J. Santos, H. Benítez, L. Montero-Moguel, & B. Galarza-Tohen (Eds.), Advances in Quantitative Ethnography (Vol. 2677, pp. 21–36). Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-12229-2_2
+1. Chang, C.-H., Seet, C. H., Chang, Y.-H., Chen, M., Chen, B., Chai, C.-S., & Hong, H.-Y. (2025). Supporting STEAM Design Collaboration via Knowledge Building Principles in an Online Teacher Professional Development Course. Proceedings of the 18th International Conference on Computer-Supported Collaborative Learning-CSCL 2025, Pp. 38-45. https://repository.isls.org/handle/1/11877
 1. Seet, C. H., Chang, Y.-H., Chen, M., Chen, B., & Hong, H.-Y. (2024, October). *Integrate design thinking and knowledge building for teacher professional development*. Paper presented at the 2024 Knowledge Building Summer Institute, Singapore. 

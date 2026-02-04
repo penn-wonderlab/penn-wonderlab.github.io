@@ -35,4 +35,5 @@ Departing from these perspectives, we design CraftPad as a flexible workspace th
 
 ### Publications
 
+- Cheng, J., Gao, Y., Liu, X., Barany, A., & Chen, B. (2026). Educators’ AI Journey: Developing AI Competencies in a Professional Development Program. In G. Carmona, C. Lima, M. J. Santos, H. Benítez, L. Montero-Moguel, & B. Galarza-Tohen (Eds.), Advances in Quantitative Ethnography (Vol. 2677, pp. 21–36). Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-12229-2_2
 - Chen, B. (2025). *Beyond Tools: Generative AI as Epistemic Infrastructure in Education* (No. arXiv:2504.06928). arXiv. https://doi.org/10.48550/arXiv.2504.06928

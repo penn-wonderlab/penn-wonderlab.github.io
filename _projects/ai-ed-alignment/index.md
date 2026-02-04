@@ -46,6 +46,7 @@ Building on our evaluative work, we apply value-sensitive design principles to c
 ### Publications
 
 - Chen, B. (2025). *Beyond Tools: Generative AI as Epistemic Infrastructure in Education* (No. arXiv:2504.06928). arXiv. https://doi.org/10.48550/arXiv.2504.06928
+- Cheng, J., Gao, Y., Liu, X., Barany, A., & Chen, B. (2026). Educators’ AI Journey: Developing AI Competencies in a Professional Development Program. In G. Carmona, C. Lima, M. J. Santos, H. Benítez, L. Montero-Moguel, & B. Galarza-Tohen (Eds.), Advances in Quantitative Ethnography (Vol. 2677, pp. 21–36). Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-12229-2_2
 - Chen, B., Cheng, J., Wang, C., & Leung, V. (2025). Pedagogical biases in AI-powered educational tools: The case of lesson plan generators. *The Social Innovations Journal*, 30. https://osf.io/preprints/osf/zqjw5_v1 or https://socialinnovationsjournal.com/index.php/sij/article/view/10004
 - Cheng, J., Wang, C., & Chen, B. (2025). Evaluating Student Agency in AI-Generated Lesson Plans. In the *Proceedings of the ICLS Conference*. ISLS: Helsinki, Finland. 
 - Chen, B. (2024, October). *Epistemic Agency and Infrastructure in the GenAI Era*. Invited lecture at the National Institute of Education, Nanyang Technological University, Singapore.

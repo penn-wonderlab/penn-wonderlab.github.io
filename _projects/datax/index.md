@@ -176,6 +176,9 @@ We are also developing a DataX platform that supports learners' computational pa
 
 ## Publications
 
+- Lisinker, R., DeLiema, D., Scharber, C., Chen, B., & Voigt, M. (2025). “Is There Anyone in This Room Who Wouldn’t Be Counted?” Pedagogy at the Intersection of History, Data Literacy, and Justice. Proceedings of the 19th International Conference of the Learning Sciences-ICLS 2025, Pp. 998-1006. https://repository.isls.org/handle/1/11831
+- Leung, V., & Chen, B. (2025). Being “Someone Actually Doing This” Work: Consequential Learning by Youth Through the Travel of People, Knowledge, and Practices. Proceedings of the 19th International Conference of the Learning Sciences-ICLS 2025, Pp. 646-654. https://repository.isls.org/handle/1/11788
+- Leung, V., Chen, B., Bartucz, J., DeLiema, D., & Scharber, C. (2025). Supporting Justice-Oriented Data Science in a Secondary Science Classroom: Pathways and Tensions. Proceedings of the 19th International Conference of the Learning Sciences-ICLS 2025, Pp. 1550-1554. https://repository.isls.org/handle/1/11315
 - Chen, B., Ma, L., & Leung, V. Y. (2025). Seeing Our World Through Data: Sixth Graders Integrating Data Investigations in Collaborative Knowledge Building. *Journal of Statistics and Data Science Education*, 1–23. https://doi.org/10.1080/26939169.2025.2505431
 - Chen, B., DeLiema, D., Scharber, C., & Bartucz, J. (2024). Supporting Learning Pathways of Justice-Oriented Data Science in Secondary Science and History Classes: Teachers’ Perspectives. In *Proceedings of the 18th International Conference of the Learning Sciences—ICLS 2024 (pp. 2243–2244)*. International Society of the Learning Sciences. https://repository.isls.org//handle/1/10956
 - Chen, B., Bartucz, J., Scharber, C., Rao, V., & DeLiema, D. (2023, April). [Toward a framework for justice-oriented data science education in K–12 schools](aera23-datax.pdf). Paper presented at the AERA Annual Meeting, Chicago, IL.
