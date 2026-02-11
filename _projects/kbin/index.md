@@ -51,6 +51,8 @@ This public repository can be used in multiple ways:
 - Download a skill and install it to Claude (and alike) to guide AI-assisted teaching
 - For tool developers, incorporate these skills in your teacher-facing tools
 
+Read [the working paper](../../file/kb-teaching-skills-paper.pdf) for details.
+
 <!-- ## KB Coach
 
 To support teachers (both pre-service and in-service) in the Network, we developed an AI tool---**KB Coach**---to support teacher learning in Knowledge Building (KB) and teacher design of KB lessons. 
