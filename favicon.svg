@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="favGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06b6d4"/>
+      <stop offset="50%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#a855f7"/>
+    </linearGradient>
+  </defs>
+  <!-- Simplified W for favicon -->
+  <path
+    d="M4 10
+       C5 17, 8 24, 12 24
+       Q16 24, 16 14
+       Q16 24, 20 24
+       C24 24, 27 17, 28 10"
+    fill="none"
+    stroke="url(#favGrad)"
+    stroke-width="3"
+    stroke-linecap="round"/>
+  <!-- Single spark -->
+  <circle cx="16" cy="6" r="2" fill="#6366f1"/>
+</svg>

@@ -10,7 +10,8 @@ jiayu:
 yuwei:
     display_name: "Yuwei Liang"
     role: grad
-    image: /img/people/placeholder.jpg
+    webpage: https://www.linkedin.com/in/yuwei-liang-a8184b291/
+    image: /img/people/yuwei.jpg
     bio: "PhD student"
 
 vivian:
@@ -18,14 +19,14 @@ vivian:
     role: grad
     webpage: https://vyleung.github.io/ 
     image:  /img/people/vivian.png
-    bio: "MSEd"
+    bio: "Researcher; Developer"
 
-amanda:
-    display_name: "Amanda Tran"
-    role: grad
-    webpage: https://github.com/mandachan-727
-    image: https://avatars.githubusercontent.com/u/85417121?v=4
-    bio: "MSEd student"
+vivian2:
+    display_name: "Vivian Leung"
+    role: developer
+    webpage: https://vyleung.github.io/ 
+    image:  /img/people/vivian.png
+    bio: "Researcher; Developer"
 
 chenw:
     display_name: "Chen Wang"
@@ -34,40 +35,67 @@ chenw:
     image:  /img/people/chenw.jpeg
     bio: "Instructional Technologist"
 
-kexin:
-    display_name: "Kexin Chen"
+szhang:
+    display_name: "Shiyang Zhang"
     role: grad
-    webpage: https://kloechen.webflow.io/
-    image:  /img/people/kchen.jpg
+    image: /img/people/shiyang.jpg
     bio: "MSEd student"
 
-ruby:
-    display_name: "Ruby Ren"
+cwang:
+    display_name: "Ruiqian Wang"
     role: grad
-    webpage: https://rubyren.me/
-    image:  /img/people/ruby.png
+    webpage: https://www.ruiqianwang.com/
+    image: /img/people/ruiqian_wang.jpeg
     bio: "MSEd student"
 
-yue:
-    display_name: "Yue Zhao"
+lsun:
+    display_name: "Weijia Lina Sun"
     role: grad
-    webpage: https://yuez.design/
-    image:  /img/people/yue.jpg
+    image: /img/people/placeholder.jpg
     bio: "MSEd student"
+
+azing:
+    display_name: "Ashley Zingillioglu"
+    role: grad
+    image: /img/people/ashley.jpg
+    bio: "MSEd student"
+
+
+sherry:
+    display_name: "Qiao Lin"
+    role: grad
+    webpage: https://www.linkedin.com/in/sherry-lin-99a460329/
+    image: /img/people/sherry.jpeg
+    bio: "MSEd student"
+
+zichen:
+    display_name: "Zichen Wang"
+    role: grad
+    webpage: https://www.linkedin.com/in/zichenwang2002/
+    image: /img/people/zichen.jpg
+    bio: "MSEd student"
+
 
 # developer
 
+yue:
+    display_name: "Yue Zhao"
+    role: alum
+    webpage: https://yuez.design/
+    image:  /img/people/yue.jpg
+    bio: "MSEd; Developer"
+
 benji:
     display_name: "Benji Encalada Mora"
-    role: developer
+    role: alum
     bio: "Lead Software Engineer"
     webpage: https://www.benji.dog/
     image: https://benji.dog/assets/photo.jpg
 
 wenxi:
     display_name: "Wenxi Chen"
-    role: developer
-    bio: "Developer"
+    role: alum
+    bio: "Undergrad Developer"
     webpage: https://github.com/wenxich
     image: https://avatars.githubusercontent.com/u/92760430?v=4
 
@@ -263,9 +291,9 @@ johnb:
 
 gaoyu:
     display_name: "Yu Gao"
-    role: vscholar
+    role: alum
     image: /img/people/placeholder.jpg
-    bio: "PhD student from CCNU"
+    bio: "Visiting PhD student from CCNU"
 
 
 alwyn:
@@ -401,9 +429,30 @@ dan:
 
 bodong:
     display_name: "Bodong Chen"
-    webpage: "https://bodong.ch/"
+    webpage: "https://bchen.net/"
     github: meefen
     role: faculty
     image: /img/people/bodong.jpg
     bio: "Associate Professor"
     
+amanda:
+    display_name: "Amanda Tran"
+    role: alum
+    webpage: https://github.com/mandachan-727
+    image: https://avatars.githubusercontent.com/u/85417121?v=4
+    bio: "MSEd student"
+
+kexin:
+    display_name: "Kexin Chen"
+    role: alum
+    webpage: https://kloechen.webflow.io/
+    image:  /img/people/kchen.jpg
+    bio: "MSEd student"
+
+ruby:
+    display_name: "Ruby Ren"
+    role: alum
+    webpage: https://rubyren.me/
+    image:  /img/people/ruby.png
+    bio: "MSEd student"
+

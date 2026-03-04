@@ -11,8 +11,8 @@ people:
   - bodong
 
 layout: project
-status: active
-priority: 4
+status: inactive
+priority: 1
 
 ---
 

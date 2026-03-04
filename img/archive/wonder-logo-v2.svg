@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Minimalist abstract W - clean geometric approach -->
+  <path
+    d="M12 28
+       L28 72
+       L50 35
+       L72 72
+       L88 28"
+    fill="none"
+    stroke="#1e293b"
+    stroke-width="7"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+  <!-- Wonder dot -->
+  <circle cx="50" cy="18" r="5" fill="#6366f1"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="wonderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1"/>
+      <stop offset="100%" style="stop-color:#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <!-- Abstract W with flowing curves suggesting wonder/curiosity -->
+  <path
+    d="M15 25
+       Q20 55, 30 70
+       Q35 78, 40 70
+       Q45 55, 50 40
+       Q55 55, 60 70
+       Q65 78, 70 70
+       Q80 55, 85 25"
+    fill="none"
+    stroke="url(#wonderGrad)"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+  <!-- Subtle sparkle/dot suggesting insight -->
+  <circle cx="50" cy="22" r="5" fill="url(#wonderGrad)" opacity="0.8"/>
+</svg>
