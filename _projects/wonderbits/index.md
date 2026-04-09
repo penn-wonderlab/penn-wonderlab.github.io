@@ -17,7 +17,7 @@ priority: 1
 
 Wonderbits is a collaborative environment for growing ideas, *bit by bit*.
 
-It is inspired by a range of digital tools, including foundational learning technologies like Knowledge Forum; recent 'tools for thought' like Obsidian and Tana; collaborative canvases like Miro, FigJam, and tldraw; and cutting-edge designs for human-AI collaboration.
+It is inspired by a range of digital tools, including foundational learning technologies like Knowledge Forum; recent 'tools for thought' like Obsidian and Tana; collaborative canvases like Miro, FigJam, and tldraw; and cutting-edge designs for human-computer interaction.
 
 The design philosophy guiding Wonderbits is to cultivate a sense of 'dwelling'—feeling genuinely at home when we wonder about ideas and try to advance them, by ourselves or with others.
 
@@ -25,7 +25,7 @@ Another important principle is that every person should have a say about how the
 
 At this stage, Wonderbits provides basic features to get everyone started, such as *space* (private & shared), *page*, *node*, *edge*, *cluster*, *semantic zoom*, *semantic clusters* (automatically computed), *document* view, etc. It also has a range of advanced features, such as dynamic views, levels, Thinking Lab, for those who are eager for more.
 
-Wonderbits is already equipped with several 'AI helpers'—Glint, Buzz, Shimmer, and Pip—each with distinct talents that inject 'old AI' (deterministic analytics) into 'new AI' workflows (stochastic, generative). But the ultimate goal is that students and educators should be able to build their own AI helpers.
+<!-- Wonderbits is already equipped with several 'AI helpers'—Glint, Buzz, Shimmer, and Pip—each with distinct talents that inject 'old AI' (deterministic analytics) into 'new AI' workflows (stochastic, generative). But the ultimate goal is that students and educators should be able to build their own AI helpers. -->
 
 This is only the beginning.
 
@@ -50,4 +50,4 @@ Get started with Wonderbits through our step-by-step guides.
 3. [Filters and Lenses](tutorials/part2-3-views-and-filters/) — Filter by type, search, and save custom lenses
 4. [Document View](tutorials/part2-4-document-view/) — Create stories and share your thinking
 
-*More tutorials coming soon: Collaboration, AI Helpers, and Thinking Lab.*
+*More tutorials coming soon: Collaboration, Thinking Lab, and more.*
