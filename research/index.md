@@ -3,7 +3,7 @@ layout: default
 title: Research Projects
 ---
 
-Penn Wonder Lab members hold various research interests. We design innovative digital learning environments, develop analytic applications, and conduct collaborative research in various learning contexts.
+Penn GSE Wonder Lab members hold various research interests. We design innovative digital learning environments, develop analytic applications, and conduct collaborative research in various learning contexts.
 
 ### Active Projects
 
