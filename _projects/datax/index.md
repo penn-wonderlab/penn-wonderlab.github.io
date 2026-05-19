@@ -1,6 +1,6 @@
 ---
 title: "DataX: Justice-Oriented Data Science Ed"
-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/NSF_logo.png/220px-NSF_logo.png
+image: "../img/NSF_logo.svg.png"
 description: | 
   Integrating justice-oriented data science in secondary science and social studies
 layout: project
