@@ -15,14 +15,12 @@ role_remain:
 
 ---
 
-<h2>Penn GSE Wonder Lab</h2>
-
 <div class="jumbotron">
     <img src="img/wonder-logo.svg" width="120px" alt="Wonder Lab">
   <h3>
       <b>Sparking wonder. Advancing learning.</b>
   </h3>
-  <p><big>Learning begins with wonder. We build tools and conduct research that help learners and educators cultivate curiosity, collaborate meaningfully, and grow—bit by bit.</big></p>
+  <p><big>Learning begins with wonder. At Penn GSE Wonder Lab, we build tools and conduct research that help learners and educators cultivate curiosity, collaborate meaningfully, and grow.</big></p>
     <!-- <br> -->
     <!-- <h4> The central question we ask is: <i>How can we better support human wonderment in various contexts of learning?</i></h4> -->
   <!-- <p>Please get in touch if you're interested in joining the Group!</p> -->
@@ -92,7 +90,12 @@ role_remain:
     <div class="col-md-12">
         {% for role in site.roles %}
         {% if grp contains role.key %}
+            {% if role.key == 'alum' %}
+            <details class="people-details">
+                <summary><h3>{{ role.name }}</h3></summary>
+            {% else %}
             <h3>{{ role.name }}</h3>
+            {% endif %}
             <ul class="people {{role.key}}">
             {% for item in site.data.people %}
                 {% assign person = item[1] %}
@@ -103,7 +106,10 @@ role_remain:
                 </li>
                 {% endif %}
             {% endfor %}
-            </dl>
+            </ul>
+            {% if role.key == 'alum' %}
+            </details>
+            {% endif %}
         {% endif %}
         {% endfor %}
     </div>

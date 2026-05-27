@@ -255,10 +255,33 @@ ul.project-people {
     padding-bottom: 10px;
 }
 
-/* Sampa logo */
+.people-details summary {
+    align-items: center;
+}
+
+.people-details summary h3 {
+    margin-right: 0.4em;
+}
+
+.people-details summary::after {
+    content: "\f078";
+    font-family: FontAwesome;
+    color: $dark-gray;
+    font-size: 0.8em;
+    position: relative;
+    top: 0.15em;
+    transition: transform 0.2s;
+}
+
+.people-details[open] summary::after {
+    transform: rotate(180deg);
+}
+
+/* Header logo */
 #logo {
-    width: 48px;
-    height: 48px;
+    height: 56px;
+    width: auto;
+    max-width: 70vw;
     margin: 2px 0 8px 0;
 }
 
@@ -273,7 +296,24 @@ ul.project-people {
 
   /* Space out the masthead */
   .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
     margin-bottom: 30px;
+  }
+
+  .header .pull-right {
+    float: none !important;
+  }
+
+  .header .nav-pills {
+    flex: 0 0 auto;
+  }
+
+  #logo {
+    height: 70px;
+    max-width: 320px;
   }
 
   /* Remove the bottom border on the jumbotron for visual effect */

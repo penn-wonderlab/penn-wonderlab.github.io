@@ -7,3 +7,9 @@ It's based on this [research group website template](https://github.com/uwsampa/
 
 [Jekyll]: http://jekyllrb.com/
 [bibble]: https://github.com/sampsyo/bibble/
+
+To test locally, run:
+
+```
+bundle exec jekyll serve
+```
