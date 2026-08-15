@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Advanced Node Types"
 description: "Learn about Ground, Synthesis, and Draw nodes for deeper thinking and visual expression."
-nav_order: 6
+nav_order: 7
 parent: "Part 2: Organizing Your Thinking"
 ---
 
@@ -164,4 +164,3 @@ In this section, you learned about three advanced node types:
 3. **Draw Nodes** - For visual thinking, sketches, and diagrams
 
 Next, you'll learn about **organizing your ideas** using clusters, pages, and views.
-

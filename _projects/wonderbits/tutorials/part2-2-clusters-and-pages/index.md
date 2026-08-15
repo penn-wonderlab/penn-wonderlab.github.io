@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Clusters and Pages"
 description: "Learn how to organize your ideas using clusters for grouping and pages for larger projects."
-nav_order: 7
+nav_order: 8
 parent: "Part 2: Organizing Your Thinking"
 ---
 
@@ -192,4 +192,3 @@ In this section, you learned about two organizational tools:
 
 
 Next, you'll learn about **views and filters** to focus on specific parts of your thinking.
-

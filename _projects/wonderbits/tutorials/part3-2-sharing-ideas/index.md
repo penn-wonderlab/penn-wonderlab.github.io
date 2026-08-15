@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Sharing Ideas"
 description: "Learn how to comment on ideas, share between spaces, and import ideas from others."
-nav_order: 11
+nav_order: 10
 parent: "Part 3: Collaboration"
 ---
 
@@ -199,4 +199,3 @@ In this section, you learned about sharing and collaboration:
 
 
 **Congratulations!** You've completed Part 3 of the Wonderbits tutorial. You now know how to collaborate effectively using class spaces, comments, and sharing. In Part 4, you'll learn about the **AI Assistants** that can help guide your thinking.
-

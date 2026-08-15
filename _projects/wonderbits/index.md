@@ -42,7 +42,12 @@ Watch short screen recordings, about a minute each, to learn about Wonderbits.
 3. [Connecting Ideas](tutorials/part1-3-connecting-ideas/) — Building on a card, connecting two cards, and saying why
 4. [Synthesis](tutorials/part1-4-synthesis/) — Pulling several ideas into one account of what they add up to
 
-*Parts 2–5 — class spaces, filters and views, the inspect tray, zooming out, landmarks, and rise above — are being recorded now.*
+### Part 2: Working Together
+
+1. [Your Class Space](tutorials/part2-1-your-class-space/) — Personal versus shared spaces, and seeing who's working alongside you
+2. [Reading and Responding](tutorials/part2-2-reading-and-responding/) — Reactions, marking promising, comments, and when a response earns its own card
+
+*More on the way — filters and views, the inspect tray, zooming out, landmarks, and rise above.*
 
 ### Older written guides
 
@@ -51,5 +56,4 @@ These predate the clips above and describe some screens that have since changed.
 - [Advanced Node Types](tutorials/part2-1-advanced-node-types/) — Ground, Synthesis, and Draw nodes
 - [Clusters and Pages](tutorials/part2-2-clusters-and-pages/) — Grouping related ideas and organizing larger projects
 - [Filters and Lenses](tutorials/part2-3-views-and-filters/) — Filter by type, search, and save custom lenses
-- [Class Spaces](tutorials/part3-1-class-spaces/) — Working in a shared space
-- [Sharing Ideas](tutorials/part3-2-sharing-ideas/) — Collaborating with classmates
+- [Sharing Ideas](tutorials/part3-2-sharing-ideas/) — Sending and copying ideas between spaces, references, and importing
