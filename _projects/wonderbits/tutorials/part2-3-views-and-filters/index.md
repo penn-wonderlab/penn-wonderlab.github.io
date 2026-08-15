@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Filters and Lenses"
 description: "Learn how to filter ideas by type, save custom lenses, and search across your canvas."
-nav_order: 9
+nav_order: 12
 parent: "Part 2: Organizing Your Thinking"
 ---
 

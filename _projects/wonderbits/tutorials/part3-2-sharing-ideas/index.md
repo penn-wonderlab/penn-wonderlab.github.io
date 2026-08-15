@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Sharing Ideas"
 description: "Learn how to comment on ideas, share between spaces, and import ideas from others."
-nav_order: 10
+nav_order: 13
 parent: "Part 3: Collaboration"
 ---
 
