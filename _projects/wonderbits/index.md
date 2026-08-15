@@ -29,25 +29,27 @@ At this stage, Wonderbits provides basic features to get everyone started, such 
 
 This is only the beginning.
 
-> Wonderbits is in early alpha. If you're interested in joining the waiting list, please simply email [our team](wonderbits7@gmail.com).
+> Wonderbits is in beta testing. If you're interested in joining the waiting list, please drop a line to [the project team](wonderbits7@gmail.com).
 
-## Tutorials
+## Video Tutorials
 
-Get started with Wonderbits through our step-by-step guides.
+Watch short screen recordings, about a minute each, to learn about Wonderbits.
 
 ### Part 1: Getting Started
 
-1. [First Steps](tutorials/part1-1-first-steps/) — Your home screen, personal space, and entering the canvas
-2. [Ideas & Node Types](tutorials/part1-2-ideas-and-node-types/) — Creating nodes, understanding types (Wonder, Claim, Bit, etc.)
-3. [Connecting Ideas](tutorials/part1-3-connecting-ideas/) — Creating connections and using Build-On
-4. [Canvas Navigation](tutorials/part1-4-canvas-navigation/) — Pan, zoom, selection, and semantic zoom levels
-5. [Document View](tutorials/part1-5-document-view/) — Switching between Canvas and Document views
+1. [First Steps](tutorials/part1-1-first-steps/) — Joining a space, moving around the canvas, adding your first idea
+2. [Card Types](tutorials/part1-2-card-types/) — The six built-in types, and changing a card's type as your thinking changes
+3. [Connecting Ideas](tutorials/part1-3-connecting-ideas/) — Building on a card, connecting two cards, and saying why
+4. [Synthesis](tutorials/part1-4-synthesis/) — Pulling several ideas into one account of what they add up to
 
-### Part 2: Organizing Your Thinking
+*Parts 2–5 — class spaces, filters and views, the inspect tray, zooming out, landmarks, and rise above — are being recorded now.*
 
-1. [Advanced Node Types](tutorials/part2-1-advanced-node-types/) — Ground, Synthesis, and Draw nodes for deeper thinking
-2. [Clusters and Pages](tutorials/part2-2-clusters-and-pages/) — Grouping related ideas and organizing larger projects
-3. [Filters and Lenses](tutorials/part2-3-views-and-filters/) — Filter by type, search, and save custom lenses
-4. [Document View](tutorials/part2-4-document-view/) — Create stories and share your thinking
+### Older written guides
 
-*More tutorials coming soon: Collaboration, Thinking Lab, and more.*
+These predate the clips above and describe some screens that have since changed. They'll be replaced as their clips land.
+
+- [Advanced Node Types](tutorials/part2-1-advanced-node-types/) — Ground, Synthesis, and Draw nodes
+- [Clusters and Pages](tutorials/part2-2-clusters-and-pages/) — Grouping related ideas and organizing larger projects
+- [Filters and Lenses](tutorials/part2-3-views-and-filters/) — Filter by type, search, and save custom lenses
+- [Class Spaces](tutorials/part3-1-class-spaces/) — Working in a shared space
+- [Sharing Ideas](tutorials/part3-2-sharing-ideas/) — Collaborating with classmates

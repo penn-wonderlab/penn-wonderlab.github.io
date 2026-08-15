@@ -219,6 +219,97 @@ ul.project-people {
     box-shadow: 2px 2px 3px #999;
 }
 
+.tutorial-nav {
+    margin: 1.5rem 0;
+
+    a:hover {
+        text-decoration: none;
+    }
+}
+
+.tutorial-nav--top {
+    margin-bottom: 0.25rem;
+}
+
+.tutorial-nav__back {
+    display: inline-block;
+    color: #555;
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+.tutorial-nav__back:hover {
+    color: $link-color;
+}
+
+.tutorial-nav__row {
+    display: flex;
+    gap: 0.75rem;
+    justify-content: space-between;
+    padding-top: 1rem;
+    border-top: $default-rule;
+}
+
+.tutorial-nav__button {
+    display: flex;
+    flex: 1 1 0;
+    min-width: 0;
+    min-height: 4.25rem;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0.75rem 1rem;
+    border: 1px solid #d7e0e6;
+    border-radius: 8px;
+    background: #f7fafb;
+    color: #1f4f63;
+}
+
+.tutorial-nav__button span {
+    color: #667;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.tutorial-nav__button strong {
+    display: block;
+    margin-top: 0.15rem;
+    overflow-wrap: anywhere;
+    color: #183746;
+    font-size: 1rem;
+    line-height: 1.25;
+}
+
+.tutorial-nav__button--prev {
+    text-align: left;
+}
+
+.tutorial-nav__button--home {
+    flex: 0 1 9rem;
+    align-items: center;
+    text-align: center;
+    background: #fff;
+}
+
+.tutorial-nav__button--next {
+    text-align: right;
+}
+
+.tutorial-nav__button:not(.tutorial-nav__button--disabled):hover {
+    border-color: $link-color;
+    background: #eef8fb;
+}
+
+.tutorial-nav__button--disabled {
+    color: #888;
+    opacity: 0.45;
+}
+
+.tutorial-nav__button--disabled strong,
+.tutorial-nav__button--disabled span {
+    color: #777;
+}
+
 /* Customize container */
 @media (min-width: 768px) {
     .container {
@@ -236,6 +327,18 @@ ul.project-people {
 
 @media (max-width: 550px) {
     .card-columns { @include columns(1); }
+
+    .tutorial-nav__row {
+        flex-direction: column;
+    }
+
+    .tutorial-nav__button,
+    .tutorial-nav__button--home,
+    .tutorial-nav__button--next {
+        align-items: flex-start;
+        flex-basis: auto;
+        text-align: left;
+    }
 }
 
 .container-narrow > hr {

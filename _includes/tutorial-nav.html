@@ -1,0 +1,62 @@
+{% assign tutorial_root = '/projects/wonderbits/tutorials/' %}
+{% assign nav_position = include.position | default: 'bottom' %}
+
+{% if page.url contains tutorial_root %}
+  {% assign tutorial_pages = site.projects | sort: 'nav_order' %}
+  {% assign previous_tutorial = false %}
+  {% assign next_tutorial = false %}
+  {% assign found_current = false %}
+
+  {% for tutorial in tutorial_pages %}
+    {% if tutorial.url contains tutorial_root and tutorial.nav_order %}
+      {% if found_current %}
+        {% unless next_tutorial %}
+          {% assign next_tutorial = tutorial %}
+        {% endunless %}
+      {% elsif tutorial.url == page.url %}
+        {% assign found_current = true %}
+      {% else %}
+        {% assign previous_tutorial = tutorial %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  <nav class="tutorial-nav tutorial-nav--{{ nav_position }}" aria-label="Wonderbits tutorial navigation">
+    {% if nav_position == 'top' %}
+      <a class="tutorial-nav__back" href="{{ site.base }}/projects/wonderbits/#video-tutorials">&larr; Back to Tutorials</a>
+    {% else %}
+      <div class="tutorial-nav__row">
+        {% if previous_tutorial %}
+          {% assign previous_tutorial_url = previous_tutorial.url | replace: '/index', '/' %}
+          <a class="tutorial-nav__button tutorial-nav__button--prev" href="{{ site.base }}{{ previous_tutorial_url }}">
+            <span>Previous Page</span>
+            <strong>{{ previous_tutorial.title }}</strong>
+          </a>
+        {% else %}
+          <span class="tutorial-nav__button tutorial-nav__button--prev tutorial-nav__button--disabled">
+            <span>Previous Page</span>
+            <strong>Start</strong>
+          </span>
+        {% endif %}
+
+        <a class="tutorial-nav__button tutorial-nav__button--home" href="{{ site.base }}/projects/wonderbits/#video-tutorials">
+          <span>Back</span>
+          <strong>Tutorials</strong>
+        </a>
+
+        {% if next_tutorial %}
+          {% assign next_tutorial_url = next_tutorial.url | replace: '/index', '/' %}
+          <a class="tutorial-nav__button tutorial-nav__button--next" href="{{ site.base }}{{ next_tutorial_url }}">
+            <span>Next Page</span>
+            <strong>{{ next_tutorial.title }}</strong>
+          </a>
+        {% else %}
+          <span class="tutorial-nav__button tutorial-nav__button--next tutorial-nav__button--disabled">
+            <span>Next Page</span>
+            <strong>End</strong>
+          </span>
+        {% endif %}
+      </div>
+    {% endif %}
+  </nav>
+{% endif %}

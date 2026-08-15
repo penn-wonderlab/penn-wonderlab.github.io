@@ -5,9 +5,16 @@ layout: base
 {% comment %}Liquid is sort of terrible! I think "!= true" is the
 only way to do negation?{% endcomment %}
 {% if page.notitle != true %}
+  {% if page.url contains '/projects/wonderbits/tutorials/' %}
+    {% include tutorial-nav.html position='top' %}
+  {% endif %}
   <h2>{{ page.title }}</h2>
 {% endif %}
           
 <div class="content">
 {{ content }}
 </div>
+
+{% if page.url contains '/projects/wonderbits/tutorials/' %}
+  {% include tutorial-nav.html position='bottom' %}
+{% endif %}
