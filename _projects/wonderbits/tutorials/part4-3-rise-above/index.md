@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Rise Above"
 description: "Distil what the class worked out into a new level — and step back down whenever you want the detail."
-nav_order: 12
+nav_order: 13
 parent: "Part 4: Working Across Levels"
 ---
 

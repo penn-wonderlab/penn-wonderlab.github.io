@@ -14,8 +14,6 @@ In a class space, progress comes from engaging with each other's ideas rather th
   Your browser can't play this video — <a href="clip.mp4">download it</a> instead.
 </video>
 
-*1:40 — captions are burned in, so it reads fine with the sound off.*
-
 ## In this clip
 
 - **React** — the markers name what an idea did for your thinking; they aren't likes

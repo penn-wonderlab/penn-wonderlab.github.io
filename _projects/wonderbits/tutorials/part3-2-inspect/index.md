@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Inspect"
 description: "Gather a filtered set below the canvas and read it three ways — as cards, as an outline, or as a sortable table."
-nav_order: 8
+nav_order: 9
 parent: "Part 3: Finding What Matters"
 ---
 

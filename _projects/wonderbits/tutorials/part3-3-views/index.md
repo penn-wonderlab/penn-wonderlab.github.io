@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Views"
 description: "Save a filter combination you'll want again, and share it with the class."
-nav_order: 9
+nav_order: 10
 parent: "Part 3: Finding What Matters"
 ---
 

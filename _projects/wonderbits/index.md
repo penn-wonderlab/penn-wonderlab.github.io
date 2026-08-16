@@ -46,6 +46,7 @@ Watch short screen recordings, about a minute each, to learn about Wonderbits.
 
 1. [Your Class Space](tutorials/part2-1-your-class-space/) — Personal versus shared spaces, and seeing who's working alongside you
 2. [Reading and Responding](tutorials/part2-2-reading-and-responding/) — Reactions, marking promising, comments, and build-ons
+3. [Chat Channels](tutorials/part2-3-chat-channels/) — Public, real-time channels beside the canvas, mentions, and topic channels from tags
 
 ### Part 3: Finding What Matters
 

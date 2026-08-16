@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Zooming"
 description: "Engage, scan and map — and why a few ideas keep their text when you pull right back."
-nav_order: 10
+nav_order: 11
 parent: "Part 4: Working Across Levels"
 ---
 

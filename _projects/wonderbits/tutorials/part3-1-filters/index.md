@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Filters"
 description: "Narrow a busy space to the cards you need — by type, tag, time, author, or reaction."
-nav_order: 7
+nav_order: 8
 parent: "Part 3: Finding What Matters"
 ---
 

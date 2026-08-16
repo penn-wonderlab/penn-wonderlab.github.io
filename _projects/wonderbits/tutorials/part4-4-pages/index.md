@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Pages"
 description: "A space can hold as many pages as a class needs — each with its own canvas, groups and levels."
-nav_order: 13
+nav_order: 14
 parent: "Part 4: Working Across Levels"
 ---
 
@@ -13,8 +13,6 @@ Everything in the clips so far has happened on a single page. A space can hold a
   <source src="clip.mp4" type="video/mp4">
   Your browser can't play this video — <a href="clip.mp4">download it</a> instead.
 </video>
-
-*1:15 — captions are burned in, so it reads fine with the sound off.*
 
 ## In this clip
 

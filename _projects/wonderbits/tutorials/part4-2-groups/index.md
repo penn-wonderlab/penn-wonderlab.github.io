@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Groups and Clusters"
 description: "Two ways a space gets organised: the groups you draw, and the clusters that form themselves."
-nav_order: 11
+nav_order: 12
 parent: "Part 4: Working Across Levels"
 ---
 
