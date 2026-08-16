@@ -15,21 +15,19 @@ priority: 1
 
 ## About
 
-Wonderbits is a collaborative environment for growing ideas, *bit by bit*.
+Wonderbits is a collaborative environment for growing ideas, *bit by bit*. It gives a class a shared canvas where questions, claims, evidence, sketches, and syntheses can be written, connected, revisited, and reorganized as understanding develops.
 
-It is inspired by a range of digital tools, including foundational learning technologies like Knowledge Forum; recent 'tools for thought' like Obsidian and Tana; collaborative canvases like Miro, FigJam, and tldraw; and cutting-edge designs for human-computer interaction.
+Its lineage includes knowledge-building environments like Knowledge Forum, newer tools for thought such as Obsidian and Tana, collaborative canvases like Miro, FigJam, and tldraw, and current work in human-computer interaction. The goal is to make a place where thinking together can feel natural, legible, and alive.
 
-The design philosophy guiding Wonderbits is to cultivate a sense of 'dwelling'—feeling genuinely at home when we wonder about ideas and try to advance them, by ourselves or with others.
+The design philosophy behind Wonderbits is *dwelling*: helping people feel at home with their ideas as they wonder, build, revise, and advance them, whether alone or with others. That means the environment should adapt to the ways people work, not force everyone into one workflow. Participants are not just users of Wonderbits; they are *designers*, *builders*, and *architects* of their own knowledge-building environments.
 
-Another important principle is that every person should have a say about how they work with their ideas and peers—in other words, 'infrastructure' their own knowledge building environments—so Wonderbits needs to adapt to them, rather than the other way around. People who dwell in Wonderbits are not *users*, but *designers*, *builders*, and *architects* who take an active role in shaping their environments.
-
-At this stage, Wonderbits provides basic features to get everyone started, such as *space* (private & shared), *page*, *node*, *edge*, *cluster*, *semantic zoom*, *semantic clusters* (automatically computed), *document* view, etc. It also has a range of advanced features, such as dynamic views, levels, Thinking Lab, for those who are eager for more.
+At this stage, Wonderbits includes the basics for collaborative knowledge building: private and shared spaces, pages, idea cards, links, groups, filters, saved views, semantic zoom, semantic clusters, and inspection views. It also supports more advanced work through rise-above levels and Thinking Lab, with more features under development.
 
 <!-- Wonderbits is already equipped with several 'AI helpers'—Glint, Buzz, Shimmer, and Pip—each with distinct talents that inject 'old AI' (deterministic analytics) into 'new AI' workflows (stochastic, generative). But the ultimate goal is that students and educators should be able to build their own AI helpers. -->
 
-This is only the beginning.
+<!-- This is only the beginning. -->
 
-> Wonderbits is in beta testing. If you're interested in joining the waiting list, please drop a line to [the project team](mailto:wonderbits7@gmail.com).
+**Wonderbits is in *beta* testing. If you're interested, please [email our team](mailto:wonderbits7@gmail.com) to join the waitlist.**
 
 ## Video Tutorials
 
@@ -62,4 +60,3 @@ Watch short screen recordings, about a minute each, to learn about Wonderbits.
 4. [Pages](tutorials/part4-4-pages/) — Several working surfaces in one space, each with its own canvas and levels
 
 *More on the way — working with AI, space settings, teacher dashboard.*
-
