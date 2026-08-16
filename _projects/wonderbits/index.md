@@ -15,7 +15,7 @@ priority: 1
 
 ## About
 
-Wonderbits is a collaborative environment for growing ideas, *bit by bit*. It gives a class a shared canvas where questions, claims, evidence, sketches, and syntheses can be written, connected, revisited, and reorganized as understanding develops.
+[Wonderbits](https://www.wonderbits.org/) is a collaborative environment for growing ideas, *bit by bit*. It gives a class a shared canvas where questions, claims, evidence, sketches, and syntheses can be written, connected, revisited, and reorganized as understanding develops.
 
 Its lineage includes knowledge-building environments like Knowledge Forum, newer tools for thought such as Obsidian and Tana, collaborative canvases like Miro, FigJam, and tldraw, and current work in human-computer interaction. The goal is to make a place where thinking together can feel natural, legible, and alive.
 
@@ -29,9 +29,11 @@ At this stage, Wonderbits includes the basics for collaborative knowledge buildi
 
 **Wonderbits is in *beta* testing. If you're interested, please [email our team](mailto:wonderbits7@gmail.com) to join the waitlist.**
 
-## Video Tutorials
+---
 
-Watch short screen recordings, about a minute each, to learn about Wonderbits.
+## Tutorials
+
+Watch short screen recordings (~1 minute each), to learn about Wonderbits.
 
 ### Part 1: Getting Started
 
