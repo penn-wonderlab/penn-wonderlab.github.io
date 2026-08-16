@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Advanced Node Types"
 description: "Learn about Ground, Synthesis, and Draw nodes for deeper thinking and visual expression."
-nav_order: 10
+nav_order: 14
 parent: "Part 2: Organizing Your Thinking"
 ---
 

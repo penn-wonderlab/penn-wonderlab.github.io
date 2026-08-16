@@ -3,7 +3,7 @@ layout: default
 project: false
 title: "Clusters and Pages"
 description: "Learn how to organize your ideas using clusters for grouping and pages for larger projects."
-nav_order: 11
+nav_order: 15
 parent: "Part 2: Organizing Your Thinking"
 ---
 

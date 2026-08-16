@@ -29,7 +29,7 @@ At this stage, Wonderbits provides basic features to get everyone started, such 
 
 This is only the beginning.
 
-> Wonderbits is in beta testing. If you're interested in joining the waiting list, please drop a line to [the project team](wonderbits7@gmail.com).
+> Wonderbits is in beta testing. If you're interested in joining the waiting list, please drop a line to [the project team](mailto:wonderbits7@gmail.com).
 
 ## Video Tutorials
 
@@ -45,7 +45,7 @@ Watch short screen recordings, about a minute each, to learn about Wonderbits.
 ### Part 2: Working Together
 
 1. [Your Class Space](tutorials/part2-1-your-class-space/) — Personal versus shared spaces, and seeing who's working alongside you
-2. [Reading and Responding](tutorials/part2-2-reading-and-responding/) — Reactions, marking promising, comments, and when a response earns its own card
+2. [Reading and Responding](tutorials/part2-2-reading-and-responding/) — Reactions, marking promising, comments, and build-ons
 
 ### Part 3: Finding What Matters
 
@@ -53,13 +53,12 @@ Watch short screen recordings, about a minute each, to learn about Wonderbits.
 2. [Inspect](tutorials/part3-2-inspect/) — Reading a filtered set as cards, an outline, or a sortable table
 3. [Views](tutorials/part3-3-views/) — Saving a filter combination you'll want again, and sharing it with the class
 
-*More on the way — zooming out, landmarks, and rise above.*
+### Part 4: Moving Across Levels
 
-### Older written guides
+1. [Zooming](tutorials/part4-1-zooming/) — Engage, scan and map, and the landmarks that survive at a distance
+2. [Groups and Clusters](tutorials/part4-2-groups/) — The groups you draw, and the clusters that form themselves
+3. [Rise Above](tutorials/part4-3-rise-above/) — Distilling what the class worked out into a new level
+4. [Pages](tutorials/part4-4-pages/) — Several working surfaces in one space, each with its own canvas and levels
 
-These predate the clips above and describe some screens that have since changed. They'll be replaced as their clips land.
+*More on the way — working with AI, space settings, teacher dashboard.*
 
-- [Advanced Node Types](tutorials/part2-1-advanced-node-types/) — Ground, Synthesis, and Draw nodes
-- [Clusters and Pages](tutorials/part2-2-clusters-and-pages/) — Grouping related ideas and organizing larger projects
-- [Search and Focus Mode](tutorials/part2-3-views-and-filters/) — Searching a space, and focusing on one idea's neighbourhood
-- [Sharing Ideas](tutorials/part3-2-sharing-ideas/) — Sending and copying ideas between spaces, references, and importing
