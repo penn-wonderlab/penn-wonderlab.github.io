@@ -27,7 +27,7 @@ At this stage, Wonderbits includes the basics for collaborative knowledge buildi
 
 <!-- This is only the beginning. -->
 
-**Wonderbits is in *beta* testing. If you're interested, please [email our team](mailto:wonderbits7@gmail.com) to join the waitlist.**
+**Wonderbits is in *beta* testing. If you're interested in using in your class, please [join the waitlist](https://docs.google.com/forms/d/e/1FAIpQLScG1pjmIJfYgPfkLLZNZ3cekVz56IlllhKWu1LIcSSKFS10gA/viewform).**
 
 ---
 
