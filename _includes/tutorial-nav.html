@@ -7,8 +7,20 @@
   {% assign next_tutorial = false %}
   {% assign found_current = false %}
 
+  {% comment %}
+    Two tracks, stepped through separately. Parts 1-4 are the student arc; the
+    For Teachers pages are about running a class rather than working in one, and
+    a student reading to the end of the arc should reach the end of it, not
+    "appointing a teaching assistant". nav_order stays a single running sequence
+    over the whole collection, so the tracks are told apart by `parent` here.
+  {% endcomment %}
+  {% assign track = 'student' %}
+  {% if page.parent == 'For Teachers' %}{% assign track = 'teacher' %}{% endif %}
+
   {% for tutorial in tutorial_pages %}
-    {% if tutorial.url contains tutorial_root and tutorial.nav_order %}
+    {% assign tutorial_track = 'student' %}
+    {% if tutorial.parent == 'For Teachers' %}{% assign tutorial_track = 'teacher' %}{% endif %}
+    {% if tutorial.url contains tutorial_root and tutorial.nav_order and tutorial_track == track %}
       {% if found_current %}
         {% unless next_tutorial %}
           {% assign next_tutorial = tutorial %}

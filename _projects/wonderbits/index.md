@@ -33,7 +33,7 @@ At this stage, Wonderbits includes the basics for collaborative knowledge buildi
 
 ## Tutorials
 
-Watch short screen recordings (~1 minute each), to learn about Wonderbits.
+Watch short screen recordings (~1 minute each), to learn about Wonderbits. If you're setting up a class rather than working in one, skip to [For Teachers](#for-teachers).
 
 ### Part 1: Getting Started
 
@@ -61,4 +61,12 @@ Watch short screen recordings (~1 minute each), to learn about Wonderbits.
 3. [Rise Above](tutorials/part4-3-rise-above/) — Distilling what the class worked out into a new level
 4. [Pages](tutorials/part4-4-pages/) — Several working surfaces in one space, each with its own canvas and levels
 
-*More on the way — working with AI, space settings, teacher dashboard.*
+*More on the way — working with AI.*
+
+### For Teachers
+
+The work around a canvas rather than on one. Nothing here is needed to take part in a class.
+
+1. [Setting Up a Class Space](tutorials/teacher-1-setting-up/) — Creating the space, the invite link, and making a co-teacher a manager
+
+*More on the way — custom card types and canvas features, and reading a class with Insights.*
