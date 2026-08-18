@@ -68,5 +68,6 @@ Watch short screen recordings (~1 minute each), to learn about Wonderbits. If yo
 The work around a canvas rather than on one. Nothing here is needed to take part in a class.
 
 1. [Setting Up a Class Space](tutorials/teacher-1-setting-up/) — Creating the space, the invite link, and making a co-teacher a manager
+2. [Card Types and Canvas Features](tutorials/teacher-2-card-types-and-features/) — The card types your subject uses, and what the canvas asks students to notice
 
-*More on the way — custom card types and canvas features, and reading a class with Insights.*
+*More on the way — reading a class with Insights.*
