@@ -51,5 +51,6 @@ CraftPad v1.0 was piloted with a group of teachers striving to incorporate Knowl
 
 ## Publications
 
+- Cheng, J., Leung, V., Zhang, S., & Chen, B. (2026). [*CraftPad: Sustaining Teacher Professional Judgment in Human-AI Collaborative Lesson Design*](https://open-aied.github.io/HAI-Agency/). In the *Proceedings of HAI-Agency Workshop on Orchestrating Human and AI Agency for Proactive and Reflective Learning at AIED 2026*, Seoul, Republic of Korea. Proceedings forthcoming.
 - Cheng, J., Gao, Y., Liu, X., Barany, A., & Chen, B. (2026). Educators’ AI Journey: Developing AI Competencies in a Professional Development Program. In G. Carmona, C. Lima, M. J. Santos, H. Benítez, L. Montero-Moguel, & B. Galarza-Tohen (Eds.), Advances in Quantitative Ethnography (Vol. 2677, pp. 21–36). Springer Nature Switzerland. https://doi.org/10.1007/978-3-032-12229-2_2
 - Chen, B. (2025). *Beyond Tools: Generative AI as Epistemic Infrastructure in Education* (No. arXiv:2504.06928). arXiv. https://doi.org/10.48550/arXiv.2504.06928

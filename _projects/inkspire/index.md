@@ -30,6 +30,10 @@ The project integrates established disciplinary literacy frameworks with AI capa
 pilot study in college-level science classrooms, we will investigate how this AI-enhanced approach
 affects instructors' design practices and students' reading engagement, skills, and dispositions.
 
+## Publications
+
+- Liang, Y., Wang, R., & Chen, B. (2026). [*InkSpire: An LLM-Powered System for Designing and Generating Disciplinarily Aligned and Context-Aware Reading Scaffolds*](https://ceur-ws.org/Vol-4231/itb26_s3s2.pdf). In the *Proceedings of the Seventh International Workshop on Intelligent Textbooks 2026*, Seoul, Republic of Korea, pp. 51-59.
+
 ### Acknowledgement
 
 This project is funded by the Alfred P. Sloan Foundation (#G-2025-25241).
