@@ -1,0 +1,133 @@
+<!doctype html>
+<!--
+  WonderBits newsletter — reusable shell.
+
+  HOW TO REUSE: everything between BODY START and BODY END is the issue. Everything outside it
+  (header, footer, wrapper tables) stays put from issue to issue. Copy this file to
+  _projects/wonderbits/newsletters/<yyyy-mm>-<slug>.html, rewrite the body, send.
+
+  THE SENT FILE *IS* THE ARCHIVE. That copy has no Jekyll front matter, so the site serves it
+  verbatim as a static file — which means "View in browser" can never drift from what actually
+  landed in the inbox. Do not make a second Markdown version of an issue.
+
+  WHY IT LOOKS LIKE 2005: email clients are not browsers. Tables for layout, every style
+  inline, no flexbox/grid, no <style> block, no webfonts, no background images. Gmail's web
+  client supports more than this, but Outlook, Apple Mail and the Gmail Android app do not all
+  agree, and a table renders identically in every one of them.
+
+  {{first_name}}, {{web_url}}, {{sender_email}} and {{lab_address}} are substituted by send.gs.
+  Leave them exactly as written — and set WEB_URL before sending, or the "View in browser" link
+  goes nowhere.
+-->
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WonderBits</title>
+</head>
+<body style="margin:0; padding:0; background-color:#f8f9fa;">
+
+<!-- Preheader: the grey line Gmail shows after the subject in the inbox list. Without one,
+     Gmail scrapes the first words of the body, which is usually "Hi {{first_name}}". -->
+<div style="display:none; max-height:0; overflow:hidden; opacity:0; color:transparent; height:0; width:0;">
+  A check-in, the Send feedback button, Class Insights, and what to do when the canvas fills up.
+</div>
+
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f8f9fa;">
+<tr>
+<td align="center" style="padding:24px 12px;">
+
+  <!-- Outlook ignores max-width, so it gets a fixed 600px cage of its own. Everyone else uses
+       the fluid table below, which is width="100%" + max-width — NOT width="600". A table with a
+       600 width ATTRIBUTE refuses to shrink under it, and the message scrolls sideways on a
+       phone, which is where most of this list will read it. -->
+  <!--[if mso]><table role="presentation" width="600" align="center" cellpadding="0" cellspacing="0" border="0"><tr><td><![endif]-->
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width:600px; background-color:#ffffff; border:1px solid #e9ecef; border-radius:12px;">
+
+    <!-- ── Wordmark. Text, not an image: Gmail hides images by default for senders who are not
+         already in the contact list, and a masthead nobody sees is worse than a plain one. The
+         app's gradient ✧ can't survive email (background-clip is stripped), so it takes the
+         green from that gradient and the ':' takes the red. -->
+    <tr>
+      <td style="padding:28px 32px 0 32px;">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td align="left" style="font-family:'Space Grotesk',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; font-size:22px; font-weight:700; letter-spacing:-0.5px; color:#1a1a1a;">
+              <span style="color:#4ecca3;">&#10023;</span>&nbsp;wonder<span style="color:#e94560;">:</span>bits
+            </td>
+            <!-- The archive copy of this very file. Worth having the first time a client mangles
+                 the HTML, and the link a teacher forwards to a colleague. -->
+            <td align="right" style="font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; font-size:11px; color:#6b7280;">
+              <a href="{{web_url}}" style="color:#6b7280; text-decoration:underline;">View in browser</a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- ══════════════════════════════ BODY START ══════════════════════════════ -->
+    <tr>
+      <td style="padding:20px 32px 8px 32px; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; font-size:15px; line-height:1.6; color:#333333;">
+
+        <p style="margin:0 0 16px 0;">Hi {{first_name}},</p>
+
+        <p style="margin:0 0 16px 0;">You've had WonderBits with students for a few weeks now. A quick check-in, and a few things that may help.</p>
+
+        <h2 style="margin:28px 0 8px 0; font-size:16px; font-weight:700; color:#1a1a1a;">How's it going?</h2>
+        <p style="margin:0 0 16px 0;">Hit reply and tell us — what's working, what's awkward, what your students say when they open it. Short answers are welcome.</p>
+
+        <h2 style="margin:28px 0 8px 0; font-size:16px; font-weight:700; color:#1a1a1a;">Telling us something is broken, or confusing</h2>
+        <p style="margin:0 0 12px 0;">In the app, click your name in the top-right corner, then <strong>Send feedback</strong>. Thirty seconds: pick a category, say what happened, say how much it got in your way.</p>
+        <p style="margin:0 0 8px 0;">Two things worth knowing:</p>
+        <ul style="margin:0 0 16px 0; padding-left:20px;">
+          <li style="margin-bottom:8px;">Your students see the same button. If something confuses a class, we want to hear it from the person who was confused.</li>
+          <li style="margin-bottom:8px;">It sends the page you were on and basic browser details. It does <strong>not</strong> send your canvas content — so please don't paste student work or names into the box.</li>
+        </ul>
+
+        <h2 style="margin:28px 0 8px 0; font-size:16px; font-weight:700; color:#1a1a1a;">Class Insights</h2>
+        <p style="margin:0 0 12px 0;">If you own or co-manage a space, the small bar-chart icon in the top toolbar opens <strong>Class Insights</strong> in a new tab, so you can keep your space open beside it.</p>
+        <p style="margin:0 0 12px 0;">It answers what's hard to eyeball on a canvas: who has been active this week, whose cards nobody has read, who is building on whom, whether ideas are being revised or only added. Set the period anywhere from 24 hours to all time.</p>
+        <p style="margin:0 0 16px 0;">On privacy: it shows how much students used the AI helpers and what topics came up across the class. It never shows what a student wrote to them.</p>
+
+        <h2 style="margin:28px 0 8px 0; font-size:16px; font-weight:700; color:#1a1a1a;">When the canvas gets busy</h2>
+        <p style="margin:0 0 12px 0;">A space that is working outgrows one screen. Three moves, easiest first:</p>
+        <ul style="margin:0 0 16px 0; padding-left:20px;">
+          <li style="margin-bottom:8px;"><a href="https://penn-wonderlab.github.io/projects/wonderbits/tutorials/part3-1-filters/" style="color:#6366f1; text-decoration:underline;">Filters</a> — narrow to what you need by type, tag, time, author, or what you haven't read yet. They stack.</li>
+          <li style="margin-bottom:8px;"><a href="https://penn-wonderlab.github.io/projects/wonderbits/tutorials/part3-3-views/" style="color:#6366f1; text-decoration:underline;">Views</a> — once a set of filters is useful, save it and reopen it next lesson instead of rebuilding it.</li>
+          <li style="margin-bottom:8px;"><a href="https://penn-wonderlab.github.io/projects/wonderbits/tutorials/part3-2-inspect/" style="color:#6366f1; text-decoration:underline;">Inspect</a> — read the same cards as an outline, a timeline, or a table. Good for marking, and it exports.</li>
+        </ul>
+        <p style="margin:0 0 16px 0;">When the <em>ideas</em> need organizing rather than the view: <a href="https://penn-wonderlab.github.io/projects/wonderbits/tutorials/part4-2-groups/" style="color:#6366f1; text-decoration:underline;">Groups</a> to gather related cards, <a href="https://penn-wonderlab.github.io/projects/wonderbits/tutorials/part4-3-rise-above/" style="color:#6366f1; text-decoration:underline;">Synthesize</a> to pull several into one higher-order card, and <a href="https://penn-wonderlab.github.io/projects/wonderbits/tutorials/part4-4-pages/" style="color:#6366f1; text-decoration:underline;">Pages</a> to give a unit or a group its own canvas.</p>
+
+        <h2 style="margin:28px 0 8px 0; font-size:16px; font-weight:700; color:#1a1a1a;">Two you may not have turned on</h2>
+        <p style="margin:0 0 16px 0;">In <strong>Space Settings &rarr; Canvas Features</strong>: <strong>Landmarks</strong> keeps your class's key ideas readable when you zoom out, and <strong>Quick add</strong> gives you a bar for typing many ideas in fast — useful for a whole-class brainstorm. Both are per-space, and both are off until you switch them on. <a href="https://penn-wonderlab.github.io/projects/wonderbits/tutorials/teacher-2-card-types-and-features/" style="color:#6366f1; text-decoration:underline;">Card types and features &rarr;</a></p>
+
+        <p style="margin:28px 0 4px 0;">Thanks for teaching with this while it is still growing. If there is one thing you would fix tomorrow, tell us and we will see what we can do.</p>
+        <p style="margin:0 0 8px 0;">— The WonderBits team</p>
+
+      </td>
+    </tr>
+    <!-- ═══════════════════════════════ BODY END ═══════════════════════════════ -->
+
+    <tr>
+      <td style="padding:0 32px;">
+        <div style="border-top:1px solid #e9ecef; font-size:1px; line-height:1px;">&nbsp;</div>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding:16px 32px 28px 32px; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; font-size:12px; line-height:1.5; color:#6b7280;">
+        WonderBits is built by the <a href="https://wonderlab.gse.upenn.edu/" style="color:#6b7280; text-decoration:underline;">Penn Wonder Lab</a>, University of Pennsylvania Graduate School of Education.<br>
+        {{lab_address}}<br><br>
+        You are receiving this because you use WonderBits with a class.
+        <a href="mailto:{{sender_email}}?subject=Unsubscribe" style="color:#6b7280; text-decoration:underline;">Unsubscribe</a>.
+      </td>
+    </tr>
+
+  </table>
+  <!--[if mso]></td></tr></table><![endif]-->
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
