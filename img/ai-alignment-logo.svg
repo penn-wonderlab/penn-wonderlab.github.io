@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- AI Alignment with Education: AI outputs (graphite bars) straighten as they
+       come into alignment with the ground of educational values (vermilion). -->
+  <g fill="#2B2E35">
+    <rect x="23.5" y="10" width="5" height="40" rx="2.5" transform="rotate(-30 26 50)"/>
+    <rect x="31.5" y="10" width="5" height="40" rx="2.5" transform="rotate(-19 34 50)"/>
+    <rect x="39.5" y="10" width="5" height="40" rx="2.5" transform="rotate(-10 42 50)"/>
+    <rect x="47.5" y="10" width="5" height="40" rx="2.5" transform="rotate(-4 50 50)"/>
+    <rect x="55.5" y="10" width="5" height="40" rx="2.5"/>
+  </g>
+  <rect x="4" y="54" width="56" height="4.5" rx="2.25" fill="#E4572E"/>
+</svg>

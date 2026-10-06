@@ -1,6 +1,6 @@
 ---
 title: "AI Alignment with Education"
-image: /img/ai-alignment.png
+image: /img/ai-alignment-logo.svg
 description: |
   Align generative AI tools with core values in education.
 layout: project
@@ -19,7 +19,7 @@ people:
 
 It is a common practice for generative AI (GenAI) models to go through "red teaming" and "alignment" processes before they are released to the public. But they -- the models and tools powered by these models -- can somehow escape such processes before they are deployed in educational settings. 
 
-<img src='/img/ai-alignment.png' width='200px' />
+<img src='/img/ai-alignment-logo.svg' width='140px' alt='AI Alignment with Education logo' />
 
 This research project aims to critically examine and advance how GenAI tools can uphold and promote fundamental educational values. These values, which include student agency, cultural inclusivity, and ethical engagement, are central to learning environments that empower all learners. By conducting both technological evaluations of existing GenAI tools and forward-looking design explorations, the project seeks to shape the next generation of AI-driven educational technologies.
 

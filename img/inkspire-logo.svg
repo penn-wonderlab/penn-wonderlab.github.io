@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <!-- InkSpire: a pen nib rising like a spire from lines of text; the vermilion
+       phrase is the instructor's scaffold anchored in the reading. -->
+  <defs>
+    <mask id="nib-cut">
+      <rect width="64" height="64" fill="#fff"/>
+      <path d="M32 9 V27" stroke="#000" stroke-width="1.6" stroke-linecap="round"/>
+      <circle cx="32" cy="29" r="2.6" fill="#000"/>
+    </mask>
+  </defs>
+  <path mask="url(#nib-cut)" fill="#1B2B4B"
+        d="M32 3 C33.6 9.5 43 16.5 43 27 V41 H21 V27 C21 16.5 30.4 9.5 32 3 Z"/>
+  <rect x="8"  y="46" width="48" height="4.5" rx="2.25" fill="#1B2B4B"/>
+  <rect x="8"  y="55" width="14" height="4.5" rx="2.25" fill="#1B2B4B"/>
+  <rect x="26" y="55" width="22" height="4.5" rx="2.25" fill="#E4572E"/>
+</svg>
