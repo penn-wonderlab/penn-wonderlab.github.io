@@ -7,7 +7,7 @@ nav_order: 9
 parent: "Part 3: Finding What Matters"
 ---
 
-Filters get you to the right set of ideas. Inspect is how you read that set closely: it gathers exactly what the bar describes into a panel below the canvas, laid out three different ways.
+Filters get you to the right set of ideas. Inspect is how you read that set closely: it gathers exactly what the bar describes into a panel below the canvas, laid out three different ways. Export downloads the set as Markdown or plain text, every card exactly as written; with Outline open, the file keeps the outline's levels, so a page comes out as question, claim, evidence.
 
 <video controls preload="metadata" poster="poster.jpg" width="100%" playsinline>
   <source src="clip.mp4" type="video/mp4">
